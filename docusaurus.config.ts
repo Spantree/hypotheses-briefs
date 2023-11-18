@@ -109,7 +109,7 @@ module.exports = {
             ],
           },
           {
-            title: "More",
+            title: "Resources",
             items: [
               {
                 label: "The Four Steps to the Ephiphany",
@@ -126,7 +126,7 @@ module.exports = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Spantree, LLC. Built with Docusaurus.`,
       },
       metadata: [
         {
