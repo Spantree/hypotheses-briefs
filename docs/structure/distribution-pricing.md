@@ -23,7 +23,7 @@ How will you create demand to drive them into the channel you have chosen, e.g.
 advertising, public relations, retail store promotions, PPC, spam, word of
 mouth, seminars, telemarketing, partners?
 
-## Document how your customers hear about new companies and products:
+## How Customers Hear About You
 
 1. Do they go to trade shows?
 1. What books/magazines/websites do they read or visit?

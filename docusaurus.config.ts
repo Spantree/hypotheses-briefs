@@ -69,19 +69,19 @@ module.exports = {
           },
           {
             type: "doc",
-            docId: "components/product",
+            docId: "structure/product",
             position: "left",
-            label: "Components",
+            label: "The Structure",
           },
           {
             type: "doc",
-            docId: "example-airbnb/introduction",
+            docId: "examples/airbnb/introduction",
             position: "left",
             label: "Airbnb Example",
           },
           {
             type: "doc",
-            docId: "example-foosoft/introduction",
+            docId: "examples/foosoft/introduction",
             position: "left",
             label: "Foosoft Example",
           },
@@ -108,13 +108,20 @@ module.exports = {
               },
             ],
           },
-
           {
             title: "More",
             items: [
               {
-                label: "GitHub",
-                href: "https://github.com/spantree/hypotheses-briefs",
+                label: "The Four Steps to the Ephiphany",
+                href: "https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507",
+              },
+              {
+                label: "Steve Blank",
+                href: "https://steveblank.com/",
+              },
+              {
+                label: "Google Design Sprints",
+                href: "http://www.gv.com/sprint/",
               },
             ],
           },
