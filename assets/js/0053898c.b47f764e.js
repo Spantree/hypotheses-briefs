@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhypotheses_briefs=self.webpackChunkhypotheses_briefs||[]).push([[3895],{4469:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);
