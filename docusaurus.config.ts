@@ -7,8 +7,8 @@ const darkCodeTheme = themes.github;
 module.exports = {
   title: "Hypotheses Briefs",
   tagline: "Charting the Course of Customer Discovery",
-  url: "https://spantree.github.io",
-  baseUrl: "/hypotheses-briefs/",
+  url: "https://hypotheses-briefs.span.land",
+  baseUrl: "/",
   projectName: "hypotheses-briefs",
   organizationName: "Spantree",
   trailingSlash: false,
