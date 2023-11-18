@@ -7,13 +7,14 @@ const darkCodeTheme = themes.github;
 module.exports = {
   title: "Hypotheses Briefs",
   tagline: "Charting the Course of Customer Discovery",
-  url: "https://spantree.net",
+  url: "https://hypotheses-briefs.github.io/", // Your website URL
   baseUrl: "/",
+  projectName: "hypotheses-briefs",
+  organizationName: "Spantree",
+  trailingSlash: false,
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-  organizationName: "spantree", // Usually your GitHub org/user name.
-  projectName: "hypotheses-briefs", // Usually your repo name.
 
   presets: [
     [
