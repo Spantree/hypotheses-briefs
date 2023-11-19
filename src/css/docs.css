@@ -22,7 +22,7 @@
 }
 
 .theme-doc-markdown h3 {
-  @apply text-lg text-gray-700 py-0 my-4 mt-5;
+  @apply text-lg text-gray-700 py-0 my-4 mt-5 italic;
 }
 
 [data-theme='dark'] .theme-doc-markdown h3 {
@@ -37,13 +37,26 @@
   @apply text-gray-200;
 }
 
+.theme-doc-markdown a {
+  @apply font-bold underline hover:text-gray-800;
+}
+
+[data-theme='dark'] .theme-doc-markdown a {
+  @apply font-bold underline hover:text-indigo-400;
+}
+
 .theme-doc-markdown ol,
 ul {
-  @apply text-gray-700 text-base pl-5 mt-4 list-outside list-decimal;
+  @apply text-gray-500 text-base pl-5 mt-4 list-decimal md:list-decimal md:list-outside;
+}
+
+[data-theme='dark'] .theme-doc-markdown ol,
+ul {
+  @apply text-gray-400;
 }
 
 .theme-doc-markdown li {
-  @apply pl-5 py-1;
+  @apply pl-1 py-2 md:pl-5 md:py-1;
 }
 
 .theme-doc-breadcrumbs {

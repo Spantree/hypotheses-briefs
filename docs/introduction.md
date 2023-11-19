@@ -5,60 +5,26 @@ sidebar_position: 1
 
 # Hypotheses Briefs
 
-These exercises are adapted from Steve Blank's seminal work, [The Four Steps to
-the
-Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/0976470705).
-Steve Blank, often considered one of the key thought leaders in entrepreneurial
-innovation, has significantly contributed to the conceptual framework of the
-Lean Startup methodology. His extensive experience as a founder and investor has
-shaped modern approaches to building successful startups.
+Welcome to [Spantree's](https://spantree.net) guide to Hypotheses Briefs. Drawing from Steve Blank's pivotal [The Four Steps to the Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/0976470705), Hypotheses Briefs serve as the first brushstrokes on a canvas – vital for envisioning the full picture before delving into the details of company or product development. They resonate with our core value of "solving hard problems scientifically." By approaching business challenges with the rigor of the scientific method, this guide aims to equip teams with the ability to make substantiated, data-driven decisions.
 
-The **Hypotheses Briefs** are an integral component of the Customer Discovery
-phase, which Blank posits as the first step in his Customer Development model.
-This model has become a cornerstone for Lean Startups, which emphasizes the
-importance of agility and user feedback in developing products that meet market
-needs. The approach encourages entrepreneurs to validate their business
-assumptions through rigorous testing, iteration, and pivoting when necessary.
+## Embracing the Scientific Approach in Business
 
-## Role of Hypotheses Briefs
+At Spantree, we believe that the scientific method isn't just for labs; it's a powerful framework for all sorts of innovation. Whether developing new products, providing services, or optimizing operations, crafting Hypotheses Briefs allows teams to propose, test, and refine ideas systematically. Validation through real-world feedback is not just a step; it's the path to genuine insights.
 
-The creation of hypotheses briefs is fundamentally tied to the Lean Startup's
-principles, predominantly the Build-Measure-Learn feedback loop. By documenting
-initial assumptions, startup teams begin a process of exploration that
-ultimately aims to answer the critical question: "Should this product be built?"
-More importantly, it helps them discern whether their solution effectively
-addresses real customer problems and aligns with their needs.
+## Criteria for Crafting Hypotheses Briefs
 
-### Product Validation
+Hypotheses Briefs start with a hypothesis, much like a scientific experiment. What does your organization believe is true about the product or service? These briefs channel that hypothesis through a process of testing and learning which features click, which benefits resonate, and what unique value propositions can separate you from the crowd.
 
-Hypotheses briefs align closely with product validation practices. Once the
-hypotheses are defined, they can be further refined and tested through exercises
-like [design sprints](http://www.gv.com/sprint/) — a five-day process for
-answering critical business questions through designing, prototyping, and
-testing ideas with customers. These sprints leverage hypotheses briefs to focus
-the team’s efforts and form a clear testable pathway for the week's activities.
+## The Art and Science of Pricing and Delivery
 
-### Market Validation
+The briefs probe deeper than just product-market fit; they also consider how a product or service is delivered and priced. Understanding the cost not only in monetary terms but also in terms of customer effort and adaptation is vital. This ensures that solutions are accessible, desirable, and viable.
 
-The hypotheses briefs' importance cannot be overstated. They are an essential
-roadmap guiding entrepreneurs through the uncertain journey of bringing a new
-product to market. They encourage disciplined experimentation and a
-customer-centric development process that has been widely acclaimed for its
-effectiveness in minimizing waste and optimizing product-market fit.
+## Market and Competitive Landcape
 
-### Feedback Mechanisms
+Moreover, these briefs encourage a forward-thinking analysis of market dynamics and an acute awareness of market you're entering. Assessing how a novel offering stacks up against direct or indirect competitors also teaches the fine skill of predictive adjustments based on market responses.
 
-These articulated assumptions will serve as the backbone for market validation
-exercises like customer interviews, allowing teams to confront their ideas with
-real-world insights. Whether questions are confirmed or invalidated, the
-learning derived from these interactions is invaluable, informing the necessary
-iterations to the hypotheses and leading to closer alignment with the market's
-needs.
+## The Spantree Way – Solving for Everyone
 
-Ultimately, Steve Blank's approach to hypotheses and the structured methods he
-advocates for — detailed in _The Four Steps to the Epiphany_ — are more than
-academic exercises. They are practical tools that have reshaped how modern
-startups are developed, grown, and scaled. They embody a culture where listening
-to the customer, learning from the market, and responding with agility is not
-just recommended but necessary for the success and survival in the ever-changing
-market landscape.
+As a guiding principle, Hypotheses Briefs are accessible for all types of businesses – be it a company seeking to create the [next home-sharing revolution](examples/airbnb/introduction.md) or a services firm aiming to [craft bespoke software](examples/foosoft/introduction.md) that propels other businesses forward.
+
+In a spirit of knowledge sharing, this guide intends to be a trove of strategies and actionable steps for any organization to apply, broadening the impact of the scientific approach to solving hard problems across the business landscape.

@@ -35,9 +35,13 @@
 }
 
 @media (max-width: 996px) {
-  /* or whatever your mobile breakpoint is */
-  .navbar__item,
-  .navbar__title {
+  .navbar__item {
+    display: none;
+  }
+}
+
+@media (max-width: 414px) {
+  .navbar__logo {
     display: none;
   }
 }

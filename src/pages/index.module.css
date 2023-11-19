@@ -1,8 +1,3 @@
-/**
- * CSS files with the .module.css suffix will be treated as CSS modules
- * and scoped locally.
- */
-
 .heroBanner {
   @apply mx-auto pb-24 pt-10 px-3 sm:pb-32 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:px-8 lg:py-40 w-full h-full bg-slate-50;
 }
@@ -12,7 +7,7 @@ p {
 }
 
 .hero__title {
-  @apply leading-10 pb-8;
+  @apply font-extrabold text-4xl pb-8;
 }
 
 .hero__subtitle {
@@ -41,4 +36,8 @@ p {
 
 [data-theme='dark'] .hero--primary {
   background-color: #0f172a;
+}
+
+h1 {
+  @apply text-4xl leading-none;
 }

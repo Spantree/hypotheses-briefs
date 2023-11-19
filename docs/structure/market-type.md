@@ -14,8 +14,8 @@ creating a new market?
 1. What is the market share of each of the competitors?
 1. What is the total marketing and sales dollars the market share leaders will
    be spending to compete with you?
-1. Do you understand the cost of entry against incumbents? # What performance
-   attributes have customers told you are important?
+1. Do you understand the cost of entry against incumbents?
+1. What performance attributes have customers told you are important?
 1. How do competitors define performance?
 1. What percentage of this market do you want to capture in years one through
    three?
