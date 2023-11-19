@@ -4,35 +4,41 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  @apply mx-auto pb-24 pt-10 px-3 sm:pb-32 lg:grid lg:grid-cols-2 lg:gap-x-8 lg:px-8 lg:py-40 w-full h-full bg-slate-50;
 }
 
-.heroBanner .container {
-  flex-grow: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+p {
+  @apply mt-6 text-lg leading-8 text-gray-600;
 }
 
-/* .hero__title,
+.hero__title {
+  @apply leading-10 pb-8;
+}
+
 .hero__subtitle {
-  color: #f8fafc;
-} */
+  @apply leading-10;
+}
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
+[data-theme="dark"] .heroBanner {
+  @apply bg-gradient-to-r from-slate-900 to-slate-800;
+}
+
+.hero.hero--primary {
+  @apply h-full pb-0 mb-0;
+}
+
+.hero .container {
+  @apply h-full my-0;
 }
 
 .buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  @apply mt-10 flex items-center gap-x-6;
+}
+
+[data-theme="dark"] .hero__subtitle {
+  color: var(--ifm-font-color-base);
+}
+
+[data-theme="dark"] .hero--primary {
+  background-color: #0f172a;
 }

@@ -55,23 +55,24 @@ module.exports = {
       },
       navbar: {
         // title: 'Spantree Docs',
+        title: "Hypotheses Briefs",
         logo: {
           alt: "Spantree Logo",
-          src: "img/logos/spantree-long-black-on-white.svg",
-          srcDark: "img/logos/spantree-long-white-609.svg",
+          src: "img/logos/spantree-long-gray-800.svg",
+          srcDark: "img/logos/spantree-long-gray-50.svg",
         },
         items: [
           {
             type: "doc",
             docId: "introduction",
             position: "left",
-            label: "Hypotheses Briefs",
+            label: "Introduction",
           },
           {
             type: "doc",
             docId: "structure/product",
             position: "left",
-            label: "The Structure",
+            label: "Structure",
           },
           {
             type: "doc",
@@ -95,36 +96,36 @@ module.exports = {
       footer: {
         style: "dark",
         links: [
-          {
-            title: "Community",
-            items: [
-              {
-                label: "Github",
-                href: "https://github.com/Spantree",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/spantreellc",
-              },
-            ],
-          },
-          {
-            title: "Resources",
-            items: [
-              {
-                label: "The Four Steps to the Ephiphany",
-                href: "https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507",
-              },
-              {
-                label: "Steve Blank",
-                href: "https://steveblank.com/",
-              },
-              {
-                label: "Google Design Sprints",
-                href: "http://www.gv.com/sprint/",
-              },
-            ],
-          },
+          // {
+          //   title: "Community",
+          //   items: [
+          //     {
+          //       label: "Github",
+          //       href: "https://github.com/Spantree",
+          //     },
+          //     {
+          //       label: "Twitter",
+          //       href: "https://twitter.com/spantreellc",
+          //     },
+          //   ],
+          // },
+          // {
+          //   title: "Resources",
+          //   items: [
+          //     {
+          //       label: "The Four Steps to the Ephiphany",
+          //       href: "https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507",
+          //     },
+          //     {
+          //       label: "Steve Blank",
+          //       href: "https://steveblank.com/",
+          //     },
+          //     {
+          //       label: "Google Design Sprints",
+          //       href: "http://www.gv.com/sprint/",
+          //     },
+          //   ],
+          // },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Spantree, LLC. Built with Docusaurus.`,
       },

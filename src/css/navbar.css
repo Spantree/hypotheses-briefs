@@ -1,0 +1,43 @@
+@import "./tailwind.css";
+
+.navbar__item {
+  @apply flex items-center content-center h-full font-normal;
+}
+
+[data-theme="dark"] .navbar__item {
+  @apply text-gray-100;
+}
+
+.navbar__brand {
+  height: 16px;
+  @apply py-0 my-0 content-center;
+}
+
+.navbar__logo {
+  @apply flex items-center h-full;
+}
+
+.navbar__logo img {
+  max-height: 14px;
+}
+
+.navbar__title {
+  @apply font-bold ml-4 text-indigo-700;
+}
+
+[data-theme="dark"] .navbar__title {
+  @apply font-bold ml-4 text-white;
+}
+
+.navbar__toggle svg {
+  max-height: 20px;
+  /* @apply: max-w-0.5; */
+}
+
+@media (max-width: 996px) {
+  /* or whatever your mobile breakpoint is */
+  .navbar__item,
+  .navbar__title {
+    display: none;
+  }
+}
