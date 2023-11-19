@@ -21,9 +21,7 @@ matters to them. Summarize not only what the customer's problem, but what the
 organizational impact of the problem is in terms of the different types of pain
 it causes at various levels of the company/family/consumer. Capture answers to
 the question “If they could wave a magic wand and change anything at all, what
-would it be?”
-
-Categorize problems as follows:
+would it be?” Categorize problems as follows:
 
 ### Latent Need
 
