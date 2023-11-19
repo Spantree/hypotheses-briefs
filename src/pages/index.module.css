@@ -19,7 +19,7 @@ p {
   @apply leading-10;
 }
 
-[data-theme="dark"] .heroBanner {
+[data-theme='dark'] .heroBanner {
   @apply bg-gradient-to-r from-slate-900 to-slate-800;
 }
 
@@ -35,10 +35,10 @@ p {
   @apply mt-10 flex items-center gap-x-6;
 }
 
-[data-theme="dark"] .hero__subtitle {
+[data-theme='dark'] .hero__subtitle {
   color: var(--ifm-font-color-base);
 }
 
-[data-theme="dark"] .hero--primary {
+[data-theme='dark'] .hero--primary {
   background-color: #0f172a;
 }

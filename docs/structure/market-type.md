@@ -8,7 +8,7 @@ sidebar_position: 4
 Is your company entering an existing market, resegmenting an existing market or
 creating a new market?
 
-# Entering an Existing Market
+## Entering an Existing Market
 
 1. Who are the competitors and who is driving the market?
 1. What is the market share of each of the competitors?

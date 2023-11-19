@@ -1,4 +1,4 @@
-@import "tailwind.css";
+@import 'tailwind.css';
 
 .footer__link-item {
   @apply flex items-center;

@@ -1,10 +1,10 @@
-@import "./tailwind.css";
+@import './tailwind.css';
 
 .navbar__item {
   @apply flex items-center content-center h-full font-normal;
 }
 
-[data-theme="dark"] .navbar__item {
+[data-theme='dark'] .navbar__item {
   @apply text-gray-100;
 }
 
@@ -25,7 +25,7 @@
   @apply font-bold ml-4 text-indigo-700;
 }
 
-[data-theme="dark"] .navbar__title {
+[data-theme='dark'] .navbar__title {
   @apply font-bold ml-4 text-white;
 }
 

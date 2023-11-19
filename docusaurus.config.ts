@@ -1,34 +1,35 @@
-const { themes } = require("prism-react-renderer");
-const lightCodeTheme = themes.github;
-const darkCodeTheme = themes.github;
+const { themes } = require('prism-react-renderer')
+
+const lightCodeTheme = themes.github
+const darkCodeTheme = themes.github
 
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "Hypotheses Briefs",
-  tagline: "Charting the Course of Customer Discovery",
-  url: "https://hypotheses-briefs.span.land",
-  baseUrl: "/",
-  projectName: "hypotheses-briefs",
-  organizationName: "Spantree",
+  title: 'Hypotheses Briefs',
+  tagline: 'Charting the Course of Customer Discovery',
+  url: 'https://hypotheses-briefs.span.land',
+  baseUrl: '/',
+  projectName: 'hypotheses-briefs',
+  organizationName: 'Spantree',
   trailingSlash: false,
-  onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/favicon.ico',
 
   presets: [
     [
-      "@docusaurus/preset-classic",
+      '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       {
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            "https://github.com/spantree/hypotheses-briefs/edit/main/website/",
+            'https://github.com/spantree/hypotheses-briefs/edit/main/website/',
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+          customCss: require.resolve('./src/css/custom.css'),
         },
       },
     ],
@@ -36,14 +37,14 @@ module.exports = {
   plugins: [
     async function tailwind(context, options) {
       return {
-        name: "docusaurus-tailwindcss",
+        name: 'docusaurus-tailwindcss',
         configurePostCss(postcssOptions) {
           // Appends TailwindCSS and AutoPrefixer.
-          postcssOptions.plugins.push(require("tailwindcss"));
-          postcssOptions.plugins.push(require("autoprefixer"));
-          return postcssOptions;
+          postcssOptions.plugins.push(require('tailwindcss'))
+          postcssOptions.plugins.push(require('autoprefixer'))
+          return postcssOptions
         },
-      };
+      }
     },
   ],
 
@@ -51,50 +52,50 @@ module.exports = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     {
       colorMode: {
-        defaultMode: "dark",
+        defaultMode: 'dark',
       },
       navbar: {
         // title: 'Spantree Docs',
-        title: "Hypotheses Briefs",
+        title: 'Hypotheses Briefs',
         logo: {
-          alt: "Spantree Logo",
-          src: "img/logos/spantree-long-gray-800.svg",
-          srcDark: "img/logos/spantree-long-gray-50.svg",
+          alt: 'Spantree Logo',
+          src: 'img/logos/spantree-long-gray-800.svg',
+          srcDark: 'img/logos/spantree-long-gray-50.svg',
         },
         items: [
           {
-            type: "doc",
-            docId: "introduction",
-            position: "left",
-            label: "Introduction",
+            type: 'doc',
+            docId: 'introduction',
+            position: 'left',
+            label: 'Introduction',
           },
           {
-            type: "doc",
-            docId: "structure/product",
-            position: "left",
-            label: "Structure",
+            type: 'doc',
+            docId: 'structure/product',
+            position: 'left',
+            label: 'Structure',
           },
           {
-            type: "doc",
-            docId: "examples/airbnb/introduction",
-            position: "left",
-            label: "Airbnb Example",
+            type: 'doc',
+            docId: 'examples/airbnb/introduction',
+            position: 'left',
+            label: 'Airbnb Example',
           },
           {
-            type: "doc",
-            docId: "examples/foosoft/introduction",
-            position: "left",
-            label: "Foosoft Example",
+            type: 'doc',
+            docId: 'examples/foosoft/introduction',
+            position: 'left',
+            label: 'Foosoft Example',
           },
           {
-            href: "https://github.com/spantree/hypotheses-briefs",
-            label: "GitHub",
-            position: "right",
+            href: 'https://github.com/spantree/hypotheses-briefs',
+            label: 'GitHub',
+            position: 'right',
           },
         ],
       },
       footer: {
-        style: "dark",
+        style: 'dark',
         links: [
           // {
           //   title: "Community",
@@ -131,11 +132,11 @@ module.exports = {
       },
       metadata: [
         {
-          name: "font-inter",
+          name: 'font-inter',
           content: `https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap`,
-          tagName: "link",
+          tagName: 'link',
           attributes: {
-            rel: "stylesheet",
+            rel: 'stylesheet',
           },
         },
       ],
@@ -144,4 +145,4 @@ module.exports = {
         darkTheme: darkCodeTheme,
       },
     },
-};
+}

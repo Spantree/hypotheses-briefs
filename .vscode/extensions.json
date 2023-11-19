@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "csstools.postcss",
+    "esbenp.prettier-vscode",
+    "vstirbu.vscode-mermaid-preview",
+    "stkb.rewrap",
+    "bradlc.vscode-tailwindcss",
+    "unifiedjs.vscode-mdx"
+  ]
+}

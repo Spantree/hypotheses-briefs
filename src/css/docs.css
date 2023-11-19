@@ -1,4 +1,4 @@
-@import "./tailwind.css";
+@import './tailwind.css';
 
 .theme-doc-markdown {
   max-width: 768px;
@@ -9,7 +9,7 @@
   @apply text-4xl text-gray-900;
 }
 
-[data-theme="dark"] .theme-doc-markdown h1 {
+[data-theme='dark'] .theme-doc-markdown h1 {
   @apply text-white;
 }
 
@@ -17,7 +17,7 @@
   @apply text-2xl pb-0 text-gray-800 my-4 mt-5;
 }
 
-[data-theme="dark"] .theme-doc-markdown h2 {
+[data-theme='dark'] .theme-doc-markdown h2 {
   @apply text-gray-100;
 }
 
@@ -25,7 +25,7 @@
   @apply text-lg text-gray-700 py-0 my-4 mt-5;
 }
 
-[data-theme="dark"] .theme-doc-markdown h3 {
+[data-theme='dark'] .theme-doc-markdown h3 {
   @apply text-gray-200;
 }
 
@@ -33,7 +33,7 @@
   @apply text-gray-600 text-base leading-7 mt-2 mb-4;
 }
 
-[data-theme="dark"] .theme-doc-markdown p {
+[data-theme='dark'] .theme-doc-markdown p {
   @apply text-gray-200;
 }
 
@@ -50,7 +50,7 @@ ul {
   @apply lg:pl-8;
 }
 
-[data-theme="dark"]
+[data-theme='dark']
   .theme-doc-breadcrumbs
   .breadcrumbs__item--active
   .breadcrumbs__link {
@@ -74,13 +74,13 @@ ul {
   @apply font-bold;
 }
 
-[data-theme="dark"]
+[data-theme='dark']
   .theme-doc-sidebar-menu
   .menu__link--active:not(.menu__link--sublist) {
   @apply text-white bg-indigo-950;
 }
 
-[data-theme="dark"]
+[data-theme='dark']
   .theme-doc-sidebar-menu
   .menu__link--active.menu__link--sublist {
   @apply text-indigo-500 bg-gray-900;
@@ -90,6 +90,6 @@ ul {
   @apply flex content-center items-center;
 }
 
-[data-theme="dark"] .theme-edit-this-page--hover {
+[data-theme='dark'] .theme-edit-this-page--hover {
   @apply text-gray-200;
 }
