@@ -40,7 +40,7 @@ and an acute awareness of market you're entering. Assessing how a novel offering
 stacks up against direct or indirect competitors also teaches the fine skill of
 predictive adjustments based on market responses.
 
-## The Spantree Way – Solving for Everyone
+## Solving for Everyone
 
 As a guiding principle, Hypotheses Briefs are accessible for all types of
 businesses – be it a company seeking to create the [next home-sharing
