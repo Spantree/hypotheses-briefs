@@ -71,15 +71,9 @@ module.exports = {
           },
           {
             type: 'doc',
-            docId: 'examples/airshare/index',
+            docId: 'examples/index',
             position: 'left',
-            label: 'Airbnb Example',
-          },
-          {
-            type: 'doc',
-            docId: 'examples/foosoft/index',
-            position: 'left',
-            label: 'Foosoft Example',
+            label: 'Examples',
           },
           {
             href: 'https://github.com/spantree/hypotheses-briefs',
@@ -92,32 +86,32 @@ module.exports = {
         style: 'dark',
         links: [
           // {
-          //   title: "Community",
+          //   title: 'Community',
           //   items: [
           //     {
-          //       label: "Github",
-          //       href: "https://github.com/Spantree",
+          //       label: 'Github',
+          //       href: 'https://github.com/Spantree',
           //     },
           //     {
-          //       label: "Twitter",
-          //       href: "https://twitter.com/spantreellc",
+          //       label: 'Twitter',
+          //       href: 'https://twitter.com/spantreellc',
           //     },
           //   ],
           // },
           // {
-          //   title: "Resources",
+          //   title: 'Resources',
           //   items: [
           //     {
-          //       label: "The Four Steps to the Ephiphany",
-          //       href: "https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507",
+          //       label: 'The Four Steps to the Ephiphany',
+          //       href: 'https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507',
           //     },
           //     {
-          //       label: "Steve Blank",
-          //       href: "https://steveblank.com/",
+          //       label: 'Steve Blank',
+          //       href: 'https://steveblank.com/',
           //     },
           //     {
-          //       label: "Google Design Sprints",
-          //       href: "http://www.gv.com/sprint/",
+          //       label: 'Google Design Sprints',
+          //       href: 'http://www.gv.com/sprint/',
           //     },
           //   ],
           // },
