@@ -1,8 +1,3 @@
----
-title: Introduction
-sidebar_position: 1
----
-
 # Hypotheses Briefs
 
 Welcome to [Spantree's](https://spantree.net) guide to Hypotheses Briefs. Drawing from Steve Blank's pivotal [The Four Steps to the Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Successful-Strategies/dp/0976470705), Hypotheses Briefs serve as the first brushstrokes on a canvas – vital for envisioning the full picture before delving into the details of company or product development. They resonate with our core value of "solving hard problems scientifically." By approaching business challenges with the rigor of the scientific method, this guide aims to equip teams with the ability to make substantiated, data-driven decisions.

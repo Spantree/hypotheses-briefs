@@ -65,25 +65,19 @@ module.exports = {
         items: [
           {
             type: 'doc',
-            docId: 'introduction',
+            docId: 'hypotheses-briefs/index',
             position: 'left',
-            label: 'Introduction',
+            label: 'About',
           },
           {
             type: 'doc',
-            docId: 'structure/product',
-            position: 'left',
-            label: 'Structure',
-          },
-          {
-            type: 'doc',
-            docId: 'examples/airbnb/introduction',
+            docId: 'examples/airshare/index',
             position: 'left',
             label: 'Airbnb Example',
           },
           {
             type: 'doc',
-            docId: 'examples/foosoft/introduction',
+            docId: 'examples/foosoft/index',
             position: 'left',
             label: 'Foosoft Example',
           },

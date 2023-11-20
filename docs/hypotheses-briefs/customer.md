@@ -1,9 +1,9 @@
 ---
-title: Customer & Problem
+title: Customer
 sidebar_position: 2
 ---
 
-# Customer and Problem Hypotheses
+# Customer Hypotheses
 
 This crucial exploration sets the stage for innovation by mapping out who will
 benefit from the new developments and the specific challenges they face. This
