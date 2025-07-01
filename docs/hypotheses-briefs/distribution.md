@@ -1,9 +1,9 @@
 ---
-title: Distribution & Pricing
+title: Distribution
 sidebar_position: 3
 ---
 
-# Distribution
+# Distribution Hypotheses
 
 The right distribution and pricing strategies are as critical to success as the
 solution itself. They ensure that your offering reaches the right people in the
