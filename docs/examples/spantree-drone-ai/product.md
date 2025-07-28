@@ -108,6 +108,22 @@ Large facilities often exceed the coverage capabilities of a single drone, requi
 
 The coordination system handles complex operational scenarios including handoffs between drones as batteries deplete, dynamic re-tasking based on discovered priorities, failover protocols when drones experience issues, and weather-based adaptation of flight plans. The result scales linearly with fleet size, enabling coverage of facilities ranging from 50 to 5,000 acres.
 
+### Domain Specificity: Tailored Solutions for Every Industry
+
+While our core technology stack remains consistent, the application layer adapts dramatically to address industry-specific challenges and opportunities. This domain specificity transforms generic drone capabilities into targeted business solutions that speak the language of each vertical market.
+
+**Rail and Intermodal Logistics** applications leverage our deep understanding of rail car management complexities. Custom AI models distinguish between hundreds of car types, from tank cars to auto racks to intermodal well cars. OCR capabilities read reporting marks and car numbers from oblique angles. Integration with rail industry systems like Railinc and individual railroad APIs ensures seamless data flow. Business logic understands dwell time fees, interchange agreements, and maintenance cycles unique to rail operations. The result transforms yards from static storage to dynamic optimization engines.
+
+**Port and Maritime Operations** address the unique challenges of container terminals and vessel operations. Specialized models identify container types, ISO codes, and hazmat placards. Stacking height analysis prevents dangerous over-stacking while maximizing yard density. Integration with Terminal Operating Systems (TOS) provides real-time visibility across the entire port ecosystem. Vessel loading optimization reduces turn times while maintaining stability requirements. Customs compliance features track container movements for regulatory reporting.
+
+**Manufacturing and Automotive** facilities require precision tracking of work-in-process inventory and finished goods. Custom models identify specific vehicle makes, models, and option packages. Damage detection algorithms spot hail damage, door dings, and paint defects requiring rework. Integration with Manufacturing Execution Systems (MES) tracks vehicles through production stages. Lot release optimization ensures first-in-first-out processing while accommodating priority orders. Quality control documentation captures vehicle condition at each stage.
+
+**Energy and Utilities** infrastructure monitoring extends beyond simple inspection to predictive maintenance. Specialized models detect insulator degradation, vegetation encroachment, and structural anomalies. Thermal imaging integration identifies hot spots indicating equipment stress. Integration with Asset Performance Management (APM) systems triggers maintenance workflows. Regulatory compliance features document inspection completeness for audit requirements. Storm damage assessment accelerates recovery operations.
+
+**Agriculture and Mining** operations leverage volumetric analysis and material classification capabilities. Stockpile measurement algorithms calculate volumes with survey-grade accuracy. Material classification distinguishes ore grades, crop types, and quality indicators. Integration with commodity trading systems enables real-time inventory valuation. Environmental monitoring tracks dust generation and water runoff. Operational optimization suggests equipment routing to minimize fuel consumption.
+
+This domain specificity creates competitive moats in each vertical market. Deep industry knowledge accumulated through deployments becomes embedded in our models and workflows. Customer success in one vertical creates references that accelerate sales to competitors. Industry-specific features developed for one client benefit all clients in that vertical. The result is a virtuous cycle where vertical expertise compounds over time.
+
 ### Professional Services Wrapper: Technology Enabled by Expertise
 
 <!-- TODO: Develop service level agreements and support tiers -->
