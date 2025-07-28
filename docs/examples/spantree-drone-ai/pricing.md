@@ -16,6 +16,16 @@ Our pricing strategy reflects Trifork's commitment to delivering exceptional val
 
 The philosophy acknowledges that in enterprise technology services, the lowest price rarely wins. Instead, sophisticated buyers evaluate total cost of ownership, risk mitigation, and strategic value creation. Our pricing must communicate confidence in our solution's ability to deliver promised outcomes while providing flexibility to address diverse customer situations. The goal is not to be the cheapest option but to be the obvious choice for enterprises serious about transforming their operations through drone technology.
 
+## Hybrid Product and Services Model: Balancing Scale with Customization
+
+Our pricing strategy reflects a sophisticated hybrid approach that productizes core capabilities while maintaining professional services for customer-specific value creation. This model addresses the market reality that no two enterprise deployments are identical, yet common patterns enable standardization of foundational components.
+
+**Productized Components** provide economies of scale and predictable delivery. The base technology stack including drone control, image capture, and processing pipelines remains consistent across deployments. Standard AI models for common asset types (vehicles, containers, equipment) eliminate redundant development. Core visualization dashboards and reporting tools provide immediate value without customization. Integration frameworks for major enterprise systems reduce implementation time. These productized elements typically represent 40-50% of solution value while enabling rapid deployment and consistent quality.
+
+**Professional Services Layers** address the unique aspects of each customer's operations. Custom AI model training for specialized assets ensures accurate detection of customer-specific equipment. Business process integration adapts our solution to existing workflows rather than forcing process changes. Site-specific optimization accounts for unique layouts, operational patterns, and constraints. Industry-specific analytics address vertical market requirements. Change management programs ensure successful adoption within each organization's culture. These services typically represent 50-60% of initial project value while creating sustainable differentiation.
+
+The hybrid model creates multiple advantages over pure product or pure services approaches. Faster time-to-value through pre-built components accelerates ROI realization. Lower total costs compared to fully custom development make solutions accessible to more enterprises. Higher quality through proven, tested components reduces implementation risk. Flexibility to address unique requirements ensures solution fit. Scalable growth model balances resource requirements with revenue potential.
+
 ## Pricing Model Architecture: Three Tiers of Value Creation
 
 ### The Foundation Layer: Technology Infrastructure
