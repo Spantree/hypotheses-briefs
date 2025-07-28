@@ -12,6 +12,7 @@ Market type hypotheses in the hypothesis brief framework determine fundamental g
 ## Market Classification: A Hybrid Opportunity
 
 <!-- TODO: Validate market classification through customer interviews -->
+<!-- Reference: See Wardley map positioning at _context/discussions/20250728_drone-gtm-discussion/gatx-dty-wardley-map.png -->
 We are entering a **Resegmented Market** with characteristics of an **Early Growth Market**. The drone services industry exists with established players and proven use cases, but we're creating a new segment focused specifically on enterprise inventory management delivered through comprehensive professional services. This positioning distinguishes us from platform-only providers and consumer-focused drone companies while leveraging the market education already accomplished by early pioneers.
 
 The hybrid nature of our market opportunity creates unique advantages. Unlike pure new market creation, we don't need to educate customers that drones can provide value—companies like DJI and DroneDeploy have already accomplished this missionary work. However, unlike entering a purely existing market, we're not competing head-to-head on established criteria. Instead, we're redefining what enterprise drone services mean by emphasizing outcomes over technology, partnership over platform, and transformation over transactions.

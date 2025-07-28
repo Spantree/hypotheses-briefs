@@ -21,6 +21,7 @@ The sophistication of modern autonomous systems extends far beyond simple waypoi
 ### Full-Stack Technology Architecture: Six Layers of Value Creation
 
 <!-- TODO: Create visual diagram of 6-layer stack -->
+<!-- Reference: See value chain diagram at _context/discussions/20250728_drone-gtm-discussion/value-chain.png -->
 Our comprehensive technology stack represents an unprecedented integration of capabilities that transforms raw aerial data into actionable business intelligence. This six-layer architecture, refined through real-world deployments, provides the foundation for our full-stack advantage in the market.
 
 **Layer 1: Hardware Foundation**
