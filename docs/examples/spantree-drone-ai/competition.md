@@ -88,6 +88,16 @@ The most significant competition comes not from other drone companies but from t
 
 Overcoming status quo bias requires more than superior technology. We must address the organizational change management, demonstrate rapid incremental value, provide overwhelming evidence of ROI, create bridges from current to future state, and acknowledge and respect existing investments while showing enhancement opportunities.
 
+### Indirect Competition: The Fragmented Landscape
+
+Beyond direct competitors offering similar solutions, we face competition from fragmented providers addressing pieces of the problem without comprehensive integration.
+
+**Drone Operators Without Software Expertise** represent a large category of service providers who excel at flight operations but lack the capability to transform data into business value. Companies focused on agricultural spraying, infrastructure inspection, or aerial photography often attempt to expand into inventory management. However, their lack of software engineering expertise, AI capabilities, and enterprise integration experience limits them to basic counting services. These operators often become potential partners rather than competitors, as they seek software platforms to enhance their service offerings.
+
+**Software Companies Without Operational Expertise** approach from the opposite direction, building analytics platforms without understanding the realities of industrial drone deployment. Computer vision startups may offer impressive AI capabilities but struggle with the practicalities of autonomous flight operations, regulatory compliance, and harsh industrial environments. Their solutions often require customers to handle the complex operational aspects, limiting adoption to the most sophisticated enterprises with internal drone expertise.
+
+**Systems Integrators Using Drones** represent another indirect competitor category. Traditional IT consultancies may propose drone solutions as part of broader digital transformation initiatives. While they bring enterprise relationships and integration expertise, they typically lack both drone operational knowledge and specialized AI capabilities. Their approach often involves cobbling together multiple vendor solutions, creating integration complexity and finger-pointing when issues arise.
+
 ### Alternative Technologies: The Emerging Threats
 
 Fixed camera systems represent a technical alternative that appeals to enterprises seeking inventory visibility. While lacking the flexibility and coverage of drones, they offer perceived simplicity and avoid aviation regulations. However, the installation costs, blind spots, and inability to read labels at distance limit their effectiveness. Our strategy positions drones as complementary to fixed cameras, with each technology optimal for different use cases.
