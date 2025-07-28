@@ -1,7 +1,18 @@
 # Deep Research Prompt: DJI Dock 3 and Matrice 4D Series Deep Dive
 
+## Context: Spantree's Chosen Platform
+
+Spantree has selected the DJI Dock 3 and Matrice 4D series as the primary hardware platform for their enterprise drone AI solution. This decision is based on DJI's market leadership and the platform's autonomous capabilities. However, Spantree needs detailed technical understanding to:
+- Maximize the platform's capabilities for inventory management
+- Understand limitations and workarounds
+- Plan integration architecture with enterprise systems
+- Develop pricing models based on hardware costs
+- Train technical teams on platform specifics
+
+The solution must support outdoor inventory tracking at facilities ranging from 50 to 500+ acres, with deployment models from single-dock starter packages ($250K) to multi-dock enterprise installations ($1.5M+).
+
 ## Research Objective
-Conduct an in-depth analysis of DJI's latest autonomous drone solutions - the DJI Dock 3 and Matrice 4D series - evaluating their capabilities for enterprise vision AI applications and "drone-in-a-box" deployments.
+Conduct an in-depth analysis of DJI's Dock 3 and Matrice 4D series, focusing specifically on capabilities, limitations, and optimization strategies for enterprise inventory management applications. Provide technical details necessary for solution architecture and implementation planning.
 
 ## Key Research Areas
 

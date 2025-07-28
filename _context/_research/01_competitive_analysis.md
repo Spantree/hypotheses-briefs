@@ -1,7 +1,18 @@
 # Deep Research Prompt: Competitive Analysis for Drone Vision AI Solutions
 
+## Context: Spantree's Drone AI Initiative
+
+Spantree, a Chicago-based technology consultancy, is launching a new line of business providing full-stack drone solutions for enterprise inventory management. The solution combines DJI Dock 3 autonomous drones with custom vision AI to track outdoor inventory (vehicles, equipment, containers) with 99%+ accuracy. Target pricing ranges from $250K-$1.5M for initial deployment plus $10K-$25K monthly recurring revenue.
+
+Key differentiators Spantree plans to offer:
+- Full professional services (not just software platform)
+- Custom AI model development for specific inventory types
+- Apple Vision Pro integration for immersive 3D visualization
+- Deep enterprise integration expertise (SAP, Oracle WMS)
+- Knowledge transfer and client enablement focus
+
 ## Research Objective
-Conduct a comprehensive competitive analysis of companies providing full-stack drone solutions with vision AI capabilities, focusing on professional services and enterprise-level deployments.
+Conduct a comprehensive competitive analysis of companies providing full-stack drone solutions with vision AI capabilities, focusing on professional services and enterprise-level deployments. Identify competitive positioning, pricing strategies, and market gaps that Spantree can exploit.
 
 ## Key Research Areas
 

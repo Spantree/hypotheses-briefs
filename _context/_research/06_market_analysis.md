@@ -1,8 +1,19 @@
 # Deep Research Prompt: Market Analysis for Drone Vision AI Services
 
+## Context: Spantree's Market Entry Strategy
+
+Spantree is entering the drone services market with a specific focus on enterprise inventory management for large outdoor facilities. The company's approach differs from competitors by offering:
+- Full professional services (not self-service platform)
+- Custom AI development for specific inventory types  
+- Premium pricing ($250K-$1.5M initial, $10K-$25K/month recurring)
+- Target customers: Fortune 1000 with 50+ acre facilities
+- Initial focus: Automotive logistics, then expanding to construction, manufacturing
+
+Spantree needs to validate market size, identify the most attractive segments, and understand pricing dynamics to achieve their goal of $15M revenue within 3 years.
+
 ## Research Objective
 
-Analyze the market opportunity for professional services companies offering full-stack drone solutions with vision AI, focusing on inventory management and facility monitoring applications.
+Analyze the market opportunity specifically for professional services companies offering full-stack drone solutions for outdoor inventory management. Focus on enterprise segments willing to pay premium prices for custom solutions rather than generic platforms. Identify market size, growth rates, customer pain points, and pricing benchmarks that support Spantree's business model.
 
 ## Key Research Areas
 

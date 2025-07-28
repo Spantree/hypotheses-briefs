@@ -1,7 +1,18 @@
 # Deep Research Prompt: Branding and Domain Strategy for Drone Vision AI Business
 
+## Context: Spantree's New Line of Business
+
+Spantree, an established technology consultancy known for data solutions and platform engineering, is launching a drone AI practice. This new line of business will operate under the Spantree brand but needs distinct positioning in the market. The offering focuses on enterprise inventory management using autonomous drones with custom vision AI, targeting Fortune 1000 companies managing large outdoor facilities.
+
+The brand must convey:
+- Enterprise-grade reliability and professionalism
+- Deep technical expertise in both drones and AI
+- Full-service approach (vs. self-service platforms)
+- Innovation leadership (first with Apple Vision Pro integration)
+- Part of Spantree/Trifork's established reputation
+
 ## Research Objective
-Develop branding recommendations and identify available domain names for a professional services company specializing in full-stack drone solutions with vision AI capabilities.
+Develop branding recommendations and identify available domain names for Spantree's drone AI practice. Consider both standalone branding options and sub-brand approaches that leverage Spantree's existing market presence while establishing distinct identity in the drone services market.
 
 ## Key Research Areas
 

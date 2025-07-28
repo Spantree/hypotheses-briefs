@@ -1,7 +1,18 @@
 # Deep Research Prompt: Regulatory Landscape for Commercial Drone Operations
 
+## Context: Regulatory Requirements for Spantree's Solution
+
+Spantree's drone AI solution involves specific operational requirements that intersect with complex regulations:
+- **Autonomous Operations**: 24/7 drone-in-a-box requiring minimal human intervention
+- **Large Facilities**: Flying over 50-500+ acre private industrial sites
+- **Data Collection**: Capturing imagery of vehicles, equipment, and potentially people
+- **Enterprise Clients**: Fortune 1000 companies with strict compliance requirements
+- **Geographic Scope**: Initial US focus, potential expansion to Europe (leveraging Trifork presence)
+
+As a professional services provider, Spantree must navigate regulations not just for their own operations but also guide clients through compliance. This is both a challenge and potential differentiator from competitors who leave regulatory compliance to customers.
+
 ## Research Objective
-Provide a comprehensive analysis of the regulatory environment for commercial drone operations, focusing on requirements for autonomous operations, beyond visual line of sight (BVLOS) flights, and data privacy considerations.
+Provide a comprehensive analysis of the regulatory environment specifically relevant to autonomous drone operations for inventory management at large private facilities. Focus on practical compliance strategies, waiver requirements, and how regulatory expertise can become a competitive advantage for a professional services business model.
 
 ## Key Research Areas
 

@@ -1,7 +1,18 @@
 # Deep Research Prompt: Drone Platform Capabilities Analysis
 
+## Context: Platform Selection for Spantree's Solution
+
+Spantree is building an enterprise drone solution for outdoor inventory management that requires:
+- 24/7 autonomous operations ("drone-in-a-box")
+- Ability to deploy custom AI models on edge devices
+- Enterprise-grade reliability for Fortune 1000 clients
+- Integration with existing systems (SAP, Oracle WMS)
+- Support for professional services business model
+
+While initially focusing on DJI Dock 3 and Matrice 4D, Spantree needs to understand the full landscape of enterprise drone platforms to make informed decisions about platform strategy, identify backup options, and understand competitive hardware choices.
+
 ## Research Objective
-Conduct a comprehensive analysis of enterprise drone platforms, their capabilities, SDK features, and suitability for building custom vision AI solutions.
+Conduct a comprehensive analysis of enterprise drone platforms, evaluating their technical capabilities, SDK features, and suitability for building custom vision AI solutions for inventory management. Focus on platforms that support professional services business models rather than consumer or hobbyist drones.
 
 ## Key Research Areas
 

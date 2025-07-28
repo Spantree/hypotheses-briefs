@@ -1,7 +1,18 @@
 # Deep Research Prompt: Edge AI and Model Deployment on Drones
 
+## Context: Spantree's AI Implementation Requirements
+
+Spantree's drone AI solution requires sophisticated computer vision models that must run on edge devices within strict constraints:
+- **Hardware**: DJI Matrice 4D with 10 TOPS AI processor
+- **Use Cases**: Vehicle detection, equipment classification, container OCR, multi-object tracking
+- **Performance**: <0.2s inference latency, 10+ FPS processing
+- **Accuracy**: 99%+ detection rate for inventory counting
+- **Constraints**: Models must be <50MB, handle varying weather/lighting
+
+The solution must balance edge processing (for real-time alerts) with cloud processing (for complex analytics), while supporting continuous model improvement through customer deployments. This is critical for Spantree's differentiation as competitors mostly use generic models.
+
 ## Research Objective
-Investigate state-of-the-art approaches for deploying machine learning models on drones, focusing on lightweight models, optimization techniques, and real-time inference capabilities.
+Investigate state-of-the-art approaches for deploying custom machine learning models on drone edge devices, focusing specifically on techniques that enable high accuracy within the constraints of aerial inventory management. Identify optimization strategies that maintain 99%+ accuracy while meeting size and performance requirements.
 
 ## Key Research Areas
 
