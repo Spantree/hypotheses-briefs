@@ -18,20 +18,56 @@ The deployment of autonomous drone-in-a-box solutions represents the foundationa
 
 The sophistication of modern autonomous systems extends far beyond simple waypoint navigation. Pre-programmed flight paths execute without human intervention, but the system continuously adapts to changing conditions including weather, temporary obstacles, and operational priorities. Advanced collision avoidance using multiple sensor modalities ensures safe operations even in complex industrial environments with cranes, vehicles, and other dynamic hazards. The integration of weather stations and predictive analytics allows the system to optimize flight windows, maximizing data collection while ensuring equipment longevity and safety.
 
-### Advanced Vision AI Processing: From Pixels to Intelligence
+### Full-Stack Technology Architecture: Six Layers of Value Creation
 
-The transformation of aerial imagery into actionable business intelligence represents our core differentiation. Our multi-layer AI architecture addresses the fundamental challenge of processing massive amounts of visual data in real-time while maintaining the accuracy enterprises demand. Custom-trained neural networks optimized for aerial perspectives detect, classify, and read identification information from assets at distances exceeding 50 meters, achieving inference speeds under 0.2 seconds even on edge devices.
+<!-- TODO: Create visual diagram of 6-layer stack -->
+Our comprehensive technology stack represents an unprecedented integration of capabilities that transforms raw aerial data into actionable business intelligence. This six-layer architecture, refined through real-world deployments, provides the foundation for our full-stack advantage in the market.
 
-<!-- TODO: Detail specific model architectures after IP protection filing -->
-The edge computing layer deploys lightweight models directly on the drone or base station, enabling immediate decision-making for navigation, safety, and basic classification tasks. These models, typically under 100MB, run on specialized hardware like NVIDIA Jetson modules, processing 30 frames per second while consuming minimal power. The on-site processing layer handles more complex tasks including OCR for reading container numbers, license plates, and asset tags, initial quality assessment to filter and prioritize images for cloud processing, and real-time alerts for safety violations or operational anomalies.
+**Layer 1: Hardware Foundation**
+The base layer encompasses drone platforms, docking stations, and supporting infrastructure. Our platform-agnostic approach allows flexibility in hardware selection while maintaining operational excellence. We've developed deep expertise in autonomous flight operations, maintenance protocols, and hardware optimization that ensures reliable 24/7 operations regardless of the specific platform deployed.
 
-The cloud processing layer unleashes the full power of our AI capabilities, employing large-scale models that would be impossible to run on edge devices. Here we perform detailed asset classification across hundreds of categories, anomaly detection using temporal analysis across multiple flights, predictive maintenance insights based on visual degradation patterns, and continuous model retraining using newly collected data to improve accuracy over time.
+**Layer 2: Intelligent Capture**
+Beyond simple flight execution, our capture layer embodies sophisticated mission planning intelligence. The system determines optimal flight paths, camera angles, and overlap ratios based on the specific business problem being solved. Dynamic adjustment capabilities respond to environmental conditions, operational priorities, and discovered anomalies in real-time, ensuring comprehensive coverage while minimizing flight time and battery consumption.
+
+**Layer 3: Location and Timing Awareness**
+This critical layer provides the spatial and temporal context that transforms individual images into coherent operational intelligence. Sub-meter GPS positioning combined with IMU data ensures precise georeferencing of every observation. Temporal tracking maintains the complete history of every asset's location and movement patterns, enabling powerful analytics about flow rates, dwell times, and optimization opportunities. This spatiotemporal foundation is essential regardless of the specific industry or use case.
+
+**Layer 4: Object Awareness Through Vision AI**
+The transformation of pixels into meaningful business objects occurs through our sophisticated AI pipeline. Custom-trained neural networks detect and classify assets specific to each customer's operations, achieving accuracy rates exceeding 99% for trained object types. OCR capabilities read identification numbers, labels, and markings from distances exceeding 50 meters. Multi-image correlation prevents double-counting while building comprehensive asset profiles. Real-time inference enables immediate operational decisions while cloud-based retraining continuously improves model performance.
+
+**Layer 5: End User Experience**
+The visualization and interaction layer transforms complex data into intuitive, actionable insights. Web-based dashboards provide real-time visibility into operations from any device. 3D facility models enable virtual walk-throughs and planning exercises. Apple Vision Pro integration creates immersive experiences for remote operations and training. API access enables custom applications and integrations. The user experience layer adapts to different roles, from yard operators needing simple location queries to executives requiring strategic analytics.
+
+**Layer 6: AI-Based Business Optimization**
+The apex layer delivers customer-specific value through advanced analytics and optimization algorithms. Planning and scheduling engines optimize asset movements based on operational constraints and objectives. Predictive analytics forecast future states enabling proactive management. Anomaly detection identifies deviations requiring attention. Work order generation automates response to discovered issues. Integration with enterprise systems ensures insights flow seamlessly into existing business processes. This layer is highly customized to each customer's specific value drivers and operational patterns.
+
+### The Full-Stack Advantage: Why Integration Matters
+
+Our full-stack approach represents a fundamental market differentiator that addresses the fragmentation plaguing current drone solutions. Unlike companies that "just use drones" or software providers without operational expertise, we deliver the complete pipeline from image capture to actionable business insights. This integration creates value that exceeds the sum of individual components.
+
+The market reality reveals critical gaps in partial solutions. Drone operators may excel at flight operations but lack the software engineering expertise to transform imagery into business value. Software companies may build sophisticated analytics but fail to understand the operational realities of industrial drone deployment. Hardware vendors focus on selling equipment without ensuring customers achieve promised outcomes. System integrators often lack the deep domain expertise required for successful implementation.
+
+Our unprecedented combination addresses these gaps through unified ownership of the entire value chain. When challenges arise at any layer, we resolve them without finger-pointing between vendors. Performance optimization occurs holistically rather than locally, ensuring system-wide efficiency. Innovation at one layer immediately benefits the entire stack, accelerating value delivery. Customer support addresses the complete solution rather than forcing clients to coordinate multiple vendors.
+
+This full-stack ownership translates directly to customer success. Deployment timelines compress from months to weeks when one team controls all variables. System reliability improves dramatically without integration seams creating failure points. Total cost of ownership decreases through elimination of vendor coordination overhead. Most importantly, accountability becomes clear—Trifork owns the outcome, not just components.
 
 ### Multi-Image Object Clustering: Solving the Double-Count Dilemma
 
 One of the most challenging aspects of drone-based inventory management involves preventing double-counting of assets that appear in multiple overlapping images. Our proprietary clustering algorithms solve this fundamental problem through sophisticated spatial and visual analysis. The system tracks the same inventory item across multiple images, building a comprehensive understanding of each asset's location, orientation, and identifying characteristics.
 
 The clustering process employs multiple techniques working in concert. Geographic correlation using GPS and IMU data provides initial grouping, while visual feature matching using advanced computer vision techniques confirms object identity across images. Temporal consistency checking ensures that objects maintain logical positions across time, and probabilistic modeling handles edge cases where partial occlusion or lighting changes create ambiguity. The result achieves sub-5cm positioning accuracy while eliminating the double-counting that plagued early drone inventory systems.
+
+### Beyond Counting: Operational Intelligence and Decision Support
+
+The true power of our drone solution extends far beyond simple inventory counts to enable sophisticated operational decision-making. By creating a comprehensive data foundation that didn't exist before, we unlock capabilities that transform how enterprises manage their physical operations.
+
+**Asset Movement Optimization** leverages temporal data to understand flow patterns and bottlenecks. For rail yards, this means intelligently reorienting cars based on maintenance schedules and parts availability. When critical components are backordered for six months, the system recommends repositioning affected equipment to optimize yard space. Customer priority analysis enables strategic placement—when a major client like Walmart requires rapid turnaround, their assets can be positioned for quick access while maintaining overall operational efficiency.
+
+**Condition-Based Maintenance** transforms reactive repairs into proactive management. Visual degradation patterns detected across multiple flights trigger maintenance workflows before failures occur. Rust progression, structural deformation, and wear patterns become quantifiable metrics rather than subjective assessments. The system generates work orders automatically when thresholds are exceeded, integrating with maintenance management systems to schedule repairs during optimal windows.
+
+**Dynamic Capacity Planning** uses real-time occupancy data to optimize facility utilization. Heat maps show space usage patterns over time, revealing underutilized areas and congestion points. Seasonal patterns inform expansion planning and contract negotiations. Multi-facility coordination enables load balancing across locations, reducing transportation costs while improving service levels.
+
+**Compliance and Safety Automation** addresses increasing regulatory pressures through continuous monitoring. Safety violations such as blocked emergency exits or improper hazardous material storage trigger immediate alerts. Audit trails with photographic evidence simplify regulatory compliance. Insurance documentation becomes automatic rather than manual, reducing premiums through demonstrated safety practices.
 
 ### Temporal Intelligence System: Time Travel for Operations
 
