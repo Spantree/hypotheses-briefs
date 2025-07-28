@@ -29,7 +29,7 @@ Success for Spantree Drone AI Solutions is measured through multiple dimensions:
 **Technical Excellence**:
 - Sub-5cm positioning accuracy for inventory location
 - 99%+ object detection and classification accuracy
-- Real-time processing with <0.2 second inference latency
+- Real-time processing with &lt;0.2 second inference latency
 - Seamless integration with existing WMS/ERP systems
 
 **Business Impact**:

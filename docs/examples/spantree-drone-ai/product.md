@@ -11,7 +11,7 @@ sidebar_position: 1
 Deploy DJI Dock 3 "drone-in-a-box" solutions enabling 24/7 autonomous missions with automatic charging, data upload, and weather monitoring. Pre-programmed flight paths execute without human intervention, dramatically reducing operational overhead.
 
 **2. Advanced Vision AI Processing**
-Custom-trained neural networks for object detection, classification, and OCR running on edge devices with <0.2s inference. Models optimized for aerial perspectives detect vehicles, equipment, containers, and read identification numbers from 50+ meters.
+Custom-trained neural networks for object detection, classification, and OCR running on edge devices with &lt;0.2s inference. Models optimized for aerial perspectives detect vehicles, equipment, containers, and read identification numbers from 50+ meters.
 
 **3. Multi-Image Object Clustering**
 Proprietary algorithms track the same inventory item across overlapping drone images, eliminating double-counting and providing accurate position triangulation with sub-5cm accuracy.

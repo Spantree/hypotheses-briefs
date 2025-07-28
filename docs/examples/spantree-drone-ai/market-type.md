@@ -22,7 +22,7 @@ We are entering a **Resegmented Market** with characteristics of an **Early Grow
 
 **Emerging Market Characteristics:**
 - 27.7% CAGR indicating explosive growth
-- Few true full-service providers (<10 globally)
+- Few true full-service providers (&lt;10 globally)
 - Limited penetration in inventory management
 - Technology convergence just enabling solutions
 - Customer education still required
