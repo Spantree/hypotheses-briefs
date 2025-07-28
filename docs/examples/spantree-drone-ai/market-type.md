@@ -14,6 +14,7 @@ We are entering a **Resegmented Market** with characteristics of an **Early Grow
 ### Current Market State
 
 **Established Market Elements:**
+
 - $17.0B global drone services market (2024)
 - Mature drone hardware from DJI, Skydio
 - Proven ROI in adjacent applications (inspection, mapping)
@@ -21,6 +22,7 @@ We are entering a **Resegmented Market** with characteristics of an **Early Grow
 - Early enterprise adopters validating use cases
 
 **Emerging Market Characteristics:**
+
 - 27.7% CAGR indicating explosive growth
 - Few true full-service providers (&lt;10 globally)
 - Limited penetration in inventory management
@@ -30,12 +32,15 @@ We are entering a **Resegmented Market** with characteristics of an **Early Grow
 ### Market Segmentation Opportunity
 
 **Current Segmentation:**
+
 1. **Hardware Vendors** (DJI, Skydio, Autel)
+
    - Focus on selling drones and accessories
    - Limited services beyond training
    - Channel conflict with service providers
 
 2. **Platform Companies** (DroneDeploy, Pix4D)
+
    - Software-as-a-Service model
    - Self-service emphasis
    - Limited implementation support
@@ -47,6 +52,7 @@ We are entering a **Resegmented Market** with characteristics of an **Early Grow
 
 **Our Resegmentation:**
 Creating a new category of **"Inventory Intelligence Integrators"** that combines:
+
 - Autonomous drone operations
 - Custom vision AI development
 - Deep enterprise integration
@@ -58,24 +64,28 @@ This positions us uniquely at the intersection of several growing trends, creati
 ## Market Evolution Timeline
 
 ### Phase 1: Market Creation (2020-2023) ✓ Complete
+
 - Early adopters prove drone value
 - Regulatory framework develops
 - Technology components mature
 - First success stories emerge
 
 ### Phase 2: Early Growth (2024-2026) ← We Are Here
+
 - Professional services demand emerges
 - Enterprise buyers seek full solutions
 - Integration becomes critical
 - Competitive landscape forming
 
 ### Phase 3: Rapid Expansion (2027-2029)
+
 - Mainstream enterprise adoption
 - Industry-specific solutions proliferate
 - Consolidation of providers
 - Platform standardization
 
 ### Phase 4: Market Maturity (2030+)
+
 - Drone operations become standard
 - Focus shifts to optimization
 - AI and analytics differentiate
@@ -86,12 +96,15 @@ This positions us uniquely at the intersection of several growing trends, creati
 ### Direct Competition Analysis
 
 **Category Leaders:**
+
 1. **Percepto** - Industrial inspection focus
+
    - Strength: Nationwide BVLOS waiver
    - Weakness: Limited inventory expertise
    - Market share: ~15% of enterprise
 
 2. **DroneDeploy** - Platform approach
+
    - Strength: Large user base
    - Weakness: Limited services depth
    - Market share: ~25% of SMB
@@ -102,6 +115,7 @@ This positions us uniquely at the intersection of several growing trends, creati
    - Market share: ~10% of warehouses
 
 **Our Competitive Position:**
+
 - Only provider combining outdoor inventory + Vision Pro
 - Deepest enterprise integration capabilities
 - True professional services vs self-service
@@ -110,12 +124,14 @@ This positions us uniquely at the intersection of several growing trends, creati
 ### Indirect Competition
 
 **Traditional Solutions:**
+
 - Manual counting services
 - Fixed camera systems
 - RFID/IoT sensors
 - Satellite imagery
 
 **Emerging Threats:**
+
 - Ground-based robotics
 - Computer vision without drones
 - In-house drone programs
@@ -126,6 +142,7 @@ This positions us uniquely at the intersection of several growing trends, creati
 ### Beachhead Market Selection
 
 **Primary Beachhead: Automotive Logistics**
+
 - 500+ acre facilities common
 - High-value inventory ($30-50K per unit)
 - Existing Spantree relationships
@@ -133,6 +150,7 @@ This positions us uniquely at the intersection of several growing trends, creati
 - Reference-able logos
 
 **Why This Beachhead:**
+
 1. Acute pain point (10% inventory inaccuracy)
 2. Large budget availability ($50M+ facilities)
 3. Innovation-forward industry
@@ -142,21 +160,25 @@ This positions us uniquely at the intersection of several growing trends, creati
 ### Market Expansion Sequence
 
 1. **Automotive Logistics** (Year 1)
+
    - Vehicle processing centers
    - Finished goods yards
    - Port operations
 
 2. **Heavy Equipment** (Year 1-2)
+
    - Construction equipment dealers
    - Rental companies
    - Agricultural machinery
 
 3. **Intermodal/Containers** (Year 2)
+
    - Container terminals
    - Rail yards
    - Distribution centers
 
 4. **General Manufacturing** (Year 2-3)
+
    - Outdoor raw materials
    - Finished goods staging
    - Multi-plant operators
@@ -171,17 +193,20 @@ This positions us uniquely at the intersection of several growing trends, creati
 ### Total Addressable Market (TAM)
 
 **Global Opportunity:**
+
 - Drone services market: $57.8B by 2030
 - Inventory management segment: $3.75B
 - Professional services portion: $1.5B
 - **Our TAM: $1.5B globally**
 
 **North American SAM:**
+
 - 37% of global market
 - Higher service pricing acceptance
 - **Our SAM: $555M**
 
 **Realistic SOM (3-Year):**
+
 - 2% market penetration
 - 25-30 enterprise customers
 - **Our SOM: $11M-$15M**
@@ -189,18 +214,21 @@ This positions us uniquely at the intersection of several growing trends, creati
 ### Growth Drivers
 
 **Technology Enablers:**
+
 - DJI Dock 3 autonomous operations
 - Edge AI reaching 10 TOPS
 - 5G enabling real-time streaming
 - Vision Pro creating new interfaces
 
 **Market Forces:**
+
 - Labor shortage crisis (3.8M unfilled jobs)
 - Safety regulations tightening
 - Customer demands for real-time visibility
 - ESG reporting requirements
 
 **Economic Factors:**
+
 - Rising labor costs ($15→$20+/hour)
 - Inventory carrying cost pressure
 - Insurance premium increases
@@ -225,12 +253,14 @@ This positions us uniquely at the intersection of several growing trends, creati
 ### Channel Strategy for Market Type
 
 **Direct Sales (70%)**
+
 - Enterprise account management
 - Industry-specific expertise
 - Proof of concept approach
 - Executive relationship building
 
 **Partner Channel (30%)**
+
 - ERP integrator partnerships
 - Logistics consultancies
 - Industry associations
@@ -239,6 +269,7 @@ This positions us uniquely at the intersection of several growing trends, creati
 ### Pricing Strategy for Market Position
 
 **Premium Positioning Justified By:**
+
 - Full-service delivery model
 - Spantree integration expertise
 - Unique Vision Pro capabilities
@@ -246,6 +277,7 @@ This positions us uniquely at the intersection of several growing trends, creati
 - Proven enterprise success
 
 **Price Leadership Strategy:**
+
 - Set high anchor prices
 - Demonstrate superior value
 - Offer flexible commercial terms
@@ -255,39 +287,47 @@ This positions us uniquely at the intersection of several growing trends, creati
 ## Market Risks and Mitigation
 
 ### Technology Risks
+
 - **Risk:** Commoditization of drone hardware
 - **Mitigation:** Focus on services and integration value
 
 ### Competitive Risks
+
 - **Risk:** Big Tech entry (Amazon, Google)
 - **Mitigation:** Deep enterprise relationships and vertical expertise
 
 ### Market Risks
+
 - **Risk:** Slower enterprise adoption
 - **Mitigation:** Strong ROI proof points and pilot programs
 
 ### Regulatory Risks
+
 - **Risk:** BVLOS delays limiting scalability
 - **Mitigation:** Partner with waiver specialists, focus on large sites
 
 ## Success Metrics
 
 ### Market Penetration
+
 - Year 1: 5 enterprise customers
 - Year 2: 15 customers (3x growth)
 - Year 3: 30 customers (2x growth)
 
 ### Revenue Growth
+
 - Year 1: $2.5M (10 projects)
 - Year 2: $7.5M (3x growth)
 - Year 3: $15M (2x growth)
 
 ### Market Share
+
 - Year 1: 0.5% of SAM
 - Year 2: 1.5% of SAM
 - Year 3: 3% of SAM
 
 ### Competitive Win Rate
+
 - Target: 40% against established players
 - Target: 70% against new entrants
 - Target: 60% overall win rate

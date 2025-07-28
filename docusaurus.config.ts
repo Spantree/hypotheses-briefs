@@ -6,8 +6,8 @@ const darkCodeTheme = themes.github
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Hypotheses Briefs',
-  tagline: 'Charting the Course of Customer Discovery',
+  title: 'SpanTree Drone AI',
+  tagline: 'Autonomous Inventory Intelligence for the Physical World',
   url: 'https://hypotheses-briefs.span.land',
   baseUrl: '/',
   projectName: 'hypotheses-briefs',
@@ -23,7 +23,9 @@ module.exports = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       {
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          path: 'docs/examples/spantree-drone-ai',
+          routeBasePath: '/',
+          sidebarPath: require.resolve('./sidebars.ts'),
           // Please change this to your repo.
           editUrl:
             'https://github.com/spantree/hypotheses-briefs/edit/main/website/',
@@ -55,8 +57,7 @@ module.exports = {
         defaultMode: 'dark',
       },
       navbar: {
-        // title: 'Spantree Docs',
-        title: 'Hypotheses Briefs',
+        title: 'SpanTree Drone AI',
         logo: {
           alt: 'Spantree Logo',
           src: 'img/logos/spantree-long-gray-800.svg',
@@ -65,15 +66,45 @@ module.exports = {
         items: [
           {
             type: 'doc',
-            docId: 'hypotheses-briefs/index',
+            docId: 'index',
             position: 'left',
-            label: 'About',
+            label: 'Overview',
           },
           {
             type: 'doc',
-            docId: 'examples/index',
+            docId: 'product',
             position: 'left',
-            label: 'Examples',
+            label: 'Product',
+          },
+          {
+            type: 'doc',
+            docId: 'customer',
+            position: 'left',
+            label: 'Customer',
+          },
+          {
+            type: 'doc',
+            docId: 'pricing',
+            position: 'left',
+            label: 'Pricing',
+          },
+          {
+            type: 'doc',
+            docId: 'distribution',
+            position: 'left',
+            label: 'Distribution',
+          },
+          {
+            type: 'doc',
+            docId: 'competition',
+            position: 'left',
+            label: 'Competition',
+          },
+          {
+            type: 'doc',
+            docId: 'market-type',
+            position: 'left',
+            label: 'Market Type',
           },
           {
             href: 'https://github.com/spantree/hypotheses-briefs',
