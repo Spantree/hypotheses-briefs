@@ -42,6 +42,10 @@ While direct sales remain primary, strategic partnerships amplify our reach and 
 
 **Industry Association Relationships** provide thought leadership platforms and peer validation. Organizations like MHI (Material Handling Industry) and WERC (Warehousing Education and Research Council) offer speaking opportunities that establish expertise. Participation in standards committees shapes industry direction while building relationships with potential customers. Research collaborations produce content that educates the market while generating leads. Award submissions create recognition that resonates with enterprise buyers who value external validation.
 
+**Drone Hardware and Service Partnerships** create a complete ecosystem for enterprise deployments. Our partnership with General Pacific (Genpac), who supplied drone hardware to GATX, demonstrates the value of collaborating with established hardware vendors who understand enterprise requirements. These partnerships provide access to proven equipment, volume purchasing power, and technical support infrastructure. Similarly, our collaboration with Skyladder Drones for RPIC (Remote Pilot in Command) services addresses the operational expertise gap many enterprises face. Skyladder's interest in our real-time video processing capabilities alongside drone telemetry opens opportunities to serve their existing customer base with enhanced analytics.
+
+The partnership strategy with drone operators addresses a critical market gap. Many drone service providers excel at flight operations but lack the software engineering expertise to deliver comprehensive solutions. By partnering with companies like Skyladder, we create mutual value—they gain access to advanced analytics capabilities that differentiate their services, while we leverage their operational expertise and customer relationships. This collaborative approach accelerates market penetration while maintaining focus on our core competency in full-stack software solutions.
+
 ### Geographic Expansion Strategy
 
 <!-- TODO: Analyze state-by-state regulatory environments -->
