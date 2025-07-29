@@ -20,6 +20,9 @@ Beyond technical capabilities, our solution delivers transformative benefits acr
 ### [Implementation Philosophy](/product/implementation-philosophy)
 Technology alone doesn't create value—successful deployment does. Our professional services wrapper, phased implementation approach, and commitment to knowledge transfer ensure that customers achieve promised outcomes. We've designed our architecture for scalability and future-proofing while maintaining a philosophy of continuous innovation that keeps solutions current and valuable.
 
+### [Ethical AI and Responsible Use](/product/ethical-ai)
+Our approach to ethical AI focuses on carefully selecting the customers we serve and applications we support rather than building restrictive technology. Through principled use case selection, privacy protection features, and transparent governance, we ensure our technology creates positive impact while avoiding harmful applications.
+
 ## Key Differentiators
 
 What sets our product apart in the market:
