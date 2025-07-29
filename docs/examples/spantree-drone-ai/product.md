@@ -5,8 +5,6 @@ sidebar_position: 1
 
 # Product Hypotheses
 
-## Understanding Product Hypotheses
-
 Product hypotheses in the hypothesis brief framework articulate our assumptions about what features and capabilities will deliver value to customers. Rather than presenting a fixed product roadmap, this section outlines our current understanding of the solution space, acknowledging that customer discovery may reveal different priorities or unexpected requirements. Each feature hypothesis connects directly to specific customer pain points, creating a traceable path from problem to solution that can be validated through market feedback.
 
 ## Core Product Features
@@ -14,6 +12,10 @@ Product hypotheses in the hypothesis brief framework articulate our assumptions 
 ### Autonomous Flight Operations: The Foundation of Scale
 
 <!-- TODO: Specify exact drone models after vendor partnership agreements -->
+
+<!-- NOTE: The DJI Dock series does not pair with the Matrice 400 series. They are designed specifically to work with the Matrice 4D or 4TD. Matrice 300, 400, and 600 series are designed to be standalone drones and will not work in a first-party dock.
+
+See: https://enterprise.dji.com/dock-3 -->
 
 The deployment of autonomous drone-in-a-box solutions represents the foundational capability that enables all other value creation. Our platform-agnostic approach allows flexibility in hardware selection, though initial implementations will likely leverage either [DJI Dock 3](https://www.dji.com/dock-3) with [Matrice 400 RTK](https://www.dji.com/matrice-400-rtk) drones or [Percepto's integrated solution](https://www.percepto.co/enterprise), depending on specific customer requirements and regulatory environments. These systems enable true 24/7 autonomous missions with automatic charging, data upload, and weather monitoring, dramatically reducing the operational overhead that has historically limited drone adoption in enterprise environments.
 

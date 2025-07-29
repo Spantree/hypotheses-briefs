@@ -14,16 +14,12 @@ const sidebars: SidebarsConfig = {
   // Main sidebar for the drone AI documentation
   mainSidebar: [
     'index',
-    {
-      type: 'category',
-      label: 'Business Model',
-      items: ['product', 'customer', 'pricing', 'distribution'],
-    },
-    {
-      type: 'category',
-      label: 'Market Analysis',
-      items: ['competition', 'market-type'],
-    },
+    'product',
+    'customer',
+    'pricing',
+    'distribution',
+    'competition',
+    'market-type',
   ],
 }
 
