@@ -89,11 +89,11 @@ p {
 
 ol,
 ul {
-  @apply text-gray-700;
+  @apply text-gray-800;
 }
 
 [data-theme='dark'] ol,
-ul {
+[data-theme='dark'] ul {
   @apply text-gray-300;
 }
 

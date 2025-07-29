@@ -46,17 +46,28 @@
 }
 
 .theme-doc-markdown ol,
-ul {
-  @apply text-gray-500 text-base pl-5 mt-4 list-decimal md:list-decimal md:list-outside;
+.theme-doc-markdown ul {
+  @apply text-gray-700 text-base pl-5 mt-4 list-decimal md:list-decimal md:list-outside;
 }
 
 [data-theme='dark'] .theme-doc-markdown ol,
-ul {
+[data-theme='dark'] .theme-doc-markdown ul {
   @apply text-gray-400;
 }
 
 .theme-doc-markdown li {
   @apply pl-1 py-2 md:pl-5 md:py-1;
+  color: rgb(55, 65, 81) !important; /* gray-700 */
+}
+
+[data-theme='dark'] .theme-doc-markdown li {
+  @apply text-gray-400;
+}
+
+/* Ensure all text within list items is readable */
+.theme-doc-markdown li,
+.theme-doc-markdown li > * {
+  color: inherit !important;
 }
 
 .theme-doc-breadcrumbs {
