@@ -1,6 +1,6 @@
 ---
-title: Platform Partners
-sidebar_position: 2
+title: Platform Providers
+sidebar_position: 3
 ---
 
 # Platform Providers as Partners, Not Competitors
@@ -234,7 +234,7 @@ Skydio represents the domestic answer to DJI dominance:
 
 **Clear Role Definition**
 - Platform providers: Core technology
-- Trifork/Spantree: Implementation and customization
+- Spantree/Trifork: Implementation and customization
 - Complementary not competitive
 
 **Value Creation Model**

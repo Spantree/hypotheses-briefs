@@ -1,11 +1,11 @@
 ---
 title: Direct Competitors
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Direct Competition: Custom Development Firms
 
-Our most direct competition comes from specialized firms offering custom drone software development services—companies that, like Trifork/Spantree, combine software engineering expertise with drone domain knowledge to create bespoke solutions for enterprise clients.
+Our most direct competition comes from specialized firms offering custom drone software development services—companies that, like Spantree/Trifork, combine software engineering expertise with drone domain knowledge to create bespoke solutions for enterprise clients.
 
 ## Specialized Drone Development Consultancies
 
@@ -34,7 +34,7 @@ Companies expanding from broader robotics into drones bring relevant expertise b
 
 ## Competitive Advantages Against Direct Competitors
 
-While these firms represent real competition for specific projects, Trifork/Spantree's advantages become clear at enterprise scale through several interconnected strengths that compound our market position.
+While these firms represent real competition for specific projects, Spantree/Trifork's advantages become clear at enterprise scale through several interconnected strengths that compound our market position.
 
 ### Scale and Resources
 
@@ -42,7 +42,7 @@ Our 800+ employee base fundamentally changes what's possible in enterprise deplo
 
 ### Enterprise DNA
 
-Trifork/Spantree's decades of Fortune 500 engagement create advantages that smaller drone consultancies cannot replicate. Our existing relationships provide warm introductions to decision makers who already trust our ability to deliver transformational projects. This proven large-scale system integration experience means we understand the complexity of enterprise IT environments and can navigate them efficiently. We speak the language of enterprise procurement processes, understanding how to structure proposals, manage stakeholder alignment, and meet stringent security requirements. Our ability to navigate complex stakeholder environments—from operations to IT to finance to legal—accelerates project approval and implementation.
+Spantree/Trifork's decades of Fortune 500 engagement create advantages that smaller drone consultancies cannot replicate. Our existing relationships provide warm introductions to decision makers who already trust our ability to deliver transformational projects. This proven large-scale system integration experience means we understand the complexity of enterprise IT environments and can navigate them efficiently. We speak the language of enterprise procurement processes, understanding how to structure proposals, manage stakeholder alignment, and meet stringent security requirements. Our ability to navigate complex stakeholder environments—from operations to IT to finance to legal—accelerates project approval and implementation.
 
 ### Financial Stability
 
@@ -104,7 +104,7 @@ Their approach often involves cobbling together multiple vendor solutions, creat
 
 ## Competitive Response Strategies
 
-As Trifork/Spantree enters the drone services market, we anticipate competitive responses requiring prepared counter-strategies.
+As Spantree/Trifork enters the drone services market, we anticipate competitive responses requiring prepared counter-strategies.
 
 ### Market Entry Challenges
 
@@ -117,7 +117,7 @@ Established players may attempt to block our entry through:
 ### Our Counter-Strategies
 
 **Leverage Enterprise Relationships**
-- Use existing Trifork/Spantree relationships for initial wins
+- Use existing Spantree/Trifork relationships for initial wins
 - Focus on trusted advisor status
 - Emphasize risk mitigation through established credibility
 

@@ -1,11 +1,11 @@
 ---
-title: Competition
-sidebar_position: 6
+title: Competition Hypotheses
+sidebar_position: 1
 ---
 
 # Competition Hypotheses
 
-Competition hypotheses in the hypothesis brief methodology serve a dual purpose: mapping the current competitive landscape while identifying sustainable differentiation opportunities. Rather than viewing competition as a zero-sum game, this analysis seeks to understand where different players excel, what gaps remain in the market, and how Trifork/Spantree can create unique value that expands the overall market rather than simply capturing share from others. This section acknowledges that competitive dynamics evolve rapidly in emerging markets, requiring continuous reassessment and strategic adaptation.
+Competition hypotheses in the hypothesis brief methodology serve a dual purpose: mapping the current competitive landscape while identifying sustainable differentiation opportunities. Rather than viewing competition as a zero-sum game, this analysis seeks to understand where different players excel, what gaps remain in the market, and how Spantree/Trifork can create unique value that expands the overall market rather than simply capturing share from others. This section acknowledges that competitive dynamics evolve rapidly in emerging markets, requiring continuous reassessment and strategic adaptation.
 
 ## Competitive Landscape Overview
 
@@ -24,25 +24,25 @@ Our analysis reveals that while several companies have achieved technical excell
 Our competitive analysis divides the market into three distinct categories, each requiring different strategic approaches:
 
 ### Direct Competitors: Custom Development Firms
-Companies that, like Trifork/Spantree, offer custom drone software development and professional services. These range from small specialized consultancies to regional players, representing our truest competition for enterprise projects.
+Companies that, like Spantree/Trifork, offer custom drone software development and professional services. These range from small specialized consultancies to regional players, representing our truest competition for enterprise projects.
 
-[Read more about Direct Competitors →](./competition-direct)
+[Read more about Direct Competitors →](/competition/direct-competitors)
 
 ### Platform Partners: Technology Foundations
 Platform providers like Percepto, DroneDeploy, and Gather AI that we view as partners rather than competitors. Their technology platforms provide foundations we build upon, creating mutual value through complementary capabilities.
 
-[Read more about Platform Partners →](./competition-platforms)
+[Read more about Platform Partners →](/competition/platform-providers)
 
 ### Alternative Solutions: Indirect Competition
 Traditional methods, alternative technologies, and future market evolution that compete indirectly for budget and mindshare. Understanding these forces helps position our solution effectively against the broader competitive landscape.
 
-[Read more about Alternative Solutions →](./competition-alternatives)
+[Read more about Alternative Solutions →](/competition/alternative-solutions)
 
 ## Our Competitive Positioning
 
 ### Unique Value Proposition
 
-Trifork/Spantree's competitive positioning leverages the intersection of:
+Spantree/Trifork's competitive positioning leverages the intersection of:
 
 1. **Deep Technical Capabilities** - Drone operations, AI/ML, and enterprise integration
 2. **Professional Services Excellence** - Consultative approach focused on business transformation
@@ -56,7 +56,7 @@ Our competitive advantages stem from difficult-to-replicate combinations:
 - **Enterprise Trust** - Years to build, impossible to purchase
 - **Cross-Domain Expertise** - Unique intersection of capabilities
 - **Professional Services Culture** - DNA difference from product companies
-- **Industry Knowledge** - Context from broader Trifork/Spantree engagements
+- **Industry Knowledge** - Context from broader Spantree/Trifork engagements
 
 <!-- TODO: Develop IP strategy for proprietary methods -->
 
@@ -95,7 +95,7 @@ The maturity of our competitive strategy recognizes that collaboration often cre
 - Channel partnerships with systems integrators
 - Academic collaborations for innovation
 
-By focusing on our unique strengths while respecting competitor capabilities, we can build an ecosystem that serves customers better than any single company could alone. This collaborative approach aligns with Trifork/Spantree's values while creating sustainable competitive advantage through relationships and trust that transcend individual technology advantages.
+By focusing on our unique strengths while respecting competitor capabilities, we can build an ecosystem that serves customers better than any single company could alone. This collaborative approach aligns with Spantree/Trifork's values while creating sustainable competitive advantage through relationships and trust that transcend individual technology advantages.
 
 ## Validation Metrics
 

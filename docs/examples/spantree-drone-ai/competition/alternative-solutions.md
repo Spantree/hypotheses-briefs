@@ -1,6 +1,6 @@
 ---
 title: Alternative Solutions
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Indirect Competition and Alternative Solutions
