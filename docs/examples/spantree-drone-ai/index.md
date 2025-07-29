@@ -3,7 +3,7 @@ title: Overview
 sidebar_position: 1
 ---
 
-# Trifork Drone AI Solutions
+# Trifork/Spantree Drone AI Solutions
 
 ## Understanding the Hypothesis Brief Methodology
 
@@ -15,14 +15,13 @@ The hypothesis brief methodology serves as a living document, designed to evolve
 
 <!-- TODO: Add specific revenue projections based on pipeline analysis -->
 
-Trifork Drone AI Solutions represents a strategic new line of business delivered by the Spantree business unit, positioned to capture a significant share of the rapidly expanding [$17 billion professional drone services market](https://www.marketsandmarkets.com/Market-Reports/drone-services-market-80726041.html). Our comprehensive approach combines autonomous flight capabilities with cutting-edge vision AI to transform how enterprises manage inventory and monitor facilities. By offering end-to-end professional services rather than merely technology platforms, we address the critical gap between drone hardware capabilities and actual business value realization.
+Trifork/Spantree Drone AI Solutions represents a strategic new line of business delivered by the Spantree business unit, positioned to capture a significant share of the rapidly expanding [$17 billion professional drone services market](https://www.marketsandmarkets.com/Market-Reports/drone-services-market-80726041.html). Our comprehensive approach combines autonomous flight capabilities with cutting-edge vision AI to transform how enterprises manage inventory and monitor facilities. By offering end-to-end professional services rather than merely technology platforms, we address the critical gap between drone hardware capabilities and actual business value realization.
 
 The convergence of regulatory progress, technological maturation, and acute labor shortages has created an inflection point in the market. Enterprises across logistics, manufacturing, and energy sectors are actively seeking solutions to address inventory inaccuracy that costs them thousands of dollars daily while struggling with worker safety concerns and operational inefficiencies. Our solution leverages advanced autonomous drone platforms combined with proprietary vision AI models to deliver accuracy improvements exceeding 99%, with documented payback periods of 6-12 months based on implementations by market leaders like [Percepto](https://www.percepto.co/enterprise) and [Gather AI](https://www.gather.ai/).
 
 ## Vision and Mission
 
 <!-- TODO: Refine vision statement after brand naming decision -->
-<!-- NOTE: Let's soften this from being *the* premier leader to being one of the premier leaders. Do the same throughout the document, acknowledging that there will likely be 2 to 3 major players in this overall space, but our unique combination of skills makes us highly competitive within a niche. -->
 
 **Vision**: To become one of the premier providers of intelligent drone solutions that transform how enterprises visualize, track, and manage their physical assets through the seamless integration of autonomous flight, vision AI, and immersive technologies.
 
@@ -30,7 +29,7 @@ The convergence of regulatory progress, technological maturation, and acute labo
 
 ## What Success Looks Like
 
-Success for Trifork Drone AI Solutions manifests across multiple dimensions, each reinforcing our position as the trusted partner for enterprise drone transformation.
+Success for Trifork/Spantree Drone AI Solutions manifests across multiple dimensions, each reinforcing our position as a trusted partner for enterprise drone transformation.
 
 **Technical Excellence** defines our foundation. We achieve sub-5cm positioning accuracy for inventory location, a level of precision that transforms how enterprises think about asset tracking. Our vision AI models deliver 99% or better object detection and classification accuracy across diverse asset types, from vehicles to containers to specialized equipment. Real-time processing with less than 0.2 second inference latency enables immediate decision-making, while our seamless integration with existing WMS and ERP systems ensures that drone-captured data flows naturally into established business processes.
 
@@ -46,7 +45,7 @@ Our counting capabilities span three levels of sophistication:
 
 Major ports like the [Port of Los Angeles have deployed drone technologies](https://www.portoflosangeles.org/environment/air-quality/zero-emissions-technologies) for enhanced operations, while automotive logistics providers have documented annual savings ranging from $100,000 to over $1 million per facility through improved accuracy and reduced labor costs. Most critically, we eliminate safety incidents from high-bay manual counting, addressing a persistent challenge that costs enterprises both financially and ethically.
 
-**Market Position** reflects our strategic growth trajectory. Within three years, we envision recognition as a leader in drone-based inventory solutions, with 10 or more Fortune 1000 deployments demonstrating our enterprise readiness. Strategic partnerships with leading drone manufacturers and enterprise software vendors will amplify our capabilities, while our pioneering work in immersive spatial computing—particularly our distinct expertise with Apple Vision Pro for industrial applications—establishes Trifork as an innovation leader. Our industry expertise and proven implementations will shape standards and best practices, positioning us as the trusted advisor for enterprises embarking on drone transformation journeys.
+**Market Position** reflects our strategic growth trajectory. Within three years, we envision recognition as one of the leaders in drone-based inventory solutions, with 10 or more Fortune 1000 deployments demonstrating our enterprise readiness. Strategic partnerships with leading drone manufacturers and enterprise software vendors will amplify our capabilities, while our pioneering work in immersive spatial computing—particularly our distinct expertise with Apple Vision Pro for industrial applications—establishes Trifork/Spantree as one of the innovation leaders in this space. Our industry expertise and proven implementations will contribute to shaping standards and best practices, positioning us as a trusted advisor for enterprises embarking on drone transformation journeys.
 
 ## Risks
 
@@ -116,13 +115,13 @@ We operate in a rapidly growing market with characteristics that favor new entra
 
 **Platform Providers as Partners** represent collaboration opportunities rather than competition. Percepto's autonomous inspection platform, with its nationwide BVLOS waiver and $120M funding, complements our professional services approach. We can leverage their mature flight platform while adding custom AI and integration expertise. Similarly, DroneDeploy's mission planning capabilities and Gather AI's indoor warehouse solutions serve as foundations we build upon rather than compete against.
 
-Our differentiation stems from our unique combination of capabilities and approach. Unlike platform-only providers, we offer full-stack professional services that guide enterprises from initial assessment through ongoing optimization. Our pioneering integration of Apple Vision Pro for immersive visualization creates new possibilities for remote operations and strategic planning. Deep expertise in data engineering and AI, inherited from Trifork's broader capabilities, enables us to tackle complex integration and analytics challenges that pure-play drone companies struggle with. Our collaborative approach emphasizes knowledge transfer and client enablement rather than creating dependencies, aligning with enterprises' desires for self-sufficiency. Finally, our focus on solving specific business problems rather than selling technology resonates with pragmatic enterprise buyers.
+Our differentiation stems from our unique combination of capabilities and approach. Unlike platform-only providers, we offer full-stack professional services that guide enterprises from initial assessment through ongoing optimization. Our pioneering integration of Apple Vision Pro for immersive visualization creates new possibilities for remote operations and strategic planning. Deep expertise in data engineering and AI, inherited from Trifork/Spantree's broader capabilities, enables us to tackle complex integration and analytics challenges that pure-play drone companies struggle with. Our collaborative approach emphasizes knowledge transfer and client enablement rather than creating dependencies, aligning with enterprises' desires for self-sufficiency. Finally, our focus on solving specific business problems rather than selling technology resonates with pragmatic enterprise buyers.
 
 ## Branding Considerations
 
 <!-- TODO: Finalize brand identity after market validation -->
 
-Our working brand, **"Acumulus by Trifork"** (or **"Trifork Acumulus"**), perfectly captures our value proposition—accumulating data from the sky like a cumulus cloud gathering moisture. This cloud metaphor reinforces both our aerial perspective and the data aggregation capabilities that transform raw imagery into actionable intelligence.
+Our working brand, **"Acumulus by Trifork/Spantree"** (or **"Trifork/Spantree Acumulus"**), perfectly captures our value proposition—accumulating data from the sky like a cumulus cloud gathering moisture. This cloud metaphor reinforces both our aerial perspective and the data aggregation capabilities that transform raw imagery into actionable intelligence.
 
 Alternative brand considerations include concise, memorable options with strong digital presence:
 
@@ -131,10 +130,10 @@ Alternative brand considerations include concise, memorable options with strong 
 - **skyvault.ai** - Emphasizing secure data storage from aerial capture
 - **altivue.com** - High-altitude perspective on operations
 
-The final brand identity should balance Trifork's enterprise credibility with the innovation appeal necessary to stand out in the drone services market. The "Acumulus" working title provides flexibility to operate as either a Trifork-branded service or a standalone entity as the market opportunity develops.
+The final brand identity should balance Trifork/Spantree's enterprise credibility with the innovation appeal necessary to stand out in the drone services market. The "Acumulus" working title provides flexibility to operate as either a Trifork/Spantree-branded service or a standalone entity as the market opportunity develops.
 
 ## Conclusion
 
-Trifork Drone AI Solutions represents a natural evolution of our capabilities, combining proven expertise in data solutions, platform engineering, and immersive collaboration with the transformative potential of autonomous drones and vision AI. By focusing on delivering measurable business value through professional services, we can establish a leadership position in this rapidly growing market while staying true to our core values of solving hard problems scientifically and eliminating tedium.
+Trifork/Spantree Drone AI Solutions represents a natural evolution of our capabilities, combining proven expertise in data solutions, platform engineering, and immersive collaboration with the transformative potential of autonomous drones and vision AI. By focusing on delivering measurable business value through professional services, we can establish a leadership position in this rapidly growing market while staying true to our core values of solving hard problems scientifically and eliminating tedium.
 
-Our approach—emphasizing partnership over prescription, knowledge transfer over dependency, and custom solutions over one-size-fits-all platforms—positions us uniquely to serve enterprises seeking not just drone technology, but true digital transformation of their physical operations. The convergence of market timing, technological capability, and enterprise need creates an opportunity that aligns perfectly with Trifork's strengths and ambitions. Through careful execution of our hypothesis-driven approach, we will build a business that transforms how enterprises see, understand, and optimize their physical assets while establishing Trifork as the trusted partner for drone-enabled digital transformation.
+Our approach—emphasizing partnership over prescription, knowledge transfer over dependency, and custom solutions over one-size-fits-all platforms—positions us uniquely to serve enterprises seeking not just drone technology, but true digital transformation of their physical operations. The convergence of market timing, technological capability, and enterprise need creates an opportunity that aligns perfectly with Trifork/Spantree's strengths and ambitions. Through careful execution of our hypothesis-driven approach, we will build a business that transforms how enterprises see, understand, and optimize their physical assets while establishing Trifork/Spantree as one of the trusted partners for drone-enabled digital transformation.
