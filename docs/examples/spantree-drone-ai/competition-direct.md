@@ -9,13 +9,13 @@ Our most direct competition comes from specialized firms offering custom drone s
 
 ## Specialized Drone Development Consultancies
 
-The [PX4 consultants directory](https://px4.io/community/consultants/) reveals a landscape of small to medium-sized firms that represent our truest competition. These companies share our professional services model but typically operate at smaller scale.
+Research into the competitive landscape reveals important insights about custom development firms. The [PX4 consultants directory](https://px4.io/community/consultants/) lists many specialized firms offering enterprise UAV development, but analysis shows most focus on the drone/autopilot technical layer rather than full-stack enterprise integration. This creates a clear market opening for resegmented providers who blend professional services with deep drone technology expertise.
 
-### Ascend Engineer - Technical Depth Example
+### Market Analysis of Custom Development Firms
 
-**[Ascend Engineer](https://www.ascendengineer.com/)** exemplifies the specialized drone consultancy model. With deep expertise in PX4 autopilot customization, sensor integration, and payload development, they represent the technical depth we must respect and exceed. Their work spans custom flight controllers, specialized computer vision applications, and hardware-software integration. 
+**Ascend Engineering** in Chicago exemplifies the current state of specialized drone consultancies. As a team of UAV software engineers serving government and commercial clients, they provide full-spectrum development including PX4 autopilot tuning, AI integration, and payload development. Their collaboration with PX4 maintainers on MAVSDK cross-platform support demonstrates technical sophistication. However, like most firms in this space, they lack explicit focus on inventory or logistics use cases, instead emphasizing technical capabilities over business transformation.
 
-However, their small team (under 10 engineers) and project-based model limits their ability to handle enterprise-scale deployments, provide 24/7 support, or manage the complex stakeholder relationships that Fortune 500 engagements require.
+The competitive landscape includes various scales of operation. Smaller specialists like **DroneSolutions** (led by Nuno Marques in Europe) operate as one-person consultancies with partner networks, while firms like **Zealous System** in Ohio employ 50+ people and charge $50-$99/hour for custom UAV software development. Larger agencies like **Softeq** in Houston boast 250+ engineers specializing in drone control software with FAA compliance, while **ScienceSoft** in McKinney, Texas leverages 500+ employees for enterprise drone software integration.
 
 ### Regional Drone Consultancies
 

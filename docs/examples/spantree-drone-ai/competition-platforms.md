@@ -5,7 +5,32 @@ sidebar_position: 2
 
 # Platform Providers as Partners, Not Competitors
 
-A critical distinction in our competitive analysis is recognizing that many perceived "competitors" actually represent partnership opportunities. Platform providers like Percepto, DroneDeploy, and mission planning systems serve as foundations we build upon rather than adversaries we fight against.
+A critical distinction in our competitive analysis is recognizing that many perceived "competitors" actually represent partnership opportunities. Platform providers like DJI, Percepto, DroneDeploy, and mission planning systems serve as foundations we build upon rather than adversaries we fight against.
+
+## DJI Enterprise - The Dominant Platform Partner
+
+DJI's position as the market leader with **70-80% market share** makes them our most critical platform partner. Rather than viewing their dominance as a threat, we see it as an opportunity to build on the most proven and widely deployed drone ecosystem in the world.
+
+### Company Profile
+- **Global Leader**: Controls 70-80% of commercial drone market
+- **Enterprise Revenue**: $8.4-9.6 billion North American revenue
+- **Innovation Track Record**: Continuous platform improvements and new models
+- **Ecosystem Scale**: Largest network of trained pilots and service providers
+- **Regulatory Risk**: Potential NDAA ban creates both challenges and opportunities
+
+### Strategic Partnership Opportunities
+
+**Hardware Foundation**
+DJI's enterprise platforms provide the reliable foundation for our solutions. The Matrice series offers industry-leading flight time, payload capacity, and sensor options. The DJI Dock platform enables truly autonomous operations with minimal infrastructure investment. Their consistent hardware quality and global support network reduce deployment risks while accelerating time to value.
+
+**FlightHub 2 Integration**
+[DJI FlightHub 2](https://www.dji.com/flighthub-2) serves as the mission control backbone for enterprise operations. We enhance this platform by adding custom AI analytics layers for inventory-specific applications, integrating with enterprise systems that FlightHub doesn't natively support, and providing the professional services layer that transforms raw drone data into business insights. Our deep integration expertise allows customers to leverage their existing DJI investments while gaining advanced capabilities.
+
+**Initial Engagement Strategy**
+To bootstrap the DJI partnership relationship, we should pursue several parallel paths. First, engage with their enterprise sales team to become a certified solutions partner, gaining access to technical resources and co-marketing opportunities. Second, work with established DJI dealers like DroneNerds and Heliguy who already serve enterprise customers and seek value-added partners. Third, develop reference implementations showcasing our AI and integration capabilities on top of DJI hardware, demonstrating clear value addition rather than competition. Finally, participate in DJI's developer ecosystem, contributing to their SDK and gaining early access to new platforms.
+
+**Navigating Regulatory Uncertainty**
+The potential NDAA ban on DJI products presents both risk and opportunity. We prepare for multiple scenarios by maintaining platform-agnostic architecture that can work with any hardware, developing contingency plans with alternative hardware providers, and positioning ourselves as the integration layer that protects customer investments regardless of hardware changes. If DJI faces restrictions, our ability to migrate customers to alternative platforms becomes a significant value proposition.
 
 ## Percepto - Autonomous Infrastructure Platform Partner
 

@@ -6,7 +6,7 @@ const darkCodeTheme = themes.github
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'SpanTree Drone AI',
+  title: 'Trifork/Spantree Drone AI Solutions',
   tagline: 'Autonomous Inventory Intelligence for the Physical World',
   url: 'https://hypotheses-briefs.span.land',
   baseUrl: '/',
@@ -57,7 +57,7 @@ module.exports = {
         defaultMode: 'dark',
       },
       navbar: {
-        title: 'SpanTree Drone AI',
+        title: 'Drone AI Solutions',
         logo: {
           alt: 'Spantree Logo',
           src: 'img/logos/spantree-long-gray-800.svg',

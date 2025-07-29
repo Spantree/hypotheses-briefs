@@ -7,6 +7,8 @@ sidebar_position: 1
 
 ## Understanding the Hypothesis Brief Methodology
 
+<!-- Reference and link to Four Steps to the Epiphany and keep the explanation to one paragraph -->
+
 This document follows the hypothesis brief framework, a strategic planning tool pioneered by Steve Blank and widely adopted in Silicon Valley for validating new business opportunities. Unlike traditional business plans that present assumptions as facts, hypothesis briefs explicitly acknowledge uncertainty while providing a structured approach to test and refine business assumptions. Each section of this document represents a specific hypothesis about our market, customers, product, distribution, pricing, and competition that we will validate through customer discovery and market experimentation.
 
 The hypothesis brief methodology serves as a living document, designed to evolve as we gather evidence from the market. By framing our assumptions as testable hypotheses rather than fixed truths, we maintain the intellectual flexibility necessary to pivot our approach based on real-world feedback while maintaining strategic clarity about our direction.
