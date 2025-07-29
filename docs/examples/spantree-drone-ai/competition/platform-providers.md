@@ -32,30 +32,68 @@ To bootstrap the DJI partnership relationship, we should pursue several parallel
 **Navigating Regulatory Uncertainty**
 The potential NDAA ban on DJI products presents both risk and opportunity. We prepare for multiple scenarios by maintaining platform-agnostic architecture that can work with any hardware, developing contingency plans with alternative hardware providers, and positioning ourselves as the integration layer that protects customer investments regardless of hardware changes. If DJI faces restrictions, our ability to migrate customers to alternative platforms becomes a significant value proposition.
 
-## Percepto - Autonomous Infrastructure Platform Partner
+## Autel Robotics - Enterprise-Grade Alternative
 
-Percepto has established itself as the autonomous inspection leader through a combination of technical innovation, regulatory achievements, and blue-chip customer validation. Their position as the first company to receive nationwide FAA Beyond Visual Line of Sight (BVLOS) waiver demonstrates both technical maturity and regulatory sophistication that we can leverage.
+Autel Robotics has emerged as a serious enterprise contender, offering professional-grade drones that address security concerns while delivering competitive performance. Their US-based support and NDAA compliance make them increasingly attractive to security-conscious enterprises.
 
 ### Company Profile
-- **Location**: Austin, Texas
-- **Funding**: $120 million including recent [$67 million Series C](https://techcrunch.com/2023/06/12/percepto-flies-high-with-67m-for-its-industrial-drones/)
-- **Lead Investor**: Koch Disruptive Technologies
-- **Enterprise Focus**: Infrastructure inspection and monitoring
-- **Regulatory Leadership**: First nationwide FAA BVLOS waiver holder
+- **Headquarters**: Bothell, Washington (US operations)
+- **Parent Company**: Autel Intelligent Technology (China)
+- **Market Position**: #3 commercial drone manufacturer globally
+- **Key Differentiator**: NDAA compliant options available
+- **Enterprise Focus**: Public safety, infrastructure inspection, surveying
 
 ### Strategic Partnership Opportunities
 
-**Platform Foundation**
-Percepto's mature autonomous drone-in-a-box solution provides proven infrastructure for 24/7 operations. Their Percepto Sparrow system has demonstrated reliability in harsh industrial environments across deployments at Koch Industries, Siemens Energy, Florida Power & Light, and major chemical plants. This track record of enterprise success creates immediate credibility when we propose joint solutions. Their robust weatherized hardware, integrated command center, and comprehensive fleet management eliminate many technical risks that concern enterprise buyers.
+**Hardware Platform**
+Autel's EVO II Enterprise series provides professional-grade capabilities with thermal imaging, RTK positioning, and rugged design suitable for industrial environments. Their commitment to open standards and SDK accessibility makes integration straightforward. The EVO Max 4T's advanced obstacle avoidance and AI-powered features create opportunities for sophisticated autonomous operations. Their competitive pricing compared to DJI makes them attractive for budget-conscious enterprises while maintaining professional capabilities.
 
-**Complementary Capabilities**
-The natural division between Percepto's infrastructure inspection focus and our inventory management expertise creates powerful synergies without channel conflict. We can leverage their mature autonomous flight platform and BVLOS regulatory expertise while adding our custom AI models for inventory-specific applications. Our deep enterprise integration capabilities complement their platform approach, creating comprehensive solutions neither company could deliver alone. This partnership model allows both companies to expand addressable markets without direct competition.
+**Security and Compliance Advantages**
+For enterprises with strict security requirements, Autel offers compelling advantages. Their drones can operate in secure environments where Chinese-manufactured alternatives face restrictions. The ability to control data flow and storage addresses privacy concerns that block adoption in sensitive industries. US-based technical support and service reduce operational risks for mission-critical deployments. This positioning makes Autel ideal for government contractors, critical infrastructure operators, and security-conscious enterprises.
 
-**Initial Engagement Strategy**
-To establish the Percepto partnership, we should begin by identifying mutual customers where Percepto handles infrastructure inspection while we could add inventory management capabilities. Joint solution development for specific enterprise accounts would demonstrate immediate value while building trust. We can participate in their partner ecosystem, gaining access to technical resources and co-marketing opportunities. Reference architectures showing how our solutions complement each other would accelerate joint sales efforts. Their existing enterprise relationships, particularly with Koch Industries and other industrial giants, provide warm introductions to expand our footprint.
+**Partnership Strategy**
+Building relationships with Autel requires demonstrating our ability to enhance their market position against dominant competitors. We should develop reference implementations showcasing advanced AI capabilities on their platforms, participate in their partner program to gain technical and marketing support, and create joint solutions targeting security-sensitive verticals where they have advantages. Their growing dealer network provides channel opportunities for combined offerings.
+
+## Parrot - European Innovation Partner
+
+Parrot brings unique European perspective and technology innovation to the enterprise drone market, with particular strength in thermal imaging and secure operations.
+
+### Company Profile
+- **Headquarters**: Paris, France
+- **Founded**: 1994 (pivot to commercial drones in 2017)
+- **Specialty**: ANAFI USA - designed for enterprise/government
+- **Key Markets**: Public safety, defense, inspection
+- **Differentiator**: European data sovereignty compliance
+
+### Strategic Partnership Opportunities
+
+**Technical Capabilities**
+Parrot's ANAFI platform offers unique advantages including 32x zoom capabilities ideal for detailed inspections, advanced thermal imaging with radiometric data, and USA-assembled options for security requirements. Their open-source approach to development creates flexibility for custom integrations. The lightweight, foldable design enables rapid deployment in varied environments while maintaining professional capabilities.
 
 **Market Positioning**
-While Percepto does offer some professional services, their platform-first approach leaves significant gaps we can fill. Enterprise customers often need deeper customization, complex integrations with ERP systems, and industry-specific solutions that go beyond Percepto's standard offerings. By positioning ourselves as the professional services layer that maximizes Percepto platform value, we create a win-win relationship that serves customers better than either company could independently.
+Parrot's European heritage provides advantages in markets prioritizing data sovereignty and privacy. Their compliance with GDPR and European regulations opens doors closed to other manufacturers. The company's focus on specific use cases rather than broad platform plays creates opportunities for specialized solutions. Their smaller market share means they actively seek capable partners to enhance their value proposition.
+
+**Partnership Development**
+Engaging with Parrot requires understanding their boutique positioning in the market. We should leverage their technical innovations for specialized use cases, develop solutions that showcase their unique thermal and zoom capabilities, and partner on European opportunities where their compliance advantages matter. Their commitment to open development aligns with our platform-agnostic approach.
+
+## Percepto - Autonomous Infrastructure Platform Partner
+
+Percepto specializes in autonomous infrastructure inspection, offering mature drone-in-a-box solutions with proven enterprise deployments.
+
+### Company Profile
+- **Location**: Austin, Texas
+- **Funding**: $120 million including recent Series C
+- **Key Customers**: Koch Industries, Siemens Energy, FPL
+- **Differentiator**: First nationwide FAA BVLOS waiver
+- **Focus**: Infrastructure inspection and monitoring
+
+### Strategic Partnership Opportunities
+
+**Complementary Capabilities**
+Percepto's infrastructure inspection focus complements our inventory management expertise without creating channel conflict. Their mature autonomous platform and BVLOS expertise provide a foundation we can build upon with custom AI models and deep integration capabilities. This partnership model allows both companies to expand addressable markets while serving customers better together.
+
+**Partnership Strategy**
+We can leverage their existing enterprise relationships while filling gaps in customization and industry-specific solutions. Their platform-first approach leaves opportunities for our professional services to maximize customer value through deeper ERP integration and specialized implementations.
 
 ## DroneDeploy - Mission Planning Platform Partner
 
