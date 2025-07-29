@@ -22,7 +22,7 @@ The convergence of regulatory progress, technological maturation, and acute labo
 ## Vision and Mission
 
 <!-- TODO: Refine vision statement after brand naming decision -->
-<!-- Let's soften this from being *the* premier leader to being one of the premier leaders. -->
+<!-- NOTE: Let's soften this from being *the* premier leader to being one of the premier leaders. Do the same throughout the document, acknowledging that there will likely be 2 to 3 major players in this overall space, but our unique combination of skills makes us highly competitive within a niche. -->
 
 **Vision**: To become one of the premier providers of intelligent drone solutions that transform how enterprises visualize, track, and manage their physical assets through the seamless integration of autonomous flight, vision AI, and immersive technologies.
 
@@ -39,19 +39,18 @@ Success for Trifork Drone AI Solutions manifests across multiple dimensions, eac
 **Business Impact** validates our approach through tangible results. Based on documented implementations in the market, our solutions enable dramatic reductions in inventory counting time. For example, a typical rail yard conducting quarterly manual counts might require 90 days of rolling counts to cover their entire facility—by the time they finish, the first areas counted are already out of date. With drone-based automated counting, that same facility can achieve complete inventory visibility in just 2.5 days, with the ability to perform targeted counts daily.
 
 Our counting capabilities span three levels of sophistication:
+
 - **Raw Count**: Simple numerical tallies (e.g., "847 railcars in the yard")
 - **Classification Count**: Counts by type (e.g., "312 tank cars, 287 boxcars, 248 intermodal")
 - **Full Identification**: Complete asset details (e.g., "GATX 123456 tank car, last moved 72 hours ago, scheduled for maintenance")
 
 Major ports like the [Port of Los Angeles have deployed drone technologies](https://www.portoflosangeles.org/environment/air-quality/zero-emissions-technologies) for enhanced operations, while automotive logistics providers have documented annual savings ranging from $100,000 to over $1 million per facility through improved accuracy and reduced labor costs. Most critically, we eliminate safety incidents from high-bay manual counting, addressing a persistent challenge that costs enterprises both financially and ethically.
 
-
 **Market Position** reflects our strategic growth trajectory. Within three years, we envision recognition as a leader in drone-based inventory solutions, with 10 or more Fortune 1000 deployments demonstrating our enterprise readiness. Strategic partnerships with leading drone manufacturers and enterprise software vendors will amplify our capabilities, while our pioneering work in immersive spatial computing—particularly our distinct expertise with Apple Vision Pro for industrial applications—establishes Trifork as an innovation leader. Our industry expertise and proven implementations will shape standards and best practices, positioning us as the trusted advisor for enterprises embarking on drone transformation journeys.
 
 ## Risks
 
 The path to market leadership requires careful navigation of multiple risk factors, each of which we address through specific mitigation strategies.
-
 
 **Regulatory Risks** represent our most immediate challenge. While the FAA has made significant progress with Part 107 regulations, Beyond Visual Line of Sight (BVLOS) operations remain restricted to case-by-case waivers. This limitation affects our ability to deliver fully autonomous solutions in the near term. Additionally, potential restrictions on Chinese-manufactured drones pose a significant risk, as [DJI currently dominates the US market](https://dronexl.co/2025/05/31/trump-new-orders-ban-chinese-dji-drones/) with the most robust enterprise integration ecosystem. State and local restrictions create a patchwork of operational constraints, while data privacy regulations add complexity when capturing aerial imagery. We mitigate these risks through strategic partnerships with regulatory consultants, platform-agnostic architecture that supports multiple drone manufacturers, and privacy-by-design principles in our data handling.
 
@@ -73,7 +72,7 @@ Our growth strategy unfolds through four distinct phases, each building upon pre
 
 **Phase 3: Scale (Year 2)** accelerates our market penetration through proven success patterns. Expanding to 10 or more active deployments creates operational leverage and learning opportunities. Adding specialized verticals such as construction materials tracking and energy infrastructure monitoring diversifies our revenue base. The introduction of Apple Vision Pro visualization features differentiates our offering and appeals to innovation-focused enterprises. Building our partner ecosystem during this phase creates multiple paths to market and enhances our solution capabilities.
 
-**Phase 4: Market Leadership (Year 3+)** solidifies our position as the definitive enterprise choice. With 25 or more enterprise customers, we achieve the scale necessary for market influence. Multi-site coordination capabilities address the needs of large enterprises with distributed operations. Industry-specific solutions demonstrate deep vertical expertise, while our established market position creates opportunities for strategic acquisitions or exits.
+**Phase 4: Market Leadership (Year 3+)** solidifies our position as one of the definitive enterprise choices. With 25 or more enterprise customers, we achieve the scale necessary for market influence. Multi-site coordination capabilities address the needs of large enterprises with distributed operations. Industry-specific solutions demonstrate deep vertical expertise, while our established market position creates opportunities for strategic acquisitions or exits.
 
 ## Our Hypotheses
 
@@ -122,6 +121,7 @@ Our differentiation stems from our unique combination of capabilities and approa
 Our working brand, **"Acumulus by Trifork"** (or **"Trifork Acumulus"**), perfectly captures our value proposition—accumulating data from the sky like a cumulus cloud gathering moisture. This cloud metaphor reinforces both our aerial perspective and the data aggregation capabilities that transform raw imagery into actionable intelligence.
 
 Alternative brand considerations include concise, memorable options with strong digital presence:
+
 - **flytel.ai** - Combining flight with intelligence
 - **airtel.io** - Aerial intelligence platform positioning
 - **skyvault.ai** - Emphasizing secure data storage from aerial capture

@@ -65,7 +65,6 @@ Our full-stack approach represents a fundamental market differentiator that addr
 
 The market reality reveals critical gaps in partial solutions. Drone operators may excel at flight operations but lack the software engineering expertise to transform imagery into business value. Software companies may build sophisticated analytics but fail to understand the operational realities of industrial drone deployment. Hardware vendors focus on selling equipment without ensuring customers achieve promised outcomes. System integrators often lack the deep domain expertise required for successful implementation.
 
-
 Our unique combination addresses these gaps through unified ownership of the entire value chain. This represents one of our "Three Uniques" that differentiate Trifork in the market:
 
 1. **Full-Stack Integration** - We own every layer from drone operations to business optimization, eliminating vendor coordination complexity
@@ -78,7 +77,6 @@ This full-stack ownership translates directly to customer success. Deployment ti
 
 ### Multi-Image Object Clustering: Solving the Double-Count Dilemma
 
-
 One of the most challenging aspects of modern inventory management involves reconciling multiple data sources that may overlap, conflict, or provide partial views. Our solution goes beyond simple drone imagery to integrate what we call "multi-modal sensing"—combining drone data with fixed cameras, on-asset GPS trackers, RFID gates, and other sensors to build a complete operational picture.
 
 This multi-modal approach strengthens confidence through redundancy while filling gaps in individual sensor capabilities. Fixed security cameras might detect that something moved in the yard overnight but lack the resolution to identify what moved—our morning drone flight provides that specific identification. Conversely, on-asset GPS might show a railcar's location but can't confirm if it's loaded or empty—drone imagery provides that visual verification. When sensors disagree (a GPS showing one location while visual identification places the asset elsewhere), our reconciliation algorithms weigh factors like sensor reliability, data freshness, and historical patterns to determine ground truth.
@@ -90,7 +88,6 @@ The system excels at preventing double-counting across these multiple inputs. Wh
 The true power of our drone solution extends far beyond simple inventory counts to enable sophisticated operational decision-making. By creating a comprehensive data foundation that didn't exist before, we unlock capabilities that transform how enterprises manage their physical operations.
 
 **Asset Movement Optimization** leverages temporal data to understand flow patterns and bottlenecks. For rail yards, this means intelligently reorienting cars based on maintenance schedules and parts availability. When critical components are backordered for six months, the system recommends repositioning affected equipment to optimize yard space. Customer priority analysis enables strategic placement—when a major client like Walmart requires rapid turnaround, their assets can be positioned for quick access while maintaining overall operational efficiency.
-
 
 **Condition-Based Maintenance** transforms reactive repairs into proactive management through comprehensive monitoring that combines aerial and ground-based inputs. While drones excel at detecting visible issues like rust progression, structural deformation, and wear patterns from above, we recognize that critical problems often hide from aerial view. Our solution will integrate ground-based inspections captured through mobile apps, allowing workers to photograph and annotate issues like undercarriage damage, hydraulic leaks, or interior deterioration.
 
@@ -108,9 +105,11 @@ Our temporal intelligence capabilities transform inventory management from a ser
 
 Pattern recognition algorithms identify recurring movements such as daily shipping/receiving cycles, weekly production patterns, and seasonal inventory builds. Anomaly detection flags unusual movements that might indicate theft, process breakdowns, or safety violations. Predictive analytics forecast future inventory positions based on historical patterns and current trends. Optimization algorithms suggest layout changes to reduce movement distances and improve accessibility. The temporal dimension transforms drone data from operational reporting to strategic intelligence.
 
-### Orthomosaic Generation and Facility Mapping
+### Comprehensive Facility Mapping from Aerial Imagery
 
-The creation of seamless, georeferenced facility maps from hundreds of individual drone images provides a foundational visualization layer for all other capabilities. Our automated stitching pipeline handles the complex challenges of aerial photogrammetry in industrial environments, including varying elevations, reflective surfaces, and moving objects. Updated after each flight, these orthomosaics serve as the geographic foundation for inventory visualization, measurement, and analysis.
+The creation of seamless, georeferenced facility maps from hundreds of individual drone images provides a foundational visualization layer for all other capabilities. Think of an orthomosaic as a highly detailed aerial map of your entire facility—like Google Maps but with centimeter-level accuracy and updated daily. We create these maps by intelligently stitching together hundreds or thousands of overlapping drone photos, correcting for perspective, angle, and lighting to produce one continuous, measurable image of your entire operation.
+
+Our automated stitching pipeline handles the complex challenges of aerial photogrammetry in industrial environments, including varying elevations, reflective surfaces, and moving objects. Updated after each flight, these comprehensive facility maps serve as the geographic foundation for inventory visualization, measurement, and analysis.
 
 The technical sophistication required for industrial orthomosaics exceeds typical mapping applications. Radiometric calibration ensures consistent coloring across images captured at different times and lighting conditions. Moving object removal prevents vehicles and equipment from creating artifacts in the base map. Multi-temporal fusion allows the system to build complete maps even when some areas are temporarily obscured. Sub-pixel registration ensures that measurements remain accurate across the entire facility. The resulting maps support precise distance and area measurements, historical comparisons to track facility changes over time, integration with CAD systems for planning and design, and augmented reality overlays for field operations.
 
@@ -122,11 +121,9 @@ The value of drone-captured intelligence multiplies when seamlessly integrated w
 
 Our integration architecture addresses the complex reality of enterprise IT environments where decades of system evolution have created a patchwork of technologies, protocols, and data formats. Native connectors for major platforms including [SAP Extended Warehouse Management](https://www.sap.com/products/extended-warehouse-management.html), [Oracle WMS](https://www.oracle.com/scm/warehouse-management-cloud/), Microsoft Dynamics, and [Manhattan Associates](https://www.manh.com/products/warehouse-management) provide plug-and-play integration for common scenarios.
 
-
 Beyond pre-built connectors, our platform will provide comprehensive integration capabilities through modern REST APIs with webhook support for real-time updates. Enterprise service bus compatibility will ensure integration with existing middleware. Batch processing interfaces will handle large-scale data synchronization. Change data capture will minimize integration overhead by only transmitting updates. The security architecture will support OAuth 2.0, SAML, and enterprise SSO requirements while maintaining SOC 2 Type II compliance throughout.
 
 ### 3D Facility Modeling: The Digital Twin Revolution
-
 
 The evolution from 2D maps to photorealistic 3D models represents a paradigm shift in how facilities managers understand and optimize their operations. Our 3D reconstruction pipeline will leverage best-in-class photogrammetry engines, each selected for specific strengths. [OpenDroneMap (ODM)](https://www.opendronemap.org/) provides open-source flexibility for standard reconstructions. [DJI Terra](https://www.dji.com/dji-terra) excels at real-time processing for immediate insights. [Cesium ion](https://cesium.com/platform/cesium-ion/) delivers cloud-based processing with superior terrain handling.
 
