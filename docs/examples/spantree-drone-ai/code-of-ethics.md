@@ -3,11 +3,9 @@ title: Code of Ethics
 sidebar_position: 8
 ---
 
-# Code of Ethics for Drone AI Solutions
+# Our Commitment to Ethical Technology
 
-## Our Commitment to Ethical Technology
-
-At Trifork Drone AI Solutions (Acumulus by Trifork), we believe that advanced technology carries profound responsibility. Our drone and AI capabilities can transform industries and improve lives, but they can also be misused in ways that harm individuals, communities, or our environment. This Code of Ethics establishes clear boundaries for how we deploy our technology, ensuring our innovations serve the greater good while respecting human dignity, privacy, and our planet's future.
+We believe that advanced technology carries profound responsibility. Our drone and AI capabilities can transform industries and improve lives, but they can also be misused in ways that harm individuals, communities, or our environment. This Code of Ethics establishes clear boundaries for how we deploy our technology, ensuring our innovations serve the greater good while respecting human dignity, privacy, and our planet's future.
 
 ## Core Ethical Principles
 
@@ -36,15 +34,17 @@ We strive to ensure our technology reduces rather than amplifies social inequali
 We will NOT provide our drone AI solutions for:
 
 ### Military and Defense Applications Causing Harm
+
 - **Weapons targeting or guidance systems** that could result in physical harm to individuals
 - **Combat reconnaissance** for offensive military operations
 - **Border surveillance** systems designed to track or harm migrants or refugees
 - **Autonomous weapons platforms** or any lethal autonomous systems
 - **Military intelligence gathering** for operations that may result in civilian casualties
 
-*Note: We may consider non-harmful military applications such as search and rescue, disaster response, or infrastructure inspection on military bases.*
+_Note: We may consider non-harmful military applications such as search and rescue, disaster response, or infrastructure inspection on military bases._
 
 ### Surveillance of Civil Society
+
 - **Protest surveillance** or monitoring of peaceful demonstrations
 - **Political opposition tracking** or surveillance of activists
 - **Religious or ethnic minority surveillance** programs
@@ -52,6 +52,7 @@ We will NOT provide our drone AI solutions for:
 - **Journalist surveillance** or tracking of media personnel
 
 ### Environmental Exploitation
+
 - **Fossil fuel exploration** support for new drilling or extraction sites
 - **Deforestation monitoring** for companies engaged in illegal logging
 - **Mining exploration** in protected areas or indigenous lands
@@ -59,6 +60,7 @@ We will NOT provide our drone AI solutions for:
 - **Illegal fishing** surveillance that enables rather than prevents violations
 
 ### Law Enforcement Overreach
+
 - **Predictive policing** systems that may perpetuate racial or socioeconomic bias
 - **Mass surveillance** programs without appropriate judicial oversight
 - **Facial recognition** for real-time identification in public spaces
@@ -70,7 +72,9 @@ We will NOT provide our drone AI solutions for:
 The following applications require case-by-case ethical review by our Ethics Committee:
 
 ### Energy Sector Applications
+
 **Permitted when focused on safety and harm reduction:**
+
 - Pipeline integrity monitoring to prevent spills and explosions
 - Solar and wind farm inspection for renewable energy optimization
 - Power line inspection to prevent wildfires and outages
@@ -78,13 +82,16 @@ The following applications require case-by-case ethical review by our Ethics Com
 - Methane leak detection for greenhouse gas reduction
 
 **Prohibited when supporting expansion:**
+
 - New oil field exploration or development
 - Coal mine expansion planning
 - Fracking site selection or monitoring
 - Arctic drilling support operations
 
 ### Law Enforcement Applications
+
 **Permitted with strict safeguards:**
+
 - Search and rescue operations
 - Disaster response and emergency management
 - Traffic accident reconstruction
@@ -92,63 +99,79 @@ The following applications require case-by-case ethical review by our Ethics Com
 - Missing person searches
 
 **Requiring additional review:**
+
 - Any ongoing surveillance operations
 - Data retention beyond immediate operational needs
 - Integration with other surveillance systems
 - Cross-jurisdictional data sharing
 
 ### Agricultural Applications
+
 **Generally permitted:**
+
 - Crop health monitoring for sustainable farming
 - Precision agriculture to reduce chemical use
 - Drought assessment and water conservation
 - Pest detection for targeted intervention
 
 **Requiring review:**
+
 - Large-scale monoculture operations
 - Farms with documented labor violations
 - Operations near protected watersheds
 - Genetically modified crop monitoring
 
 ### Critical Infrastructure
+
 **Permitted for safety:**
+
 - Dam and bridge structural inspection
 - Railway safety monitoring
 - Port security for preventing accidents
 - Airport perimeter security
 
 **Prohibited:**
+
 - Infrastructure targeting for any hostile purpose
 - Vulnerability assessments for offensive purposes
 
 ## Implementation Framework
 
-### Ethics Committee Structure
-Our Ethics Committee consists of:
-- Chief Technology Officer
-- Head of Legal and Compliance
-- External Ethics Advisor (rotating annually)
-- Customer Representative
-- Employee Representative
+### Practical Ethics Integration
 
-The committee meets monthly and reviews:
-- All new customer engagements
-- Existing customer use case expansions
-- Reported ethical concerns
-- Policy updates and interpretations
+Rather than establishing a formal committee structure that may be premature for our current size, we integrate ethical considerations directly into our customer and opportunity qualification process. This approach ensures ethical review happens naturally as part of business development while remaining appropriately scaled to our operations.
 
-### Decision-Making Process
+### Customer Qualification Process
 
-1. **Initial Screening**: Sales team conducts preliminary ethics check using our automated screening tool
-2. **Detailed Review**: Questionable cases escalated to Ethics Committee
-3. **Stakeholder Consultation**: When needed, we consult affected communities or experts
-4. **Documentation**: All decisions documented with clear rationale
-5. **Appeals Process**: Customers may appeal decisions with additional information
-6. **Regular Audits**: Annual third-party audits of our ethical compliance
+Every potential engagement undergoes ethical screening as part of our standard qualification:
+
+1. **Initial Screening**: Sales team reviews opportunities against our prohibited use cases during discovery calls
+2. **Use Case Documentation**: Customer's intended application clearly documented in our CRM
+3. **Leadership Review**: Questionable cases escalated to leadership team for discussion
+4. **Clear Documentation**: Decisions and rationale recorded for future reference
+5. **Ongoing Monitoring**: Regular check-ins ensure deployments remain aligned with stated purposes
+
+### Decision Guidelines
+
+When evaluating opportunities, we consider:
+- **Primary Purpose**: Is the main use case aligned with our values?
+- **Downstream Risk**: Could our technology enable harmful applications?
+- **Stakeholder Impact**: Who benefits and who might be harmed?
+- **Alternative Solutions**: Can we modify the engagement to address concerns?
+- **Reputation Risk**: How would this project reflect on our values?
+
+### Scaling Considerations
+
+As we grow, this framework will evolve:
+- **Near Term**: Leadership team handles all ethical reviews
+- **Growth Phase**: Designate an ethics officer role
+- **Scale Phase**: Establish formal committee structure
+- **Maturity**: Third-party audits and external advisors
 
 ### Employee Responsibilities
 
 All employees must:
+
 - Complete annual ethics training
 - Report potential violations through our anonymous hotline
 - Refuse work that violates this code, without fear of retaliation
@@ -158,6 +181,7 @@ All employees must:
 ### Customer Transparency
 
 We commit to:
+
 - Sharing this Code of Ethics publicly
 - Including ethical use clauses in all contracts
 - Conducting customer audits for compliance
@@ -169,6 +193,7 @@ We commit to:
 While defining what we won't do is important, we actively seek opportunities to create positive impact:
 
 ### Environmental Protection
+
 - Wildlife conservation monitoring
 - Reforestation verification
 - Ocean plastic detection
@@ -176,6 +201,7 @@ While defining what we won't do is important, we actively seek opportunities to 
 - Carbon sequestration validation
 
 ### Humanitarian Applications
+
 - Disaster damage assessment
 - Medical supply delivery planning
 - Food security monitoring
@@ -183,6 +209,7 @@ While defining what we won't do is important, we actively seek opportunities to 
 - Infrastructure development in underserved areas
 
 ### Scientific Research
+
 - Climate change monitoring
 - Archaeological site preservation
 - Ecological research support
@@ -190,6 +217,7 @@ While defining what we won't do is important, we actively seek opportunities to 
 - Biodiversity assessments
 
 ### Social Good
+
 - Affordable housing inspections
 - Community infrastructure assessment
 - Educational facility safety checks
@@ -201,24 +229,28 @@ While defining what we won't do is important, we actively seek opportunities to 
 As technology evolves, new ethical challenges emerge. We commit to proactively addressing:
 
 ### AI and Autonomy
+
 - **Algorithmic bias** in our vision AI systems
 - **Decision transparency** in autonomous operations
 - **Human oversight** requirements for critical decisions
 - **Data representativeness** in training sets
 
 ### Data Ethics
+
 - **Data minimization** - collecting only necessary information
 - **Purpose limitation** - using data only for stated purposes
 - **Retention limits** - deleting data when no longer needed
 - **Cross-border transfers** - respecting data sovereignty
 
 ### Environmental Impact
+
 - **Carbon footprint** of our operations
 - **E-waste** from drone hardware
 - **Noise pollution** in sensitive areas
 - **Wildlife disruption** from flight operations
 
 ### Economic Justice
+
 - **Labor displacement** considerations
 - **Small business** competition impacts
 - **Technology access** equity
@@ -227,6 +259,7 @@ As technology evolves, new ethical challenges emerge. We commit to proactively a
 ## Accountability and Enforcement
 
 ### Violation Reporting
+
 - Anonymous ethics hotline: +1-800-XXX-XXXX
 - Secure email: ethics@acumulus.ai
 - Regular employee surveys
@@ -234,7 +267,9 @@ As technology evolves, new ethical challenges emerge. We commit to proactively a
 - Community stakeholder forums
 
 ### Consequences
+
 Violations of this Code may result in:
+
 - Customer contract termination
 - Employee disciplinary action
 - Legal action when appropriate
@@ -242,7 +277,9 @@ Violations of this Code may result in:
 - Remediation requirements
 
 ### Continuous Improvement
+
 We review and update this Code annually based on:
+
 - Technological developments
 - Regulatory changes
 - Stakeholder feedback
@@ -254,6 +291,7 @@ We review and update this Code annually based on:
 We extend our ethical standards to partners and suppliers:
 
 ### Supplier Requirements
+
 - **No child labor** or forced labor
 - **Fair wages** and working conditions
 - **Environmental standards** compliance
@@ -261,6 +299,7 @@ We extend our ethical standards to partners and suppliers:
 - **Data protection** standards
 
 ### Partner Vetting
+
 - Background checks for ethical violations
 - Review of past project impacts
 - Assessment of ethical policies
@@ -272,6 +311,7 @@ We extend our ethical standards to partners and suppliers:
 Operating internationally requires sensitivity to:
 
 ### Cultural Context
+
 - Local community values and norms
 - Indigenous rights and territories
 - Religious and cultural sites
@@ -279,6 +319,7 @@ Operating internationally requires sensitivity to:
 - Language and communication preferences
 
 ### Regulatory Compliance
+
 - International humanitarian law
 - Human rights conventions
 - Environmental treaties
@@ -298,10 +339,12 @@ This Code of Ethics is a living document that evolves with our understanding of 
 ## Contact and Resources
 
 **Ethics Committee Contact:**
+
 - Email: ethics-committee@acumulus.ai
 - Phone: +1-800-XXX-XXXX ext. 1234
 
 **Additional Resources:**
+
 - Ethics training portal: ethics.acumulus.ai
 - Anonymous reporting: report.acumulus.ai
 - Annual ethics reports: acumulus.ai/ethics-reports
@@ -309,8 +352,8 @@ This Code of Ethics is a living document that evolves with our understanding of 
 
 ---
 
-*Last Updated: July 2025*
-*Version: 1.0*
-*Next Review: July 2026*
+_Last Updated: July 2025_
+_Version: 1.0_
+_Next Review: July 2026_
 
 By choosing to work with Acumulus by Trifork, our customers, partners, and employees join us in our commitment to ensuring that drone and AI technology serves humanity's best interests while protecting our planet for future generations.
