@@ -54,7 +54,7 @@ The transformation layer pricing reflects the continuous nature of operational e
 
 The Starter Package at $250,000 to $400,000 targets single facilities under 50 acres, providing an accessible entry point for enterprises beginning their drone journey. This package demonstrates our ability to deliver value while building confidence for expanded deployments.
 
-Base hardware components include one DJI Dock 3 at $18,000, one Matrice 400 RTK drone at $12,000, infrastructure preparation at $10,000, totaling $40,000 in hardware costs. This foundation provides autonomous operation capability with minimal operational overhead.
+Base hardware components include one autonomous drone docking station at $14,699-$26,150 (varies by model: DJI Dock 2 with Matrice 3D at $14,699 or Dock 3 with Matrice 4TD at $26,150), infrastructure preparation at $10,000, totaling $25,000-$40,000 in hardware costs. This foundation provides autonomous operation capability with minimal operational overhead. The pricing reflects current market rates, though potential regulatory changes affecting Chinese manufacturers could impact availability and costs.
 
 Professional services for the Starter Package focus on essential capabilities. Site assessment and planning at $25,000 ensures optimal system configuration. Base AI model configuration at $50,000 provides accurate detection for common asset types. Dashboard development at $35,000 creates actionable visualizations. WMS integration at $40,000 connects drone data to existing workflows. Training and go-live support at $30,000 ensures sustainable operations. These services total $180,000, representing the bulk of package value.
 
@@ -90,14 +90,31 @@ Enterprise ongoing fees scale with deployment complexity, typically starting at 
 <!-- TODO: Create industry-specific ROI calculators -->
 Successful enterprise sales require clear demonstration of return on investment using customer-specific data and conservative assumptions. Our ROI methodology focuses on quantifiable operational improvements rather than soft benefits, building credibility through measurable results.
 
-Direct cost savings provide the foundation of ROI calculations. Labor reduction from eliminated manual counts saves $200,000 to $500,000 annually in typical deployments. Inventory accuracy improvements reducing discrepancies by 90% save $365,000 to $3,650,000 yearly based on documented error rates. Safety incident prevention avoiding 2-3 injuries annually saves $100,000 to $300,000 in direct costs plus immeasurable human benefits. Expedited shipping reduction through better visibility saves $150,000 to $500,000. These direct savings often justify investment within 12-18 months.
+Direct cost savings provide the foundation of ROI calculations. Real-world examples demonstrate compelling returns:
+
+- **Labor reduction**: One automotive logistics provider saved **$270,000 per month** by eliminating manual "runners" searching for vehicles
+- **Time savings**: Drone scanning of a **160-acre yard in 30 minutes** versus **10-14 days** manually delivers immediate productivity gains
+- **Construction efficiency**: E Construction Ltd. saved **$25,000/year** in avoided downtime alone, with drone surveys completing in 30 minutes what took over a week manually
+- **Agricultural impact**: Kansas recorded **10.3 million acres** sprayed by drones in 2024, generating $215 million in revenue with **70% cost reductions** reported by users
+- **Safety improvements**: Construction firms report **80%+ time savings** while eliminating dangerous stockpile climbing
+- **Inventory accuracy**: Improvements reducing discrepancies by 90% save $365,000 to $3,650,000 yearly based on documented error rates
+
+These direct savings often justify investment within **4-12 months**, with some drone inventory companies advertising ROI within **4 months** based on labor and equipment savings alone.
 
 Indirect value creation multiplies ROI through operational transformation. Improved planning accuracy from real-time visibility enables inventory reduction of 10-15%, freeing millions in working capital. Customer satisfaction improvements from accurate availability promises reduce churn and enable premium pricing. Compliance documentation automation saves hundreds of hours while reducing audit risks. Strategic insights from temporal analytics enable layout optimizations saving millions in operational costs. These indirect benefits often exceed direct savings but require longer timeframes to fully realize.
 
 ### Competitive Pricing Analysis
 
 <!-- TODO: Update competitive pricing quarterly -->
-Our pricing strategy positions us at the premium end of the market while remaining competitive for the value delivered. Percepto's $500,000 to $1,000,000 project pricing provides a ceiling for autonomous inspection solutions. DroneDeploy's Data on Demand service at $250,000 to $750,000 annually offers a platform comparison point. Gather AI's $150,000 to $400,000 warehouse-specific solutions show specialized pricing potential. Traditional manual counting costs of $500,000 to $1,000,000 annually provide the baseline for value creation.
+Our pricing strategy positions us at the premium end of the market while remaining competitive for the value delivered. Current market benchmarks include:
+
+- **Percepto's service-based model**: $50,000-$100,000 annual contracts for their drone-in-a-box solutions, with 150-250 systems deployed
+- **Skydio Dock**: $25,000-$35,000 per system with 200-400 units deployed, plus $1,499-$2,999/year for software features
+- **American Robotics Scout System**: $150,000-$200,000 for high-security applications
+- **DroneDeploy Enterprise**: $20,000-$50,000 per year for platform access (self-service model)
+- **Traditional manual counting costs**: $270,000+ per month in labor for large facilities (based on documented automotive yard case study)
+
+Our pricing sweet spot at $500,000 to $800,000 for professional deployments positions us above self-service platforms but below the most expensive custom solutions, while delivering comprehensive value through our full-stack approach.
 
 Our pricing sweet spot at $500,000 to $800,000 for professional deployments positions us competitively while communicating premium value. We're more expensive than platform-only solutions but less than Percepto's complex deployments. The comprehensive service approach justifies pricing through superior outcomes and reduced implementation risk. The knowledge transfer philosophy creates additional value that sophisticated buyers appreciate. Flexible packaging allows us to compete at different price points while maintaining margins.
 
