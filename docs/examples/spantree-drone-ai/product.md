@@ -13,11 +13,7 @@ Product hypotheses in the hypothesis brief framework articulate our assumptions 
 
 <!-- TODO: Specify exact drone models after vendor partnership agreements -->
 
-<!-- NOTE: The DJI Dock series does not pair with the Matrice 400 series. They are designed specifically to work with the Matrice 4D or 4TD. Matrice 300, 400, and 600 series are designed to be standalone drones and will not work in a first-party dock.
-
-See: https://enterprise.dji.com/dock-3 -->
-
-The deployment of autonomous drone-in-a-box solutions represents the foundational capability that enables all other value creation. Our platform-agnostic approach allows flexibility in hardware selection, though initial implementations will likely leverage either [DJI Dock 3](https://www.dji.com/dock-3) with [Matrice 400 RTK](https://www.dji.com/matrice-400-rtk) drones or [Percepto's integrated solution](https://www.percepto.co/enterprise), depending on specific customer requirements and regulatory environments. These systems enable true 24/7 autonomous missions with automatic charging, data upload, and weather monitoring, dramatically reducing the operational overhead that has historically limited drone adoption in enterprise environments.
+The deployment of autonomous drone-in-a-box solutions represents the foundational capability that enables all other value creation. Our platform-agnostic approach allows flexibility in hardware selection, though initial implementations will likely leverage either [DJI Dock 3](https://enterprise.dji.com/dock-3) with compatible drones like the [Matrice 4D](https://drone-works.com/dji-matrice-4d-drone-for-dock-3-dji-care-enterprise-plus/) or [Matrice 4TD](https://drone-works.com/dji-matrice-4td-drone-for-dock-3-dji-care-enterprise-plus/), or [Percepto's integrated solution](https://www.percepto.co/enterprise), depending on specific customer requirements and regulatory environments. For operations requiring larger payload capacity or extended flight times, standalone drones like the [Matrice 300 RTK](https://www.dji.com/matrice-300) or [Matrice 350 RTK](https://enterprise.dji.com/matrice-350-rtk) remain optimal choices, though they require manual deployment rather than automated dock operations. These systems enable true 24/7 autonomous missions with automatic charging, data upload, and weather monitoring, dramatically reducing the operational overhead that has historically limited drone adoption in enterprise environments.
 
 The sophistication of modern autonomous systems extends far beyond simple waypoint navigation. Pre-programmed flight paths execute without human intervention, but the system continuously adapts to changing conditions including weather, temporary obstacles, and operational priorities. Advanced collision avoidance using multiple sensor modalities ensures safe operations even in complex industrial environments with cranes, vehicles, and other dynamic hazards. The integration of weather stations and predictive analytics allows the system to optimize flight windows, maximizing data collection while ensuring equipment longevity and safety.
 
@@ -67,7 +63,7 @@ Our full-stack approach represents a fundamental market differentiator that addr
 
 The market reality reveals critical gaps in partial solutions. Drone operators may excel at flight operations but lack the software engineering expertise to transform imagery into business value. Software companies may build sophisticated analytics but fail to understand the operational realities of industrial drone deployment. Hardware vendors focus on selling equipment without ensuring customers achieve promised outcomes. System integrators often lack the deep domain expertise required for successful implementation.
 
-Our unique combination addresses these gaps through unified ownership of the entire value chain. This represents one of our "Three Uniques" that differentiate Trifork in the market:
+Our unique combination addresses these gaps through unified ownership of the entire value chain. This represents one of our "Three Uniques" that differentiate Trifork/Spantree in the market:
 
 1. **Full-Stack Integration** - We own every layer from drone operations to business optimization, eliminating vendor coordination complexity
 2. **Professional Services DNA** - Unlike product companies trying to add services, we're a services company that builds products, ensuring customer success
@@ -75,7 +71,7 @@ Our unique combination addresses these gaps through unified ownership of the ent
 
 When challenges arise at any layer, we resolve them without finger-pointing between vendors. Performance optimization occurs holistically rather than locally, ensuring system-wide efficiency. Innovation at one layer immediately benefits the entire stack, accelerating value delivery. Customer support addresses the complete solution rather than forcing clients to coordinate multiple vendors.
 
-This full-stack ownership translates directly to customer success. Deployment timelines compress from months to weeks when one team controls all variables. System reliability improves dramatically without integration seams creating failure points. Total cost of ownership decreases through elimination of vendor coordination overhead. Most importantly, accountability becomes clear—Trifork owns the outcome, not just components.
+This full-stack ownership translates directly to customer success. Deployment timelines compress from months to weeks when one team controls all variables. System reliability improves dramatically without integration seams creating failure points. Total cost of ownership decreases through elimination of vendor coordination overhead. Most importantly, accountability becomes clear—Trifork/Spantree owns the outcome, not just components.
 
 ### Multi-Image Object Clustering: Solving the Double-Count Dilemma
 
@@ -119,7 +115,7 @@ The technical sophistication required for industrial orthomosaics exceeds typica
 
 <!-- TODO: Add integration partnership details after vendor agreements -->
 
-The value of drone-captured intelligence multiplies when seamlessly integrated with existing enterprise systems. Our integration architecture leverages Trifork's deep enterprise expertise, particularly through potential synergies with [Arkyn](https://arkyn.com/), our sister business unit specializing in SAP integrations. Arkyn's comprehensive portfolio of SAP modules provides a natural pathway for drone intelligence to flow into the enterprise ecosystems where critical business decisions are made. This creates powerful cross-selling opportunities—Arkyn's SAP customers gain access to revolutionary inventory visibility, while our drone customers benefit from world-class enterprise integration expertise.
+The value of drone-captured intelligence multiplies when seamlessly integrated with existing enterprise systems. Our integration architecture leverages Trifork/Spantree's deep enterprise expertise, particularly through potential synergies with [Arkyn](https://arkyn.com/), our sister business unit specializing in SAP integrations. Arkyn's comprehensive portfolio of SAP modules provides a natural pathway for drone intelligence to flow into the enterprise ecosystems where critical business decisions are made. This creates powerful cross-selling opportunities—Arkyn's SAP customers gain access to revolutionary inventory visibility, while our drone customers benefit from world-class enterprise integration expertise.
 
 Our integration architecture addresses the complex reality of enterprise IT environments where decades of system evolution have created a patchwork of technologies, protocols, and data formats. Native connectors for major platforms including [SAP Extended Warehouse Management](https://www.sap.com/products/extended-warehouse-management.html), [Oracle WMS](https://www.oracle.com/scm/warehouse-management-cloud/), Microsoft Dynamics, and [Manhattan Associates](https://www.manh.com/products/warehouse-management) provide plug-and-play integration for common scenarios.
 
@@ -167,9 +163,9 @@ This domain specificity creates competitive moats in each vertical market. Deep 
 
 <!-- TODO: Develop service level agreements and support tiers -->
 
-The distinguishing characteristic of Trifork's approach lies not in technology alone but in wrapping that technology with comprehensive professional services. End-to-end service delivery transforms complex drone deployments from risky technology projects to assured business outcomes. Our services encompass every aspect of the journey from initial assessment through ongoing optimization.
+The distinguishing characteristic of Trifork/Spantree's approach lies not in technology alone but in wrapping that technology with comprehensive professional services. End-to-end service delivery transforms complex drone deployments from risky technology projects to assured business outcomes. Our services encompass every aspect of the journey from initial assessment through ongoing optimization.
 
-Site assessment services evaluate facility layouts, regulatory requirements, and integration needs. Regulatory compliance support navigates the complex web of federal, state, and local requirements. Custom AI training develops models specifically optimized for each customer's unique assets and environment. System integration services ensure seamless data flow with existing enterprise systems. Comprehensive training programs develop internal capabilities while maintaining Trifork support. Ongoing optimization services continuously improve models and operations based on accumulated data. This full-service approach addresses the reality that most enterprises want outcomes, not another technology platform to manage.
+Site assessment services evaluate facility layouts, regulatory requirements, and integration needs. Regulatory compliance support navigates the complex web of federal, state, and local requirements. Custom AI training develops models specifically optimized for each customer's unique assets and environment. System integration services ensure seamless data flow with existing enterprise systems. Comprehensive training programs develop internal capabilities while maintaining Trifork/Spantree support. Ongoing optimization services continuously improve models and operations based on accumulated data. This full-service approach addresses the reality that most enterprises want outcomes, not another technology platform to manage.
 
 ## Comprehensive Benefits Analysis
 
@@ -229,7 +225,7 @@ Each phase includes specific success criteria that must be met before proceeding
 
 ### Knowledge Transfer: Building Self-Sufficiency
 
-Unlike vendors who create dependencies to ensure recurring revenue, Trifork's philosophy emphasizes knowledge transfer that builds customer self-sufficiency. Our comprehensive training programs develop internal expertise in system operation, basic troubleshooting, and optimization techniques. Documentation goes beyond user manuals to include architectural descriptions, integration guides, and best practices repositories. Hands-on workshops ensure knowledge translates to practical skills.
+Unlike vendors who create dependencies to ensure recurring revenue, Trifork/Spantree's philosophy emphasizes knowledge transfer that builds customer self-sufficiency. Our comprehensive training programs develop internal expertise in system operation, basic troubleshooting, and optimization techniques. Documentation goes beyond user manuals to include architectural descriptions, integration guides, and best practices repositories. Hands-on workshops ensure knowledge translates to practical skills.
 
 This approach aligns with our belief that the most successful deployments occur when customers deeply understand and own their solutions. While we remain available for advanced support and continuous innovation, daily operations should not depend on vendor involvement. This philosophy builds trust, reduces long-term costs, and enables customers to fully leverage their investments.
 
