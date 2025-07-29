@@ -39,7 +39,7 @@ sidebar_position: 7
 - Custom AI development: $150,000
 - Advanced dashboard and analytics: $75,000
 - Multi-system integration: $80,000
-- Apple Vision Pro visualization: $50,000
+- Spatial computing visualization: $50,000
 - Comprehensive training program: $45,000
 
 ### Ongoing Fees
