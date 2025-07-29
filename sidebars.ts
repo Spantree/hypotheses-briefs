@@ -14,11 +14,35 @@ const sidebars: SidebarsConfig = {
   // Main sidebar for the drone AI documentation
   mainSidebar: [
     'index',
-    'product',
+    {
+      type: 'category',
+      label: 'Product',
+      link: {
+        type: 'doc',
+        id: 'product',
+      },
+      items: [
+        'product-features',
+        'product-benefits',
+        'product-implementation',
+      ],
+    },
     'customer',
     'pricing',
     'distribution',
-    'competition',
+    {
+      type: 'category',
+      label: 'Competition',
+      link: {
+        type: 'doc',
+        id: 'competition',
+      },
+      items: [
+        'competition-direct',
+        'competition-platforms',
+        'competition-alternatives',
+      ],
+    },
     'market-type',
   ],
 }
