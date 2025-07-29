@@ -6,7 +6,7 @@ const darkCodeTheme = themes.github
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Trifork/Spantree Drone AI Solutions',
+  title: 'Spantree/Trifork Drone AI Solutions',
   tagline: 'Autonomous Inventory Intelligence for the Physical World',
   url: 'https://hypotheses-briefs.span.land',
   baseUrl: '/',
@@ -72,39 +72,27 @@ module.exports = {
           },
           {
             type: 'doc',
-            docId: 'product',
+            docId: 'product/index',
             position: 'left',
             label: 'Product',
           },
           {
             type: 'doc',
-            docId: 'customer',
+            docId: 'customer/index',
             position: 'left',
             label: 'Customer',
           },
           {
             type: 'doc',
-            docId: 'pricing',
-            position: 'left',
-            label: 'Pricing',
-          },
-          {
-            type: 'doc',
-            docId: 'distribution',
+            docId: 'distribution/index',
             position: 'left',
             label: 'Distribution',
           },
           {
             type: 'doc',
-            docId: 'competition',
+            docId: 'competition/index',
             position: 'left',
             label: 'Competition',
-          },
-          {
-            type: 'doc',
-            docId: 'market-type',
-            position: 'left',
-            label: 'Market Type',
           },
           {
             href: 'https://github.com/spantree/hypotheses-briefs',
