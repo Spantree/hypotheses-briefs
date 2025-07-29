@@ -1,6 +1,6 @@
 ---
-title: Product
-sidebar_position: 2
+title: Product Hypotheses
+sidebar_position: 1
 ---
 
 # Product Hypotheses
@@ -11,30 +11,24 @@ Product hypotheses in the hypothesis brief framework articulate our assumptions 
 
 Our product vision encompasses three interconnected dimensions that together create a comprehensive solution for enterprise inventory intelligence:
 
-### Core Product Features
-The foundation of our offering lies in autonomous flight operations and our six-layer technology stack. From hardware integration through AI-powered business optimization, we deliver a full-stack solution that transforms raw drone imagery into actionable intelligence. Our platform-agnostic approach ensures flexibility while our deep integration creates seamless value delivery.
+### [Core Product Features](/product/features)
+The foundation of our offering lies in autonomous flight operations and our six-layer technology stack. From hardware integration through AI-powered business optimization, we deliver a full-stack solution that transforms raw drone imagery into actionable intelligence. At the heart of this stack, the Accumulus Platform (layers 2-5) provides intelligent capture, spatial awareness, AI vision, and visualization capabilities. Our platform-agnostic approach ensures flexibility while our deep integration creates seamless value delivery.
 
-[Read more about Product Features →](./product-features)
-
-### Benefits and Value Proposition  
+### [Benefits and Value Proposition](/product/value-proposition)  
 Beyond technical capabilities, our solution delivers transformative benefits across operational, strategic, and risk dimensions. From eliminating dangerous manual counts to enabling new business models through real-time visibility, we create value that compounds over time. Our temporal intelligence system, comprehensive facility mapping, and domain-specific solutions address the unique needs of each industry we serve.
 
-[Read more about Product Benefits →](./product-benefits)
-
-### Implementation Philosophy
+### [Implementation Philosophy](/product/implementation-philosophy)
 Technology alone doesn't create value—successful deployment does. Our professional services wrapper, phased implementation approach, and commitment to knowledge transfer ensure that customers achieve promised outcomes. We've designed our architecture for scalability and future-proofing while maintaining a philosophy of continuous innovation that keeps solutions current and valuable.
-
-[Read more about Product Implementation →](./product-implementation)
 
 ## Key Differentiators
 
 What sets our product apart in the market:
 
-1. **Full-Stack Ownership** - We control every layer from drone operations to business optimization, eliminating integration complexity and finger-pointing between vendors.
+1. **Full-Stack Ownership** - We control every layer from drone operations to business optimization, with the Accumulus Platform providing the core intelligence layers, eliminating integration complexity and finger-pointing between vendors.
 
 2. **Professional Services DNA** - Unlike product companies adding services as an afterthought, we're a services company that builds products, ensuring customer success is our primary focus.
 
-3. **Cross-Domain Excellence** - Our unique combination of drone operations, AI/ML, enterprise integration, and immersive visualization capabilities is rarely found in a single organization.
+3. **Cross-Domain Excellence** - Our unique combination of drone operations, AI/ML, enterprise integration, and immersive visualization capabilities—unified within the Accumulus Platform—is rarely found in a single organization.
 
 4. **Ethical AI Framework** - Built-in privacy protection, workforce augmentation focus, and responsible use guidelines ensure deployments enhance rather than threaten stakeholder interests.
 

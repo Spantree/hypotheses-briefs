@@ -1,6 +1,6 @@
 ---
 title: Product Features
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Product Features
@@ -22,31 +22,33 @@ The sophistication of modern autonomous systems extends far beyond simple waypoi
 
 Our comprehensive technology stack represents an unprecedented integration of capabilities that transforms raw aerial data into actionable business intelligence. This six-layer architecture, refined through real-world deployments, provides the foundation for our full-stack advantage in the market.
 
+**The Accumulus Platform** encompasses layers 2-5 of this architecture, representing our proprietary suite of intelligent capture, spatial awareness, AI vision, and visualization technologies that power our Drone AI Solutions.
+
 ### Layer 1: Hardware Foundation
 
 The base layer encompasses drone platforms, docking stations, and supporting infrastructure. Our platform-agnostic approach allows flexibility in hardware selection while maintaining operational excellence. We've developed deep expertise in autonomous flight operations, maintenance protocols, and hardware optimization that ensures reliable 24/7 operations regardless of the specific platform deployed.
 
 Crucial to this layer is our integration with enterprise mission planning platforms. [DJI FlightHub 2](https://www.dji.com/flighthub-2) provides comprehensive fleet management and real-time operations monitoring for DJI ecosystems. For multi-manufacturer deployments, [FlytBase](https://www.flytbase.com/) offers hardware-agnostic fleet orchestration with advanced automation capabilities. [DroneDeploy](https://www.dronedeploy.com/) excels at mission planning with its intuitive interface and robust data management. These platforms handle the complexity of coordinating multiple drones, managing airspace deconfliction, and ensuring regulatory compliance while our higher layers focus on extracting business value from captured data.
 
-### Layer 2: Intelligent Capture
+### Layer 2: Intelligent Capture (Accumulus Platform)
 
-Beyond simple flight execution, our capture layer embodies sophisticated mission planning intelligence. The system determines optimal flight paths, camera angles, and overlap ratios based on the specific business problem being solved. Dynamic adjustment capabilities respond to environmental conditions, operational priorities, and discovered anomalies in real-time, ensuring comprehensive coverage while minimizing flight time and battery consumption.
+Beyond simple flight execution, this Accumulus Platform layer embodies sophisticated mission planning intelligence. The system determines optimal flight paths, camera angles, and overlap ratios based on the specific business problem being solved. Dynamic adjustment capabilities respond to environmental conditions, operational priorities, and discovered anomalies in real-time, ensuring comprehensive coverage while minimizing flight time and battery consumption.
 
-### Layer 3: Location and Timing Awareness
+### Layer 3: Location and Timing Awareness (Accumulus Platform)
 
-This critical layer provides the spatial and temporal context that transforms individual images into coherent operational intelligence. Location itself becomes rich contextual information—when we identify a railcar at specific coordinates, we automatically associate it with the track it occupies, the work center responsible for that section, adjacent cars that may need to move first, and the broader operational context. Similarly, in automotive logistics, a vehicle's location reveals not just coordinates but its position in the delivery sequence, proximity to the correct carrier, and relationship to quality control stations.
+This critical Accumulus Platform layer provides the spatial and temporal context that transforms individual images into coherent operational intelligence. Location itself becomes rich contextual information—when we identify a railcar at specific coordinates, we automatically associate it with the track it occupies, the work center responsible for that section, adjacent cars that may need to move first, and the broader operational context. Similarly, in automotive logistics, a vehicle's location reveals not just coordinates but its position in the delivery sequence, proximity to the correct carrier, and relationship to quality control stations.
 
 Sub-meter GPS positioning combined with IMU data ensures precise georeferencing of every observation. Temporal tracking maintains the complete history of every asset's location and movement patterns, enabling powerful analytics about flow rates, dwell times, and optimization opportunities. This spatiotemporal foundation is essential regardless of the specific industry or use case.
 
-### Layer 4: Object Awareness Through Vision AI
+### Layer 4: Object Awareness Through Vision AI (Accumulus Platform)
 
-The transformation of pixels into meaningful business objects occurs through our sophisticated AI pipeline. Our approach leverages the latest advances in foundational models—pre-trained on vast datasets—to rapidly bootstrap customer-specific solutions. Instead of training from scratch, we can often start with models like [YOLO](https://docs.ultralytics.com/) or [Detectron2](https://detectron2.readthedocs.io/) that already understand basic object categories, then fine-tune them for specific customer assets. This dramatically reduces the time from deployment to value, often achieving 90%+ accuracy within days rather than months.
+The transformation of pixels into meaningful business objects occurs through this sophisticated Accumulus Platform AI pipeline. Our approach leverages the latest advances in foundational models—pre-trained on vast datasets—to rapidly bootstrap customer-specific solutions. Instead of training from scratch, we can often start with models like [YOLO](https://docs.ultralytics.com/) or [Detectron2](https://detectron2.readthedocs.io/) that already understand basic object categories, then fine-tune them for specific customer assets. This dramatically reduces the time from deployment to value, often achieving 90%+ accuracy within days rather than months.
 
 Custom fine-tuning ensures models understand the nuances of each customer's operations, ultimately achieving accuracy rates exceeding 99% for trained object types. OCR capabilities read identification numbers, labels, and markings from distances exceeding 50 meters. Multi-image correlation prevents double-counting while building comprehensive asset profiles. Real-time inference enables immediate operational decisions while cloud-based retraining continuously improves model performance.
 
-### Layer 5: End User Experience
+### Layer 5: End User Experience (Accumulus Platform)
 
-The visualization and interaction layer transforms complex data into intuitive, actionable insights through sophisticated geospatial interfaces. Our web-based visualizations primarily utilize 2D representations that display both geographic position (where assets physically sit) and logical position (their role in operational workflows). Interactive heatmaps reveal congestion patterns and utilization rates across facilities. Historical animations replay asset movements over time, helping managers understand flow patterns and identify optimization opportunities. Most powerfully, users can drag and drop assets in the interface to plan future states, with the system automatically calculating the moves required to achieve the desired configuration.
+The Accumulus Platform's visualization and interaction layer transforms complex data into intuitive, actionable insights through sophisticated geospatial interfaces. Our web-based visualizations primarily utilize 2D representations that display both geographic position (where assets physically sit) and logical position (their role in operational workflows). Interactive heatmaps reveal congestion patterns and utilization rates across facilities. Historical animations replay asset movements over time, helping managers understand flow patterns and identify optimization opportunities. Most powerfully, users can drag and drop assets in the interface to plan future states, with the system automatically calculating the moves required to achieve the desired configuration.
 
 While 2D visualizations handle most operational needs, our 3D facility models add a compelling dimension for specific use cases. These photorealistic environments let users virtually "fly" through their facilities like Superman, providing spatial understanding impossible from 2D maps. We superimpose rich metadata—asset identifiers, status indicators, maintenance flags—directly onto the 3D visualization, creating an information-rich environment that bridges physical and digital realities.
 
@@ -54,7 +56,7 @@ Our platform will also enable controlled drone interactivity. When the system id
 
 ### Layer 6: AI-Based Business Optimization
 
-The apex layer delivers customer-specific value through advanced analytics and constraint-based optimization algorithms. Our optimization engines treat physical operations like a complex chess game, calculating thousands of possible moves to find optimal paths from current state to desired future state. For example, when given a directive like "move all railcars for Customer XYZ off the yard as quickly as possible," the system considers multiple cascading constraints: which cars must move first to access the target cars, available locomotive resources and crew schedules, downstream track capacity at the destination, and maintenance windows that might conflict.
+The apex layer, which sits on top of the Accumulus Platform, delivers customer-specific value through advanced analytics and constraint-based optimization algorithms. Our optimization engines treat physical operations like a complex chess game, calculating thousands of possible moves to find optimal paths from current state to desired future state. For example, when given a directive like "move all railcars for Customer XYZ off the yard as quickly as possible," the system considers multiple cascading constraints: which cars must move first to access the target cars, available locomotive resources and crew schedules, downstream track capacity at the destination, and maintenance windows that might conflict.
 
 These optimizations extend beyond simple path planning to encompass entire operational ecosystems. Staff scheduling algorithms ensure the right personnel are available when needed. Equipment allocation maximizes utilization while maintaining maintenance schedules. Priority-based scheduling balances competing demands from multiple customers. The system continuously re-optimizes as conditions change, adapting to weather delays, equipment failures, or urgent customer requests. This dynamic optimization capability transforms reactive operations into proactive orchestration, delivering measurable improvements in throughput, cost, and customer satisfaction.
 
@@ -64,13 +66,13 @@ Our full-stack approach represents a fundamental market differentiator that addr
 
 The market reality reveals critical gaps in partial solutions. Drone operators may excel at flight operations but lack the software engineering expertise to transform imagery into business value. Software companies may build sophisticated analytics but fail to understand the operational realities of industrial drone deployment. Hardware vendors focus on selling equipment without ensuring customers achieve promised outcomes. System integrators often lack the deep domain expertise required for successful implementation.
 
-Our unique combination addresses these gaps through unified ownership of the entire value chain. This represents one of our "Three Uniques" that differentiate Trifork/Spantree in the market.
+Our unique combination addresses these gaps through unified ownership of the entire value chain. This represents one of our "Three Uniques" that differentiate Spantree/Trifork in the market.
 
-First, our **full-stack integration** means we own every layer from drone operations to business optimization, eliminating vendor coordination complexity that plagues fragmented solutions. Second, our **professional services DNA** sets us apart—unlike product companies trying to add services, we're a services company that builds products, ensuring customer success through deep engagement rather than transactional relationships. Third, our **cross-domain excellence** combines expertise in hardware operations, AI/ML, enterprise integration, and immersive visualization—a combination rarely found in one organization.
+First, our **full-stack integration** means we own every layer from drone operations to business optimization, with the Accumulus Platform (layers 2-5) providing the core intelligence capabilities that eliminate vendor coordination complexity. Second, our **professional services DNA** sets us apart—unlike product companies trying to add services, we're a services company that builds products, ensuring customer success through deep engagement rather than transactional relationships. Third, our **cross-domain excellence** combines expertise in hardware operations, AI/ML, enterprise integration, and immersive visualization—all unified within the Accumulus Platform architecture.
 
 This unified approach transforms how we solve problems. When challenges arise at any layer, we resolve them without finger-pointing between vendors. Performance optimization occurs holistically rather than locally, ensuring system-wide efficiency. Innovation at one layer immediately benefits the entire stack, accelerating value delivery. Customer support addresses the complete solution rather than forcing clients to coordinate multiple vendors.
 
-This full-stack ownership translates directly to customer success. Deployment timelines compress from months to weeks when one team controls all variables. System reliability improves dramatically without integration seams creating failure points. Total cost of ownership decreases through elimination of vendor coordination overhead. Most importantly, accountability becomes clear—Trifork/Spantree owns the outcome, not just components.
+This full-stack ownership translates directly to customer success. Deployment timelines compress from months to weeks when one team controls all variables. System reliability improves dramatically without integration seams creating failure points. Total cost of ownership decreases through elimination of vendor coordination overhead. Most importantly, accountability becomes clear—Spantree/Trifork owns the outcome, not just components.
 
 ## Advanced Technical Capabilities
 

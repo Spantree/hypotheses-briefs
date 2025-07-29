@@ -1,6 +1,6 @@
 ---
-title: Product Benefits
-sidebar_position: 2
+title: Value Proposition
+sidebar_position: 3
 ---
 
 # Product Benefits and Value Proposition
@@ -77,7 +77,7 @@ Natural disaster preparation and response improves dramatically when accurate pr
 
 <!-- TODO: Add integration partnership details after vendor agreements -->
 
-The value of drone-captured intelligence multiplies when seamlessly integrated with existing enterprise systems. Our integration architecture leverages Trifork/Spantree's deep enterprise expertise, particularly through potential synergies with [Arkyn](https://arkyn.com/), our sister business unit specializing in SAP integrations. Arkyn's comprehensive portfolio of SAP modules provides a natural pathway for drone intelligence to flow into the enterprise ecosystems where critical business decisions are made. This creates powerful cross-selling opportunities—Arkyn's SAP customers gain access to revolutionary inventory visibility, while our drone customers benefit from world-class enterprise integration expertise.
+The value of drone-captured intelligence multiplies when seamlessly integrated with existing enterprise systems. Our integration architecture leverages Spantree/Trifork's deep enterprise expertise, particularly through potential synergies with [Arkyn](https://arkyn.com/), our sister business unit specializing in SAP integrations. Arkyn's comprehensive portfolio of SAP modules provides a natural pathway for drone intelligence to flow into the enterprise ecosystems where critical business decisions are made. This creates powerful cross-selling opportunities—Arkyn's SAP customers gain access to revolutionary inventory visibility, while our drone customers benefit from world-class enterprise integration expertise.
 
 Our integration architecture addresses the complex reality of enterprise IT environments where decades of system evolution have created a patchwork of technologies, protocols, and data formats. Native connectors for major platforms including [SAP Extended Warehouse Management](https://www.sap.com/products/extended-warehouse-management.html), [Oracle WMS](https://www.oracle.com/scm/warehouse-management-cloud/), Microsoft Dynamics, and [Manhattan Associates](https://www.manh.com/products/warehouse-management) provide plug-and-play integration for common scenarios.
 
