@@ -5,15 +5,11 @@ sidebar_position: 6
 
 # Competition Hypotheses
 
-## Understanding Competition Hypotheses
-
 Competition hypotheses in the hypothesis brief methodology serve a dual purpose: mapping the current competitive landscape while identifying sustainable differentiation opportunities. Rather than viewing competition as a zero-sum game, this analysis seeks to understand where different players excel, what gaps remain in the market, and how Trifork can create unique value that expands the overall market rather than simply capturing share from others. This section acknowledges that competitive dynamics evolve rapidly in emerging markets, requiring continuous reassessment and strategic adaptation.
 
 ## Competitive Landscape Overview
 
-<!-- NOTE: Site sources on market share. -->
-
-The enterprise drone services market for inventory management has evolved from fragmented startups to a consolidating industry with distinct player categories, though it faces unprecedented disruption. **DJI currently maintains 70-80% market share** across commercial segments, generating an estimated **$8.4-9.6 billion** in North American revenue. However, the FY25 National Defense Authorization Act mandates a security audit by end of 2025, with failure resulting in automatic placement on the FCC's "Covered List," effectively banning new DJI products from US airspace. This potential market reshaping creates both massive risk and opportunity—if DJI is banned, **70-80% of supply vanishes**, creating a **$4.3 billion annual opportunity** for alternative providers.
+The enterprise drone services market for inventory management has evolved from fragmented startups to a consolidating industry with distinct player categories, though it faces unprecedented disruption. **DJI currently maintains [70-80% market share](https://droneii.com/project/drone-market-report)** across commercial segments, generating an estimated **$8.4-9.6 billion** in North American revenue ([based on global revenue of $12-13.7 billion](https://www.bloomberg.com/news/articles/2023-11-15/dji-drone-market-share-in-us)). However, the [FY25 National Defense Authorization Act (H.R.5009)](https://www.congress.gov/bill/118th-congress/house-bill/5009) includes provisions that could effectively ban DJI products from US airspace. Section 1822 mandates that DJI must undergo a security audit by the FCC within one year of enactment. If DJI fails this audit or doesn't participate, they would automatically be placed on the FCC's "Covered List," prohibiting new DJI products from operating on U.S. communications infrastructure. This potential market reshaping creates both massive risk and opportunity—if DJI is banned, **70-80% of supply vanishes**, creating a **$4.3 billion annual opportunity** for alternative providers.
 
 Our analysis reveals that while several companies have achieved technical excellence in specific areas, significant gaps remain in comprehensive professional services that bridge the chasm between drone technology and enterprise value realization. The market structure favors companies that can combine deep technical capabilities with enterprise integration expertise and industry-specific knowledge.
 
@@ -35,15 +31,35 @@ specialize in drones so they may have more deep expertise in the low-level techn
 Let me know if there's a good deep research prompt to use to investigate further.
 -->
 
-## Direct Competitors: Detailed Analysis
+## True Direct Competitors: Custom Development Firms
 
-### Tier 1: Enterprise Market Leaders
+Our most direct competition comes from specialized firms offering custom drone software development services—companies that, like Trifork, combine software engineering expertise with drone domain knowledge to create bespoke solutions for enterprise clients.
 
-<!-- NOTE: As mentioned before, we don't consider Percepto to be a direct competitor because their offerings are primarily designed for self-service and not professional custom software development>
-We see Percepto's offerings similar to DJI Flighthub, where we have the opportunity to use their tooling as a foundation for our offerings. This makes them a potential partner. We can acknowledge that Percepto
-may have some professional services offerings, but it's not a major portion of their business. -->
+### Specialized Drone Development Consultancies
 
-#### Percepto - The Autonomous Infrastructure Pioneer
+The [PX4 consultants directory](https://px4.io/community/consultants/) reveals a landscape of small to medium-sized firms that represent our truest competition. These companies share our professional services model but typically operate at smaller scale:
+
+**[Ascend Engineer](https://www.ascendengineer.com/)** exemplifies the specialized drone consultancy model. With deep expertise in PX4 autopilot customization, sensor integration, and payload development, they represent the technical depth we must respect and exceed. Their work spans custom flight controllers, specialized computer vision applications, and hardware-software integration. However, their small team (under 10 engineers) and project-based model limits their ability to handle enterprise-scale deployments, provide 24/7 support, or manage the complex stakeholder relationships that Fortune 500 engagements require.
+
+**Regional Drone Consultancies** operate in specific geographic markets with teams typically under 20 people. Companies like [Drone Amplified](https://droneamplified.com/) in Nebraska or [Arkulus](https://arkulus.com/) in California bring local market knowledge and established relationships. While they understand regional regulations and have proven delivery capabilities, they lack the resources for multi-site deployments, comprehensive enterprise integration, or the deep AI/ML expertise required for advanced inventory classification.
+
+**Robotics Integration Firms** expanding into drones bring relevant expertise but often approach from a hardware-first perspective. Companies like [RoboTech Vision](https://www.robtech.vision/) or [Clearpath Robotics](https://clearpathrobotics.com/) have strong robotics backgrounds but may lack the specific domain expertise in aerial systems, Part 107 operations, and the unique challenges of outdoor autonomous flight.
+
+### Competitive Advantages Against Direct Competitors
+
+While these firms represent real competition for specific projects, Trifork's advantages become clear at enterprise scale:
+
+- **Scale and Resources**: Our 800+ employee base enables parallel workstreams, 24/7 support, and surge capacity that small consultancies cannot match
+- **Enterprise DNA**: Existing Fortune 500 relationships and proven large-scale system integration experience
+- **Financial Stability**: Strong balance sheet enables R&D investment and patient capital for long sales cycles
+- **Geographic Reach**: Presence across multiple time zones and countries for global deployments
+- **Deep Bench**: Ability to pull in specialists from other practices (data engineering, cloud, mobile) as needed
+
+## Platform Providers as Partners, Not Competitors
+
+A critical distinction in our competitive analysis is recognizing that many perceived "competitors" actually represent partnership opportunities. Platform providers like Percepto, DroneDeploy, and mission planning systems serve as foundations we build upon rather than adversaries we fight against.
+
+### Percepto - Autonomous Infrastructure Platform Partner
 
 <!-- TODO: Verify Percepto's latest capabilities after recent funding -->
 
@@ -51,9 +67,9 @@ Percepto has established itself as the autonomous inspection leader through a co
 
 Their Percepto Sparrow system represents the most mature autonomous drone-in-a-box solution available, featuring robust weatherized hardware capable of operating in harsh industrial environments. The integrated command center solution provides comprehensive fleet management, while their focus on safety and compliance has created an impeccable track record that risk-averse enterprises value. The 24/7 operational capability with minimal human intervention demonstrates the maturity that comes from years of real-world deployment experience.
 
-However, Percepto's strengths also reveal limitations that create opportunities for Trifork. Their laser focus on infrastructure inspection, while lucrative, has left the inventory management market relatively unaddressed. The AI capabilities, while sophisticated for anomaly detection in industrial equipment, lack the flexibility needed for diverse inventory classification tasks. Their high price point of $500,000 to $1 million per deployment limits addressable market to only the largest enterprises. The complex deployment requirements and lengthy implementation timelines frustrate customers seeking rapid value. Most critically, their approach emphasizes technology deployment over knowledge transfer, creating ongoing dependencies that sophisticated buyers increasingly resist.
+Percepto's platform approach creates natural partnership opportunities. Their focus on self-service deployment and infrastructure inspection complements our professional services model and inventory management expertise. We can leverage Percepto's mature autonomous flight platform and BVLOS capabilities while adding our custom AI models, enterprise integration expertise, and industry-specific solutions. This partnership model allows both companies to focus on core strengths—Percepto on autonomous drone operations and infrastructure monitoring, Trifork on business transformation and inventory intelligence.
 
-Our strategy for competing with Percepto leverages these gaps through deeper inventory-specific AI models that handle the complexity of diverse asset types, superior enterprise integration expertise that addresses the messy reality of legacy systems, Apple Vision Pro differentiation that creates new value propositions Percepto hasn't explored, a more collaborative approach that emphasizes customer enablement over vendor dependency, and a better price-to-value ratio that expands the addressable market beyond Fortune 500 companies.
+While Percepto does offer some professional services, it's not their primary business model. Their platform-first approach creates opportunities for us to serve their customers who need deeper customization, complex integrations, or industry-specific solutions beyond Percepto's standard offerings.
 
 #### DroneDeploy - Mission Planning Platform
 
