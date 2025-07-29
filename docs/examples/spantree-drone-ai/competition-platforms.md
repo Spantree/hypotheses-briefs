@@ -34,77 +34,53 @@ The potential NDAA ban on DJI products presents both risk and opportunity. We pr
 
 ## Percepto - Autonomous Infrastructure Platform Partner
 
-<!-- TODO: Verify Percepto's latest capabilities after recent funding -->
-
-Percepto has established itself as the autonomous inspection leader through a combination of technical innovation, regulatory achievements, and blue-chip customer validation.
+Percepto has established itself as the autonomous inspection leader through a combination of technical innovation, regulatory achievements, and blue-chip customer validation. Their position as the first company to receive nationwide FAA Beyond Visual Line of Sight (BVLOS) waiver demonstrates both technical maturity and regulatory sophistication that we can leverage.
 
 ### Company Profile
 - **Location**: Austin, Texas
 - **Funding**: $120 million including recent [$67 million Series C](https://techcrunch.com/2023/06/12/percepto-flies-high-with-67m-for-its-industrial-drones/)
 - **Lead Investor**: Koch Disruptive Technologies
-- **Key Achievement**: First nationwide FAA Beyond Visual Line of Sight (BVLOS) waiver
+- **Enterprise Focus**: Infrastructure inspection and monitoring
+- **Regulatory Leadership**: First nationwide FAA BVLOS waiver holder
 
-### Proven Enterprise Deployments
-- [Koch Industries](https://percepto.co/koch-fertilizer-case-study/)
-- Siemens Energy
-- Florida Power & Light
-- Major chemical plants
-- Critical infrastructure
+### Strategic Partnership Opportunities
 
-### Technical Capabilities
-Their Percepto Sparrow system represents the most mature autonomous drone-in-a-box solution available:
-- Robust weatherized hardware for harsh industrial environments
-- Integrated command center solution
-- Comprehensive fleet management
-- 24/7 operational capability with minimal human intervention
-- Impeccable safety and compliance track record
+**Platform Foundation**
+Percepto's mature autonomous drone-in-a-box solution provides proven infrastructure for 24/7 operations. Their Percepto Sparrow system has demonstrated reliability in harsh industrial environments across deployments at Koch Industries, Siemens Energy, Florida Power & Light, and major chemical plants. This track record of enterprise success creates immediate credibility when we propose joint solutions. Their robust weatherized hardware, integrated command center, and comprehensive fleet management eliminate many technical risks that concern enterprise buyers.
 
-### Partnership Opportunities
-Percepto's platform approach creates natural partnership opportunities:
+**Complementary Capabilities**
+The natural division between Percepto's infrastructure inspection focus and our inventory management expertise creates powerful synergies without channel conflict. We can leverage their mature autonomous flight platform and BVLOS regulatory expertise while adding our custom AI models for inventory-specific applications. Our deep enterprise integration capabilities complement their platform approach, creating comprehensive solutions neither company could deliver alone. This partnership model allows both companies to expand addressable markets without direct competition.
 
-**Complementary Focus Areas**
-- Percepto: Infrastructure inspection and monitoring
-- Trifork/Spantree: Inventory management and business transformation
+**Initial Engagement Strategy**
+To establish the Percepto partnership, we should begin by identifying mutual customers where Percepto handles infrastructure inspection while we could add inventory management capabilities. Joint solution development for specific enterprise accounts would demonstrate immediate value while building trust. We can participate in their partner ecosystem, gaining access to technical resources and co-marketing opportunities. Reference architectures showing how our solutions complement each other would accelerate joint sales efforts. Their existing enterprise relationships, particularly with Koch Industries and other industrial giants, provide warm introductions to expand our footprint.
 
-**Leveraging Strengths**
-- Use Percepto's mature autonomous flight platform
-- Apply their BVLOS capabilities and regulatory expertise
-- Add our custom AI models for inventory-specific applications
-- Integrate with enterprise systems using our expertise
-- Deliver industry-specific solutions beyond Percepto's standard offerings
+**Market Positioning**
+While Percepto does offer some professional services, their platform-first approach leaves significant gaps we can fill. Enterprise customers often need deeper customization, complex integrations with ERP systems, and industry-specific solutions that go beyond Percepto's standard offerings. By positioning ourselves as the professional services layer that maximizes Percepto platform value, we create a win-win relationship that serves customers better than either company could independently.
 
-While Percepto does offer some professional services, it's not their primary business model. Their platform-first approach creates opportunities for us to serve their customers who need deeper customization, complex integrations, or industry-specific solutions.
+## DroneDeploy - Mission Planning Platform Partner
 
-## DroneDeploy - Mission Planning Platform
-
-DroneDeploy represents the platform approach to drone services, having evolved from a consumer-focused app to an enterprise-grade solution serving Fortune 100 companies.
+DroneDeploy represents the Silicon Valley approach to drone services, having evolved from a consumer-focused app to an enterprise-grade platform serving Fortune 100 companies. Their cloud-first architecture and extensive user base create opportunities for partnership rather than competition.
 
 ### Company Profile
 - **Headquarters**: San Francisco, California
-- **DNA**: Silicon Valley - scalable, cloud-first, API-driven
-- **Track Record**: Nearly 10,000 professional missions since 2020
-- **Compliance**: SOC 2 Type 2 certification
+- **Platform Scale**: Nearly 10,000 professional missions since 2020
+- **Enterprise Credentials**: SOC 2 Type 2 certification
 - **Funding**: [$142 million total](https://shinehere.net/drone-mapping-and-analytics-service-dronedeploy-raises-50m-series-e-bringing-its-total-raised-to-142m-paul-sawers-venturebeat/)
+- **Market Position**: Leading cloud-based drone operations platform
 
-<!-- TODO: Analyze DroneDeploy's latest enterprise wins -->
+### Strategic Partnership Opportunities
 
-### Platform Strengths
-- **Large User Base**: Network effects benefiting all participants
-- **Data on Demand**: Turnkey data collection without drone ownership
-- **Industry Integrations**: Deep connections with Procore, Autodesk BIM 360
-- **Multi-Industry**: Construction to agriculture applications
-- **Cloud Architecture**: Rapid scaling and global deployment
+**Platform Foundation**
+DroneDeploy's mature mission planning and data management platform provides essential infrastructure for drone operations at scale. Their cloud-first architecture enables rapid deployment across global operations while their extensive API ecosystem allows deep integration with our specialized solutions. The platform's proven ability to handle millions of images and terabytes of data eliminates infrastructure concerns that often delay enterprise deployments. Their established integrations with construction platforms like Procore and Autodesk BIM 360 demonstrate the enterprise-grade capabilities we can build upon.
 
-### Integration Opportunities
-DroneDeploy serves as an integration platform rather than a competitor:
-- Leverage their mission planning and monitoring as a foundation
-- Similar to using [DJI FlightHub 2](https://www.dji.com/flighthub-2) or [FlytBase](https://www.flytbase.com/)
-- Their self-service model creates service gaps we can fill
-- Provide implementation support they don't offer
-- Develop custom AI models for specific use cases
-- Create industry-specific solutions beyond their platform
+**Complementary Business Models**
+DroneDeploy's self-service platform model creates natural opportunities for our professional services. While they excel at providing tools for drone operations and basic analytics, many enterprises need help translating these capabilities into business transformation. We fill critical gaps by providing implementation expertise, custom AI model development for specific inventory types, deep enterprise system integration, and industry-specific workflow optimization. This complementary relationship allows DroneDeploy to maintain their scalable platform model while we deliver the high-touch services enterprises require.
 
-Rather than competing, we enhance their platform's value through our professional services layer.
+**Initial Engagement Strategy**
+Building a productive relationship with DroneDeploy requires positioning ourselves as platform enhancers rather than competitors. We should become certified DroneDeploy partners, gaining access to technical resources and joint go-to-market opportunities. Developing showcase integrations that demonstrate how our AI and analytics enhance their platform's value would create immediate credibility. Participating in their App Market with specialized inventory management solutions would provide visibility to their extensive user base. Joint webinars and case studies showing combined success would accelerate market acceptance of our complementary offerings.
+
+**Market Positioning**
+DroneDeploy's strength in horizontal platform capabilities creates our opportunity in vertical specialization. Their mission planning and data collection tools work across industries, but converting drone data into inventory intelligence requires domain expertise they don't provide. By positioning ourselves as the inventory management specialists who maximize DroneDeploy platform value, we create differentiation while respecting their platform leadership. Enterprise customers benefit from best-in-class mission planning combined with our deep inventory optimization expertise.
 
 ## Gather AI - Adjacent Indoor Specialist
 
