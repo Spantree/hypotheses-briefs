@@ -5,7 +5,7 @@ sidebar_position: 5
 
 # Market Type Hypotheses
 
-Market type hypotheses in the hypothesis brief framework determine fundamental go-to-market strategies by categorizing whether we're entering an existing market, creating a new market, or resegmenting an established market. This classification, pioneered by Steve Blank in "The Four Steps to the Epiphany," profoundly impacts everything from marketing messages to funding requirements. For Trifork Drone AI Solutions, correctly identifying our market type shapes expectations for growth rates, competition dynamics, and customer education requirements.
+Market type hypotheses in the hypothesis brief framework determine fundamental go-to-market strategies by categorizing whether we're entering an existing market, creating a new market, or resegmenting an established market. This classification, pioneered by Steve Blank in "The Four Steps to the Epiphany," profoundly impacts everything from marketing messages to funding requirements. For Trifork/Spantree Drone AI Solutions, correctly identifying our market type shapes expectations for growth rates, competition dynamics, and customer education requirements.
 
 ## Market Classification: A Hybrid Opportunity
 
@@ -56,11 +56,11 @@ The pragmatist buyer characteristics align perfectly with our strengths. They se
 
 The fragmented nature of drone regulations creates natural geographic markets with different maturity levels. Our initial focus on progressive regulatory environments in Texas, California, and Ohio allows us to refine our approach with sophisticated buyers. As we establish references and operational excellence, expansion to adjacent states becomes natural and low-risk. Each new geography brings unique industry concentrations—automotive in Michigan, ports in Louisiana, energy in North Dakota—that leverage our growing expertise.
 
-International expansion represents a significant growth vector, though one requiring careful planning. Canada's similar regulatory environment and cultural alignment make it a natural first international market. The European Union's harmonized drone regulations create a large addressable market once we establish local partnerships. Asia-Pacific markets offer massive scale but require significant localization and regulatory navigation. Our strategy emphasizes following existing Trifork relationships internationally rather than speculative expansion.
+International expansion represents a significant growth vector, though one requiring careful planning. Canada's similar regulatory environment and cultural alignment make it a natural first international market. The European Union's harmonized drone regulations create a large addressable market once we establish local partnerships. Asia-Pacific markets offer massive scale but require significant localization and regulatory navigation. Our strategy emphasizes following existing Trifork/Spantree relationships internationally rather than speculative expansion.
 
 ### Secondary Growth Vector: Vertical Market Specialization
 
-While inventory management provides our initial focus, natural expansion into adjacent verticals multiplies our addressable market. Construction site monitoring leverages similar technologies while addressing progress tracking and safety compliance needs. Agricultural applications for crop monitoring and yield estimation represent a massive global opportunity. Energy infrastructure inspection aligns with our capabilities while serving Trifork's existing energy sector relationships. Mining operations combining volumetric analysis with equipment tracking create high-value use cases.
+While inventory management provides our initial focus, natural expansion into adjacent verticals multiplies our addressable market. Construction site monitoring leverages similar technologies while addressing progress tracking and safety compliance needs. Agricultural applications for crop monitoring and yield estimation represent a massive global opportunity. Energy infrastructure inspection aligns with our capabilities while serving Trifork/Spantree's existing energy sector relationships. Mining operations combining volumetric analysis with equipment tracking create high-value use cases.
 
 <!-- TODO: Prioritize vertical expansion opportunities -->
 

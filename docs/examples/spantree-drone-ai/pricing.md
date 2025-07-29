@@ -11,7 +11,7 @@ Pricing hypotheses in the hypothesis brief framework go beyond simple cost-plus 
 
 <!-- TODO: Develop pricing committee governance structure -->
 
-Our pricing strategy reflects Trifork's commitment to delivering exceptional value while building sustainable, profitable relationships. In the enterprise drone services market, we position ourselves as the premium full-service provider, justifying higher prices through superior outcomes, comprehensive services, and our unique collaborative approach that transforms customers into self-sufficient operators rather than dependent clients.
+Our pricing strategy reflects Trifork/Spantree's commitment to delivering exceptional value while building sustainable, profitable relationships. In the enterprise drone services market, we position ourselves as the premium full-service provider, justifying higher prices through superior outcomes, comprehensive services, and our unique collaborative approach that transforms customers into self-sufficient operators rather than dependent clients.
 
 The philosophy acknowledges that in enterprise technology services, the lowest price rarely wins. Instead, sophisticated buyers evaluate total cost of ownership, risk mitigation, and strategic value creation. Our pricing must communicate confidence in our solution's ability to deliver promised outcomes while providing flexibility to address diverse customer situations. The goal is not to be the cheapest option but to be the obvious choice for enterprises serious about transforming their operations through drone technology.
 

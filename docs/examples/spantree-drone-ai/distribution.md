@@ -13,7 +13,7 @@ Distribution hypotheses in the hypothesis brief framework explore how we will re
 
 <!-- TODO: Develop detailed sales playbooks for each vertical -->
 
-Our primary distribution channel leverages Trifork's proven enterprise sales approach, enhanced with drone-specific expertise that addresses the unique aspects of autonomous systems deployment. The enterprise drone market demands a sophisticated sales approach that combines technical credibility with business acumen, regulatory knowledge with operational understanding, and strategic vision with practical implementation experience.
+Our primary distribution channel leverages Trifork/Spantree's proven enterprise sales approach, enhanced with drone-specific expertise that addresses the unique aspects of autonomous systems deployment. The enterprise drone market demands a sophisticated sales approach that combines technical credibility with business acumen, regulatory knowledge with operational understanding, and strategic vision with practical implementation experience.
 
 Building a specialized sales team requires careful orchestration of complementary skills. Technical sales engineers with drone and AI expertise provide the credibility necessary to engage with innovation teams and technical evaluators. Industry veterans from logistics and manufacturing bring the operational context that resonates with business stakeholders who care more about outcomes than technology. Regulatory compliance specialists navigate the complex web of federal, state, and local requirements that can make or break deployments. Customer success managers ensure long-term relationships that transform initial projects into strategic partnerships, recognizing that in enterprise sales, the real work begins after the contract is signed.
 
@@ -21,7 +21,7 @@ Building a specialized sales team requires careful orchestration of complementar
 
 The enterprise sales journey for drone solutions differs markedly from traditional software sales, requiring a carefully orchestrated process that builds confidence while addressing legitimate concerns about new technology adoption.
 
-**The Awareness Stage (Months 1-2)** focuses on education and credibility building. Thought leadership content positions Trifork as a trusted advisor rather than just another vendor. Executive briefings translate drone capabilities into business outcomes that resonate with C-suite priorities. Webinars featuring customer success stories provide social proof that drone solutions deliver real value. SEO-optimized content ensures we're discoverable when enterprises begin their research journey. The key during this stage is establishing ourselves as the safe choice for risk-averse enterprise buyers.
+**The Awareness Stage (Months 1-2)** focuses on education and credibility building. Thought leadership content positions Trifork/Spantree as a trusted advisor rather than just another vendor. Executive briefings translate drone capabilities into business outcomes that resonate with C-suite priorities. Webinars featuring customer success stories provide social proof that drone solutions deliver real value. SEO-optimized content ensures we're discoverable when enterprises begin their research journey. The key during this stage is establishing ourselves as the safe choice for risk-averse enterprise buyers.
 
 <!-- TODO: Create ROI calculator tool for sales team -->
 
@@ -107,7 +107,7 @@ Growing from initial sales to scalable distribution presents predictable challen
 
 While initial focus remains North American, international expansion planning begins early to capture global opportunities.
 
-**Market Selection Criteria** balance opportunity size with operational complexity. Regulatory environments vary dramatically, from progressive frameworks in Switzerland to restrictive approaches in India. Language and cultural factors affect both sales and implementation success. Competitive dynamics differ significantly, with strong local players in many markets. Economic stability and currency considerations impact pricing and profitability. Early international opportunities likely emerge from existing Trifork relationships rather than greenfield expansion.
+**Market Selection Criteria** balance opportunity size with operational complexity. Regulatory environments vary dramatically, from progressive frameworks in Switzerland to restrictive approaches in India. Language and cultural factors affect both sales and implementation success. Competitive dynamics differ significantly, with strong local players in many markets. Economic stability and currency considerations impact pricing and profitability. Early international opportunities likely emerge from existing Trifork/Spantree relationships rather than greenfield expansion.
 
 **Localization Requirements** extend beyond simple translation. Technical documentation must reflect local regulations and operational practices. Sales materials require cultural adaptation to resonate with local buying behaviors. Support models must accommodate time zones and language preferences. Pricing strategies must reflect local market conditions and competitive dynamics. Partnership strategies may differ significantly from North American approaches.
 
@@ -115,7 +115,7 @@ While initial focus remains North American, international expansion planning beg
 
 ### Evolution and Adaptation
 
-The distribution strategy must evolve as market conditions change and our capabilities grow. Initial direct sales focus builds knowledge and relationships that inform all future distribution decisions. Channel partnerships develop naturally from market interactions rather than forced theoretical frameworks. Geographic expansion follows customer pull rather than arbitrary targets. International growth leverages Trifork's global presence while respecting local market dynamics.
+The distribution strategy must evolve as market conditions change and our capabilities grow. Initial direct sales focus builds knowledge and relationships that inform all future distribution decisions. Channel partnerships develop naturally from market interactions rather than forced theoretical frameworks. Geographic expansion follows customer pull rather than arbitrary targets. International growth leverages Trifork/Spantree's global presence while respecting local market dynamics.
 
 <!-- TODO: Quarterly distribution strategy review process -->
 
