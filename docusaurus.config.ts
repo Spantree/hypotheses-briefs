@@ -6,12 +6,12 @@ const darkCodeTheme = themes.github
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Hypotheses Briefs',
-  tagline: 'Charting the Course of Customer Discovery',
-  url: 'https://hypotheses-briefs.span.land',
+  title: 'The Sweat Box',
+  tagline: 'Hypothesis Brief — High-Intensity Fitness for the Chicago Loop',
+  url: 'https://sweat-box.pages.dev',
   baseUrl: '/',
-  projectName: 'hypotheses-briefs',
-  organizationName: 'Spantree',
+  projectName: 'sweat-box',
+  organizationName: 'The Sweat Box',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -55,30 +55,13 @@ module.exports = {
         defaultMode: 'dark',
       },
       navbar: {
-        // title: 'Spantree Docs',
-        title: 'Hypotheses Briefs',
-        logo: {
-          alt: 'Spantree Logo',
-          src: 'img/logos/spantree-long-gray-800.svg',
-          srcDark: 'img/logos/spantree-long-gray-50.svg',
-        },
+        title: 'The Sweat Box',
         items: [
           {
             type: 'doc',
-            docId: 'hypotheses-briefs/index',
+            docId: 'index',
             position: 'left',
-            label: 'About',
-          },
-          {
-            type: 'doc',
-            docId: 'examples/index',
-            position: 'left',
-            label: 'Examples',
-          },
-          {
-            href: 'https://github.com/spantree/hypotheses-briefs',
-            label: 'GitHub',
-            position: 'right',
+            label: 'Overview',
           },
         ],
       },
@@ -116,7 +99,7 @@ module.exports = {
           //   ],
           // },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Spantree, LLC. Built with Docusaurus.`,
+        copyright: `The Sweat Box — Hypothesis Brief`,
       },
       metadata: [
         {
