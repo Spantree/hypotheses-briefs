@@ -14,7 +14,7 @@ The concept centers on **circuit-based, high-intensity training** built around a
 - **Space**: 8,000 square feet of contiguous lower-level or upper-level space (not street-level retail — saves on rent while allowing for the large open floor plan needed)
 - **Building Profile**: Must be in or adjacent to a building with at least **3,000 active tenants** — defined as people who come into the office 2-3+ times per week on average
 - **Corporate Subsidy Model**: Target buildings where employers would **subsidize gym memberships** as an employee benefit — this is the primary distribution channel, not walk-in traffic
-- **Target Demographic Income**: Minimum base income of **$180,000/year** — this ensures the target member can comfortably afford premium pricing ($200-250/mo) without price sensitivity being a barrier
+- **Target Demographic Income**: Minimum base income of **$180,000/year** — this ensures the target member can comfortably afford premium pricing ($300-350/mo) without price sensitivity being a barrier
 - **Location Priority**: Chicago's financial district / Loop — proximity to CME Group, Willis Tower, and the dense cluster of finance, consulting, and law firms along Wacker Drive and LaSalle Street
 
 ## The Opportunity

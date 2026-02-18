@@ -91,20 +91,20 @@ How many of your current personal training clients are in the Loop? How many wou
 
 The Chicago Loop commercial real estate market is in a **historically soft period** — and that's the opportunity.
 
-- **Loop vacancy rate**: Class A at 21.7%, Class B at **30.5%** (source: Bradford Allen, Sep 2025)
-- **Downtown overall vacancy**: Hit **record highs** every quarter since mid-2022 (source: Crain's, Jan 2026)
-- **Net absorption**: Downtown collectively vacated ~370,000 sqft more than occupied in 2025
-- **Average asking rents**: Retail $19-25/sqft, office $27-32/sqft gross (varies by class)
+- **Loop vacancy rate**: Class A at 21.7%, Class B at **30.5%** ([WBEZ, Sep 2025](https://www.wbez.org/business/2025/09/29/more-office-workers-revive-loop-but-office-vacancy-rate-still-high))
+- **Downtown overall vacancy**: Hit **record highs** every quarter since mid-2022 ([Crain's Chicago Business, Jan 2026](https://www.chicagobusiness.com/commercial-real-estate/downtown-office-vacancy-ended-2025-another-record-high))
+- **Net absorption**: Downtown collectively vacated ~370,000 sqft more than occupied in 2025 (CBRE data via Crain's)
+- **Average asking rents**: Retail [$19-25/sqft](https://www.commercialcafe.com/retail/us/il/chicago/), office [$31.89/sqft avg in 2024](https://www.commercialcafe.com/office-market-trends/us/il/chicago/) (varies by class)
 
 ### Landlord Concessions Available
 
 In this market, landlords — especially those with high-vacancy Class B buildings — are making aggressive concessions:
 
 - **5-10 months free rent** standard on 5-10 year lease terms
-- **$45+/sqft tenant improvement (TI) allowances** documented in recent Chicago deals
+- **$45+/sqft tenant improvement (TI) allowances** documented in recent Chicago deals ([Tenant Advisors, 2025](https://tenantadvisors.com/2025-chicago-office-market-the-tenants-guide-to-slashing-lease-costs/))
 - **Turnkey buildout**: Some landlords will fund the entire gym buildout if the lease term is long enough (7-10 years)
 - **Below-market or subsidized rent** for amenity tenants — gyms, restaurants, and daycare make the building more leasable to office tenants
-- One Loop tenant secured **22% rent cut + 5 months free** on renewal; a River North firm got **10 months free on a 7-year lease** ($1.5M+ savings)
+- One Loop tenant secured **22% rent cut + 5 months free** on renewal; a River North firm got **10 months free on a 7-year lease** ($1.5M+ savings) ([Tenant Advisors](https://tenantadvisors.com/2025-chicago-office-market-the-tenants-guide-to-slashing-lease-costs/))
 - Tenant representation brokers cost **nothing to the tenant** — the landlord pays the commission regardless
 
 ### Target Buildings — Large Employer Anchors
@@ -113,9 +113,9 @@ The ideal building has multiple large corporate tenants (800+ employees each) wh
 
 | Building | Floors | Major Tenants | Est. Building Pop. |
 |----------|--------|---------------|-------------------|
-| **Willis Tower** | 108 | United Airlines HQ, Willis Towers Watson, Morgan Stanley, Seyfarth Shaw, ArentFox Schiff | 15,000+ |
-| **Chase Tower** | 60 | JPMorgan Chase (7,200 employees at this location alone), Exelon HQ | 10,000+ |
-| **Aon Center** | 83 | Aon HQ, Kraft Heinz (dual HQ), Blue Cross Blue Shield, JLL HQ | 10,000+ |
+| **[Willis Tower](https://en.wikipedia.org/wiki/Willis_Tower)** | 108 | United Airlines HQ, Willis Towers Watson, Morgan Stanley, Seyfarth Shaw, ArentFox Schiff | 15,000+ |
+| **Chase Tower** | 60 | [JPMorgan Chase (7,200 employees at this location)](https://www.jpmorganchase.com/newsroom/press-releases/2024/chicago-investment), Exelon HQ | 10,000+ |
+| **[Aon Center](https://en.wikipedia.org/wiki/Aon_Center_(Chicago))** | 83 | Aon HQ, Kraft Heinz (dual HQ), Blue Cross Blue Shield, JLL HQ | 10,000+ |
 | **BMO Tower** | 50 | BMO Harris Bank (500,000 sqft lease) | 5,000+ |
 | **110 N Wacker** | 55 | Bank of America (500,000 sqft) | 4,000+ |
 | **The Bell (225 W Randolph)** | 45 | Neal Gerber & Eisenberg, Locke Lord (386K sqft pre-leased, $150M renovation) | 3,000+ |
@@ -137,5 +137,5 @@ Does Sammy have a commercial real estate broker? In this market, a tenant rep is
 
 1. **Landlords need amenity tenants**: A gym in the building helps the landlord lease office floors — Sammy has negotiating leverage
 2. **TI allowances are at peak levels**: Landlords are willing to fund buildouts they never would have in a tight market
-3. **Distressed buildings getting new ownership in 2026**: New owners with fresh capital are expected to offer even more aggressive packages (source: CBRE)
+3. **Distressed buildings getting new ownership in 2026**: New owners with fresh capital are expected to offer even more aggressive packages ([Crain's, Jan 2026](https://www.chicagobusiness.com/commercial-real-estate/downtown-office-vacancy-ended-2025-another-record-high))
 4. **Lock in below-market rates now**: When office demand recovers, these rates won't be available
