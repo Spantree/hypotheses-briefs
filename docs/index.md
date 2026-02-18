@@ -38,5 +38,6 @@ These briefs explore the critical assumptions underlying The Sweat Box concept:
 4. **Pricing**: What price point captures the premium positioning without excluding the target demo?
 5. **Market Type**: Is this a new category or a resegmentation of existing boutique fitness?
 6. **Competition**: Who are the real competitors, and what would make someone switch?
+7. **Real Estate**: What does the Chicago Loop commercial market look like, and where should you lease?
 
 The Sweat Box is still in the concept phase. These briefs are designed to pressure-test the idea before committing to a lease, equipment purchases, or build-out — the most expensive decisions in the fitness business.
