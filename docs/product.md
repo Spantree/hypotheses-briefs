@@ -21,7 +21,7 @@ The Sweat Box is a high-intensity circuit training facility that combines heavy 
 
 6. **Heart Rate Monitoring** — Real-time heart rate tracking (similar to Orangetheory's system) to gamify effort and provide post-workout performance summaries.
 
-7. **Locker Rooms & Recovery** — Premium locker facilities with showers, towel service, and basic recovery amenities (cold plunge or contrast therapy if space permits).
+7. **Locker Rooms & Recovery** — Premium locker facilities with showers, towel service, and basic recovery amenities ([cold plunge or contrast therapy](https://plunge.com/blogs/blog/health-wellness-trends) if space permits).
 
 8. **Corporate Partnerships** — Dedicated corporate membership tiers for nearby firms, with team challenges and group booking options.
 

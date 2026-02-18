@@ -98,7 +98,7 @@ For corporate memberships:
 For the individual member, ROI is measured in:
 - **Health outcomes**: Improved cardiovascular fitness, body composition, stress management
 - **Time savings**: One facility replaces gym + class studio + personal training
-- **Consistency**: Coached, booked sessions drive higher attendance rates than open gym (industry data: boutique members attend 3-4x/week vs. 1.5x/week for traditional gym members)
+- **Consistency**: Coached, booked sessions drive higher attendance rates than open gym ([industry data](https://smarthealthclubs.com/blog/100-gym-membership-retention-statistics/): boutique members attend 3-4x/week vs. 1.5x/week for traditional gym members)
 - **Mental health**: High-intensity exercise is among the most effective interventions for anxiety and depression
 
 For corporate partners:

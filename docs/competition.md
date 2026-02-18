@@ -46,7 +46,7 @@ The fitness market in Chicago's Loop is competitive but fragmented. No single pl
 
 ## Indirect Competitors
 
-- **[Peloton](https://www.onepeloton.com/) / home gym setups**: Post-COVID competitors for the convenience crowd. The Sweat Box wins on community and equipment variety, but loses on commute time
+- **[Peloton](https://www.onepeloton.com/) / home gym setups**: [Post-COVID](https://athletechnews.com/in-person-fitness-rebounds-post-pandemic-ihrsa-global-report/) competitors for the convenience crowd. The Sweat Box wins on community and equipment variety, but loses on commute time
 - **Running clubs (November Project, etc.)**: Free, community-driven, outdoor. Different use case but captures some of the same "tribe" energy
 - **Personal training**: Sammy himself is currently in this category. The Sweat Box scales the 1:1 relationship to 1:many
 

@@ -47,8 +47,8 @@ The Sweat Box is the only concept that checks every box. That's the positioning.
 
 ### Chicago Loop Addressable Market
 
-- **Loop daytime population**: ~800,000 (workers + residents + visitors)
-- **Fitness participation rate**: ~25% of adults exercise regularly
+- **Loop daytime population**: [~800,000](https://en.wikipedia.org/wiki/Chicago_Loop) (workers + residents + visitors)
+- **Fitness participation rate**: [~25% of adults exercise regularly](https://www.healthandfitness.org/how-77-million-fitness-members-work-out-new-hfa-data-reveals-shifting-equipment-training-and-membership-trends/)
 - **Premium fitness willingness**: ~30% of exercisers pay $150+/month
 - **Within walking distance**: ~200,000 workers within 10-block radius of a Loop location
 - **Target addressable market**: 200,000 × 25% × 30% = **~15,000 potential premium fitness consumers**

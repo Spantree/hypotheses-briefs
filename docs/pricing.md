@@ -89,7 +89,7 @@ Assuming 8,000 sq ft facility in the Loop:
 | **Annual gross revenue** | **$876,000** | **$1,458,000** | **$2,124,000** |
 
 :::caution Critical Assumption
-These projections assume 80% member retention after month 3. Industry average for boutique fitness is 70-75%. The Sweat Box's community-driven model should outperform average, but this needs validation.
+These projections assume 80% member retention after month 3. [Industry average for boutique fitness is 70-75%](https://smarthealthclubs.com/blog/100-gym-membership-retention-statistics/). The Sweat Box's community-driven model should outperform average, but this needs validation.
 :::
 
 ## Key Questions

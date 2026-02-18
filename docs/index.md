@@ -7,7 +7,7 @@ sidebar_position: 1
 
 The Sweat Box is a high-intensity fitness center concept targeting the Chicago metro area — specifically the Loop and surrounding financial district. Founded by Sammy, a personal trainer with deep experience coaching high-performers, The Sweat Box aims to fill a gap between boutique fitness studios (Orangetheory, Barry's) and traditional boxing/combat gyms.
 
-The concept centers on **circuit-based, high-intensity training** built around a substantial equipment footprint: 20 treadmills, 20 ellipticals, 20 Assault/Aerodyne bikes, 10 prowlers, 10 benches, 30 heavy bags, plus dedicated space for skills & drills and stair training. Think of it as a training facility designed for people who want to work — not pose. The closest comparable in the Chicago market is the gym at the Board of Trade (CME Group), which caters to a similar high-intensity, time-constrained professional demographic.
+The concept centers on **circuit-based, high-intensity training** built around a substantial equipment footprint: 20 treadmills, 20 ellipticals, 20 Assault/Aerodyne bikes, 10 prowlers, 10 benches, 30 heavy bags, plus dedicated space for skills & drills and stair training. Think of it as a training facility designed for people who want to work — not pose. The closest comparable in the Chicago market is the [gym at the Board of Trade (CME Group)](https://yourstudio.com/cme-center), which caters to a similar high-intensity, time-constrained professional demographic.
 
 ## Facility Requirements
 
