@@ -44,6 +44,14 @@ The fitness market in Chicago's Loop is competitive but fragmented. No single pl
 - **Weaknesses**: No coaching structure for most members (classes are available but the gym floor is undirected), luxury positioning attracts more "look good" than "work hard" members
 - **Why members would switch**: "I'm paying $300/month and just doing the same thing every day."
 
+### [East Bank Club](https://eastbankclub.com/) (River North — 500 N Kingsbury)
+- **Format**: Full-service mega-club — 350,000+ sqft covering two city blocks. Boxing studio with ring, 7,200 sqft turf area for functional/HIIT training, 70-bike cycle studio, quarter-mile indoor track, six tennis courts, four pools, basketball courts, indoor golf range, 220+ group classes/week
+- **Price**: $295/month individual ($750 initiation), $495/month partners ($1,000 initiation). Corporate rates available for 5+ members. [Membership details →](https://eastbankclub.com/become-member)
+- **Strengths**: Unmatched facility breadth — literally everything under one roof. Prestigious brand, networking value (Chicago power players are members), family-friendly, dining on-site, outdoor pools. The "if you could only have one membership" choice for affluent Chicagoans
+- **Weaknesses**: Generalist by design — jack of all trades, master of none. Boxing studio exists but isn't the focus. HIIT/circuit classes are available but buried in 220+ class offerings. Atmosphere skews social/networking over pure athletic performance. River North location is a 15-20 min walk or cab from the financial district
+- **Why members would switch**: "I'm paying $295/month and using 5% of the facility. I just want to train hard and leave." Also: "The vibe is more country club than fight club."
+- **Why members would NOT switch**: East Bank Club is a lifestyle membership, not just a gym. The pools, tennis, dining, kids programs, and social scene create lock-in that a pure fitness facility can't match. Sammy isn't competing for the East Bank Club member who uses the pool and tennis — he's competing for the one who only uses the weight room and boxing studio
+
 ## Indirect Competitors
 
 - **[Peloton](https://www.onepeloton.com/) / home gym setups**: [Post-COVID](https://athletechnews.com/in-person-fitness-rebounds-post-pandemic-ihrsa-global-report/) competitors for the convenience crowd. The Sweat Box wins on community and equipment variety, but loses on commute time

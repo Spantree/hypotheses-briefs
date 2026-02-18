@@ -20,6 +20,7 @@ Pricing a premium fitness facility in the Chicago Loop requires balancing aspira
 | [Equinox](https://www.equinox.com/) | $260-$350 | Full access | All-access pass higher |
 | [Life Time](https://www.lifetime.life/) | $159-$249 | Full access | Diamond tier for premium amenities |
 | [Title Boxing](https://titleboxingclub.com/) | $99-$149 | Unlimited classes | Lower price point, narrower offering |
+| [East Bank Club](https://eastbankclub.com/) | $295 | Full access + $750 initiation | 350K sqft mega-club, River North |
 | [HYROX](https://hyrox.com/) training gyms | $179-$229 | Emerging category | Race-focused training |
 
 ### Positioning
