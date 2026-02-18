@@ -66,7 +66,7 @@ This is a highly achievable market share if the product delivers.
 
 ## Entering a New Market — HYROX Angle
 
-There's an emerging fitness competition format called **HYROX** — a standardized indoor fitness race combining running with functional exercises (sled push, sled pull, rowing, wall balls, etc.). It's growing rapidly in Europe and entering the US market.
+There's an emerging fitness competition format called **[HYROX](https://hyrox.com/)** — a standardized indoor fitness race combining running with functional exercises (sled push, sled pull, rowing, wall balls, etc.). It's [growing rapidly in Europe and entering the US market](https://en.wikipedia.org/wiki/Hyrox).
 
 The Sweat Box's equipment mix (prowlers, bikes, rowers, bags) maps closely to HYROX training requirements. Positioning as a **HYROX training facility** could tap into a fast-growing competitive fitness community and provide:
 

@@ -70,7 +70,7 @@ Based on the target demographic:
 3. **Walk-by traffic** — Street-level location with visible activity
 4. **Google search** — "best gym in the Loop Chicago", "circuit training Chicago"
 5. **Corporate wellness programs** — HR newsletters and benefits portals
-6. **ClassPass / Mindbody** — Discovery platform for trial classes (but watch the economics — ClassPass pays $5-12/visit)
+6. **[ClassPass](https://classpass.com/) / [Mindbody](https://www.mindbodyonline.com/)** — Discovery platform for trial classes (but watch the economics — ClassPass pays $5-12/visit)
 
 ## Influencers
 

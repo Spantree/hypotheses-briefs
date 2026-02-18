@@ -9,35 +9,35 @@ The fitness market in Chicago's Loop is competitive but fragmented. No single pl
 
 ## Direct Competitors
 
-### Orangetheory Fitness (Multiple Chicago Locations)
-- **Format**: Treadmill + rower + floor blocks, heart rate zone training
+### [Orangetheory Fitness](https://www.orangetheory.com/) (Multiple Chicago Locations)
+- **Format**: Treadmill + rower + floor blocks, [heart rate zone training](https://en.wikipedia.org/wiki/Heart_rate_training)
 - **Price**: $169-199/month unlimited
 - **Strengths**: Strong brand, proven model, heart rate gamification, multiple locations
 - **Weaknesses**: Limited equipment variety (treadmill-centric), classes can feel repetitive after 6+ months, not intense enough for advanced athletes
 - **Why members would switch**: "I've plateaued. I need more variety and more challenge."
 
-### Barry's Bootcamp (River North)
+### [Barry's Bootcamp](https://www.barrys.com/studio/chicago-river-north/) (River North)
 - **Format**: Treadmill sprints + strength floor
 - **Price**: $36-40/class, ~$250 unlimited
 - **Strengths**: Celebrity culture, high energy, premium brand
 - **Weaknesses**: Expensive per-class, still treadmill-dependent, more "scene" than substance for serious athletes
 - **Why members would switch**: "I want to actually train, not perform."
 
-### Title Boxing Club (Multiple)
+### [Title Boxing Club](https://titleboxingclub.com/) (Multiple)
 - **Format**: Boxing/kickboxing classes with bag work
 - **Price**: $99-149/month
 - **Strengths**: Accessible combat conditioning, lower price point
 - **Weaknesses**: Limited to bags — no cardio machines, no strength equipment, no circuit variety
 - **Why members would switch**: "I love the bags but I need a complete workout."
 
-### CrossFit Boxes (Multiple — e.g., CrossFit Ignite, CrossFit Lakewood)
+### [CrossFit](https://www.crossfit.com/) Boxes (Multiple — e.g., CrossFit Ignite, CrossFit Lakewood)
 - **Format**: WODs with Olympic lifts, gymnastics, metabolic conditioning
 - **Price**: $200-275/month
 - **Strengths**: Intense community, proven programming methodology, competitive element
 - **Weaknesses**: Injury reputation (especially shoulders, backs), intimidation factor, polarizing culture
 - **Why members would switch**: "I got hurt. But I miss the intensity."
 
-### Equinox (Gold Coast, coming to Loop)
+### [Equinox](https://www.equinox.com/) (Gold Coast, coming to Loop)
 - **Format**: Full-service luxury gym with group fitness
 - **Price**: $260-350/month
 - **Strengths**: Premium everything — facilities, equipment, amenities, brand
@@ -46,7 +46,7 @@ The fitness market in Chicago's Loop is competitive but fragmented. No single pl
 
 ## Indirect Competitors
 
-- **Peloton / home gym setups**: Post-COVID competitors for the convenience crowd. The Sweat Box wins on community and equipment variety, but loses on commute time
+- **[Peloton](https://www.onepeloton.com/) / home gym setups**: Post-COVID competitors for the convenience crowd. The Sweat Box wins on community and equipment variety, but loses on commute time
 - **Running clubs (November Project, etc.)**: Free, community-driven, outdoor. Different use case but captures some of the same "tribe" energy
 - **Personal training**: Sammy himself is currently in this category. The Sweat Box scales the 1:1 relationship to 1:many
 

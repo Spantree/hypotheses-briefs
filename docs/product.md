@@ -47,7 +47,7 @@ For launch, The Sweat Box needs at minimum:
 1. Core circuit equipment installed and operational (heavy bags, bikes, treadmills, prowlers)
 2. At least 3 certified trainers on staff
 3. 6-8 class slots per day (5:30 AM, 6:30 AM, 7:30 AM, 12:00 PM, 5:00 PM, 6:00 PM, 7:00 PM, 8:00 PM)
-4. Basic booking system (could be a third-party platform like Mindbody initially)
+4. Basic booking system (could be a third-party platform like [Mindbody](https://www.mindbodyonline.com/) initially)
 5. Locker rooms with showers
 6. Heart rate monitoring system
 
@@ -96,4 +96,4 @@ For a prospective member switching to The Sweat Box:
 - **Trainer talent market**: Chicago has a deep pool of certified trainers, but the best ones are already employed. Competitive compensation required
 - **Economic conditions**: A recession could impact discretionary fitness spending, particularly at premium price points
 - **Remote work trends**: If Loop office occupancy continues to recover, the addressable market grows. If it stalls, the before/after work crowd shrinks
-- **Boutique fitness consolidation**: Xponential Fitness (parent of CycleBar, StretchLab, etc.) is acquiring aggressively — a well-funded competitor could enter the space
+- **Boutique fitness consolidation**: [Xponential Fitness](https://xponential.com/) (parent of CycleBar, StretchLab, etc.) is acquiring aggressively — a well-funded competitor could enter the space

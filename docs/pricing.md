@@ -13,14 +13,14 @@ Pricing a premium fitness facility in the Chicago Loop requires balancing aspira
 
 | Facility | Monthly Rate | Model | Notes |
 |----------|-------------|-------|-------|
-| Orangetheory | $169-$199 | Unlimited classes | 4-8 classes/mo tiers available |
-| Barry's Bootcamp | $180-$250 | Class packs + unlimited | Per-class: $36-40 |
-| F45 Training | $149-$199 | Unlimited | Two-week free trial standard |
-| CrossFit boxes | $200-$275 | Unlimited | Wide variance by location |
-| Equinox | $260-$350 | Full access | All-access pass higher |
-| Lifetime Fitness | $159-$249 | Full access | Diamond tier for premium amenities |
-| Title Boxing | $99-$149 | Unlimited classes | Lower price point, narrower offering |
-| HYROX training gyms | $179-$229 | Emerging category | Race-focused training |
+| [Orangetheory](https://www.orangetheory.com/) | $169-$199 | Unlimited classes | 4-8 classes/mo tiers available |
+| [Barry's Bootcamp](https://www.barrys.com/) | $180-$250 | Class packs + unlimited | Per-class: $36-40 |
+| [F45 Training](https://f45training.com/) | $149-$199 | Unlimited | Two-week free trial standard |
+| [CrossFit](https://www.crossfit.com/) boxes | $200-$275 | Unlimited | Wide variance by location |
+| [Equinox](https://www.equinox.com/) | $260-$350 | Full access | All-access pass higher |
+| [Life Time](https://www.lifetime.life/) | $159-$249 | Full access | Diamond tier for premium amenities |
+| [Title Boxing](https://titleboxingclub.com/) | $99-$149 | Unlimited classes | Lower price point, narrower offering |
+| [HYROX](https://hyrox.com/) training gyms | $179-$229 | Emerging category | Race-focused training |
 
 ### Positioning
 
@@ -56,9 +56,9 @@ The Sweat Box should price **above Orangetheory and at or above CrossFit** — i
 
 ## Pricing Strategy
 
-**Premium penetration** — launch at a price point that's clearly premium but use founding member pricing to drive early adoption. The founding member rate ($149) is deliberately below the competitive set to create urgency and word-of-mouth. Once the gym hits 200 founding members or opens (whichever comes first), the window closes permanently.
+**Premium penetration** — launch at a price point that's clearly premium but use founding member pricing to drive early adoption. The founding member rate ($249) is deliberately below the standard rate to create urgency and word-of-mouth. Once the gym hits 200 founding members or opens (whichever comes first), the window closes permanently.
 
-The $229 standard rate is justified by:
+The $329 standard rate is justified by:
 1. Equipment depth no competitor matches (30 heavy bags + 60 cardio machines + prowlers)
 2. Coached sessions (not just open gym with music)
 3. Heart rate performance tracking
@@ -95,6 +95,6 @@ These projections assume 80% member retention after month 3. Industry average fo
 ## Key Questions
 
 1. What's the minimum member count to break even? (Requires rent + operating cost estimates)
-2. Would Sammy consider a lower founding member price ($99-$129) to drive faster adoption?
+2. Would Sammy consider a lower founding member price ($179-$199) to drive faster adoption?
 3. Is the corporate market real? Who are the first 5 companies to target?
 4. Should there be an "off-peak only" membership tier to fill midday classes?

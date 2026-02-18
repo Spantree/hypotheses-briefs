@@ -64,7 +64,7 @@ In most cases, the member is both the decision-maker and the user. However, for 
 
 ### Before The Sweat Box
 
-**6:15 AM** — Alex, a commodities trader at CME, wakes up. Debates going to Equinox (nice but no structure, will just do treadmill and leave). Checks Orangetheory app — all morning classes full. Ends up doing a half-hearted solo workout. Gets to desk by 7:30, slightly annoyed.
+**6:15 AM** — Alex, a commodities trader at [CME Group](https://www.cmegroup.com/), wakes up. Debates going to Equinox (nice but no structure, will just do treadmill and leave). Checks Orangetheory app — all morning classes full. Ends up doing a half-hearted solo workout. Gets to desk by 7:30, slightly annoyed.
 
 **12:00 PM** — Lunch break. Too short for a real workout. Eats at desk.
 
